@@ -1,0 +1,16 @@
+,ANPEP,C1QA,CDHR2,CEACAM1,CLEC6A,CXCL8,DBI,FABP5,FAM3B,MME,NUDT2,PLAUR,SIGLEC7,THBD,TNFRSF12A,Age,BMI
+0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,3,3
+1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,3,3
+2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,3,3
+3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,3,3
+4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,3,3
+5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,3,3
+6,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,3,3
+7,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,3,3
+8,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,3,3
+9,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,3,3
+10,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,3,3
+11,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,3,3
+12,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,3,3
+13,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,3,3
+14,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,3,3

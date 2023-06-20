@@ -1,0 +1,10 @@
+,ADGRG2,CCL18,CDSN,CLC,CST5,LY96,PADI2,TIMP3,TNNI3,Age,BMI
+0,False,False,False,False,False,False,True,False,False,5,3
+1,False,False,False,True,False,False,False,False,False,5,3
+2,True,False,False,False,False,False,False,False,False,5,3
+3,False,True,False,False,False,False,False,False,False,5,3
+4,False,False,True,False,False,False,False,False,False,5,3
+5,False,False,False,False,False,True,False,False,False,5,3
+6,False,False,False,False,False,False,False,True,False,5,3
+7,False,False,False,False,False,False,False,False,True,5,3
+8,False,False,False,False,True,False,False,False,False,5,3
