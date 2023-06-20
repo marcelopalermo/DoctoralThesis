@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","PADI2","OID20467","Q9Y2J8","Inflammation","Timepoint",3,11.5313221361403,3.84377404538012,17.952105885684,3.16586754990968e-05,0.0466015703346705,"Significant","Tissue enhanced: brain, skeletal muscle, tongue","Protein-arginine deiminase type-2","Tissue_enhanced_brain_skeletal_muscle_tongue"

@@ -1,0 +1,3 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","CD48","OID20692","P09326","Inflammation","Timepoint",2,0.603143608333333,0.301571804166667,175.155523626137,2.34910935356291e-05,0.0345788896844461,"Significant","Group enriched: bone marrow, lymphoid tissue","CD48 antigen","Group_enriched_bone_marrow_lymphoid_tissue"
+"2","XCL1","OID21398","P47992","Oncology","Timepoint",2,5.32773501041667,2.66386750520833,113.767701414757,6.77957243229638e-05,0.0498976531017014,"Significant","Tissue enhanced: lymphoid tissue","Lymphotactin","Tissue_enhanced_lymphoid_tissue"

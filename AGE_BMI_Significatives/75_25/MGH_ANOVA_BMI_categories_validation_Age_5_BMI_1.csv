@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","SERPINA11","OID20281","Q86U17","Cardiometabolic","Timepoint",2,2.71302102964286,1.35651051482143,471.403124458082,1.78483367549812e-05,0.0262727517033324,"Significant","Tissue enriched: liver","Serpin A11","Tissue_enriched_liver"

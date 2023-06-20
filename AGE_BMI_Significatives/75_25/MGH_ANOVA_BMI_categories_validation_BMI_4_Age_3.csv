@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","PI3","OID20326","P19957","Cardiometabolic","Timepoint",2,14.7343954076191,7.36719770380953,420.185174453228,2.24416112230214e-05,0.0330340517202875,"Significant","Group enriched: esophagus, lymphoid tissue, vagina","Elafin","Group_enriched_esophagus_lymphoid_tissue_vagina"

@@ -1,0 +1,4 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","PTN","OID20083","P21246","Cardiometabolic","Timepoint",2,118.923182584821,59.4615912924107,23.0534826991781,8.29274669775992e-06,0.0088355917438611,"Significant","Tissue enhanced: brain, parathyroid gland","Pleiotrophin","Tissue_enhanced_brain_parathyroid_gland"
+"2","SFRP1","OID20984","Q8N474","Neurology","Timepoint",2,161.252640561039,80.6263202805195,20.5019869178306,1.80073201301517e-05,0.0088355917438611,"Significant","Tissue enhanced: breast, choroid plexus","Secreted frizzled-related protein 1","Tissue_enhanced_breast_choroid_plexus"
+"3","XCL1","OID21398","P47992","Oncology","Timepoint",2,9.30845060961038,4.65422530480519,21.6550066341197,1.25851875965931e-05,0.0088355917438611,"Significant","Tissue enhanced: lymphoid tissue","Lymphotactin","Tissue_enhanced_lymphoid_tissue"

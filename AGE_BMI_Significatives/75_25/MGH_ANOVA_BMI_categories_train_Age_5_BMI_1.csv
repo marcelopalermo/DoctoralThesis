@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","PTN","OID20083","P21246","Cardiometabolic","Timepoint",3,135.744841621333,45.2482805404444,13.3599173131715,2.48273363774239e-05,0.0365458391475679,"Significant","Tissue enhanced: brain, parathyroid gland","Pleiotrophin","Tissue_enhanced_brain_parathyroid_gland"
