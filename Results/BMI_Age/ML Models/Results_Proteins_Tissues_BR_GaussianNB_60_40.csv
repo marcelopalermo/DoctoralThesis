@@ -1,0 +1,4 @@
+"","Tissue","Total","Organ_Count","Tissue_Count","Split","Model"
+"1","Low tissue specificity",1,1,"1-Low tissue specificity","60%-40%","BR_GaussianNB"
+"2","Tissue enhanced: esophagus, liver, skin 1",1,2,"2-Tissue enhanced: esophagus, liver, skin 1","60%-40%","BR_GaussianNB"
+"3","Tissue enriched: salivary gland",1,3,"3-Tissue enriched: salivary gland","60%-40%","BR_GaussianNB"
