@@ -1,0 +1,12 @@
+,ANGPTL1,BCL2L11,CD83,IFNL1,MIA,MMP13,PADI2,PDCD1,TNFRSF11A,TNFRSF4,VTCN1,Age,BMI
+0,False,False,False,False,False,False,False,False,False,False,True,2,3
+1,False,False,False,True,False,False,False,False,False,False,False,2,3
+2,False,False,False,False,False,False,True,False,False,False,False,2,3
+3,True,False,False,False,False,False,False,False,False,False,False,2,3
+4,False,True,False,False,False,False,False,False,False,False,False,2,3
+5,False,False,False,False,False,False,False,True,False,False,False,2,3
+6,False,False,False,False,False,True,False,False,False,False,False,2,3
+7,False,False,False,False,False,False,False,False,True,False,False,2,3
+8,False,False,False,False,False,False,False,False,False,True,False,2,3
+9,False,False,True,False,False,False,False,False,False,False,False,2,3
+10,False,False,False,False,True,False,False,False,False,False,False,2,3

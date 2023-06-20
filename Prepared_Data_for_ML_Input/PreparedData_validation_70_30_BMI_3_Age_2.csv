@@ -1,0 +1,13 @@
+,ART3,ATP6V1D,CDSN,DSG3,IGFBP6,KLK11,LY6D,NPPC,PADI2,PDCD1,TNFRSF4,VTCN1,Age,BMI
+0,False,False,False,True,False,False,False,False,False,False,False,False,3,2
+1,False,False,False,False,False,False,False,False,True,False,False,False,3,2
+2,False,False,False,False,False,False,False,False,False,False,False,True,3,2
+3,False,False,False,False,False,True,False,False,False,False,False,False,3,2
+4,True,False,False,False,False,False,False,False,False,False,False,False,3,2
+5,False,False,False,False,True,False,False,False,False,False,False,False,3,2
+6,False,False,False,False,False,False,True,False,False,False,False,False,3,2
+7,False,False,False,False,False,False,False,True,False,False,False,False,3,2
+8,False,False,False,False,False,False,False,False,False,True,False,False,3,2
+9,False,True,False,False,False,False,False,False,False,False,False,False,3,2
+10,False,False,True,False,False,False,False,False,False,False,False,False,3,2
+11,False,False,False,False,False,False,False,False,False,False,True,False,3,2
