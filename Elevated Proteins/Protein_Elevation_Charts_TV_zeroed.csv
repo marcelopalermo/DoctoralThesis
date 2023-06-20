@@ -1,0 +1,29 @@
+Age,BMI,Significant Protein elevation,Mode20-34yrs,0-underweight,0,Train
+20-34yrs,0-underweight,0,Validation20-34yrs,1-normal,0,Train
+20-34yrs,1-normal,0,Validation20-34yrs,2-overweight,0,Train
+20-34yrs,2-overweight,0,Validation20-34yrs,3-obese,0,Train
+20-34yrs,3-obese,0,Validation20-34yrs,4-severely obese,0,Train
+20-34yrs,4-severely obese,0,Validation
+35-49yrs,0-underweight,0,Train
+35-49yrs,0-underweight,0,Validation35-49yrs,1-normal,0,Train35-49yrs,1-normal,0,Validation35-49yrs,2-overweight,0,Train
+35-49yrs,2-overweight,0,Validation35-49yrs,3-obese,0,Train
+35-49yrs,3-obese,0,Validation35-49yrs,4-severely obese,0,Train
+35-49yrs,4-severely obese,0,Validation
+50-64yrs,0-underweight,0,Train
+50-64yrs,0-underweight,0,Validation50-64yrs,1-normal,0,Train
+50-64yrs,1-normal,0,Validation50-64yrs,2-overweight,0,Train
+50-64yrs,2-overweight,0,Validation50-64yrs,3-obese,0,Train
+50-64yrs,3-obese,0,Validation50-64yrs,4-severely obese,0,Train
+50-64yrs,4-severely obese,0,Validation
+65-79yrs,0-underweight,0,Train
+65-79yrs,0-underweight,0,Validation65-79yrs,1-normal,0,Train
+65-79yrs,1-normal,0,Validation65-79yrs,2-overweight,0,Train
+65-79yrs,2-overweight,0,Validation65-79yrs,3-obese,0,Train
+65-79yrs,3-obese,0,Validation65-79yrs,4-severely obese,0,Train
+65-79yrs,4-severely obese,0,Validation
+80+yrs,0-underweight,0,Train
+80+yrs,0-underweight,0,Validation80+yrs,1-normal,0,Train
+80+yrs,1-normal,0,Validation80+yrs,2-overweight,0,Train
+80+yrs,2-overweight,0,Validation80+yrs,3-obese,0,Train
+80+yrs,3-obese,0,Validation80+yrs,4-severely obese,0,Train
+80+yrs,4-severely obese,0,Validation

@@ -1,0 +1,21 @@
+Age;BMI;Train;Validation
+20-34yrs;normal;0;0
+20-34yrs;overweight;0;0
+20-34yrs;obese;0;0
+20-34yrs;severely obese;11;0
+35-49yrs;normal;1;0
+35-49yrs;overweight;10;0
+35-49yrs;obese;264;5
+35-49yrs;severely obese;279;0
+50-64yrs;normal;4;0
+50-64yrs;overweight;413;0
+50-64yrs;obese;92;0
+50-64yrs;severely obese;0;0
+65-79yrs;normal;0;5
+65-79yrs;overweight;350;415
+65-79yrs;obese;0;0
+65-79yrs;severely obese;0;0
+80+yrs;normal;0;0
+80+yrs;overweight;0;0
+80+yrs;obese;0;0
+80+yrs;severely obese;0;0

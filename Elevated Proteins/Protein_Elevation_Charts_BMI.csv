@@ -1,0 +1,12 @@
+BMI,Age,Significant Protein elevationnormal,20-34yrs,0normal,25-49yrs,0
+normal,50-64yrs,0normal,65-80yrs,0
+normal,80+yrs,0
+overweight,20-34yrs,0overweight,25-49yrs,0
+overweight,50-64yrs,88overweight,65-80yrs,8
+overweight,80+yrs,0
+obese,20-34yrs,0obese,25-49yrs,41
+obese,50-64yrs,281obese,65-80yrs,754
+obese,80+yrs,0
+severily obese,20-34yrs,5severily obese,25-49yrs,438
+severily obese,50-64yrs,288severily obese,65-80yrs,0
+severily obese,80+yrs,0
