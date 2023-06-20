@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","XCL1","OID21398","P47992","Oncology","Timepoint",2,5.49754160816667,2.74877080408333,74.2319749432145,1.93704271711289e-05,0.0285132687959018,"Significant","Tissue enhanced: lymphoid tissue","Lymphotactin","Tissue_enhanced_lymphoid_tissue"

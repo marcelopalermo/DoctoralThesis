@@ -1,0 +1,4 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","BTN2A1","OID20713","Q7KYR7","Inflammation","Timepoint",3,6.3656783315,2.12189277716667,105.062368258207,1.4159989159684e-05,0.0208435040430548,"Significant","Low tissue specificity","Butyrophilin subfamily 2 member A1","Low_tissue_specificity"
+"2","NECTIN4","OID21490","Q96NY8","Oncology","Timepoint",3,10.1635150985,3.38783836616667,73.375973349909,4.04550648090101e-05,0.0297749276994314,"Significant","Group enriched: esophagus, salivary gland, skin 1, vagina","Nectin-4","Group_enriched_esophagus_salivary_gland_skin_1_vagina"
+"3","CCL28","OID20569","Q9NRJ3","Inflammation","Timepoint",3,18.193306024,6.06443534133333,61.7327093094876,6.68000784616372e-05,0.0327765718318433,"Significant","Tissue enriched: salivary gland","C-C motif chemokine 28","Tissue_enriched_salivary_gland"

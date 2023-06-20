@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","DKK1","OID21066","O94907","Neurology","Timepoint",3,9.91450447290475,3.30483482430158,48.2585963710547,2.96452507588452e-06,0.00436378091170202,"Significant","Tissue enhanced: cervix, placenta, urinary bladder","Dickkopf-related protein 1","Tissue_enhanced_cervix_placenta_urinary_bladder"

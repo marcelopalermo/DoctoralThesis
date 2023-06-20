@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","PPCDC","OID21027","Q96CD2","Neurology","Timepoint",2,2.38959508175,1.194797540875,282.27604283588,7.22090106085899e-06,0.0106291663615844,"Significant","Low tissue specificity","Phosphopantothenoylcysteine decarboxylase","Low_tissue_specificity"

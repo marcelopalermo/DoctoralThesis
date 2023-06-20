@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","GLT8D2","OID20825","Q9H1C3","Neurology","Timepoint",3,3.200022385,1.06667412833333,66.0727529219837,2.54123836181774e-07,0.000374070286859572,"Significant","Low tissue specificity","Glycosyltransferase 8 domain-containing protein 2","Low_tissue_specificity"

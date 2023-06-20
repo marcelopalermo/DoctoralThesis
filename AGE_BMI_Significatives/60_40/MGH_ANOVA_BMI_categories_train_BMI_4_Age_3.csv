@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","MFAP3","OID20057","P55082","Cardiometabolic","Timepoint",2,13.0696979742222,6.53484898711111,89.7633060284797,3.38247900369482e-05,0.0497900909343877,"Significant","Low tissue specificity","Microfibril-associated glycoprotein 3","Low_tissue_specificity"

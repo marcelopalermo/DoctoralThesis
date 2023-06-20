@@ -1,0 +1,3 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","NPDC1","OID20205","Q9NQX5","Cardiometabolic","Timepoint",2,1.30713392628571,0.653566963142857,987.057003524733,4.08900221911276e-06,0.00601901126653398,"Significant","Low tissue specificity","Neural proliferation differentiation and control protein 1","Low_tissue_specificity"
+"2","APOH","OID21072","P02749","Neurology","Timepoint",2,5.69722003714286,2.84861001857143,656.878631128279,9.21401990265945e-06,0.00678151864835735,"Significant","Tissue enriched: liver","Beta-2-glycoprotein 1","Tissue_enriched_liver"

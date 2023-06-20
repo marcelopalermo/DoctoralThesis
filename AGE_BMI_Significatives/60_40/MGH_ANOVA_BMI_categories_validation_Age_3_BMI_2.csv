@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","EPHA10","OID20840","Q5JZY3","Neurology","Timepoint",3,18.1623268028571,6.05410893428571,13.2793132235229,1.89155323645741e-05,0.0278436636406531,"Significant","Tissue enhanced: brain, intestine, testis","Ephrin type-A receptor 10","Tissue_enhanced_brain_intestine_testis"
