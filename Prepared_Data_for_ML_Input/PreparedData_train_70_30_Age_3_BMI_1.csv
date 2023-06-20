@@ -1,0 +1,14 @@
+,ACE2,CLC,FGFBP1,FRZB,IL19,MDK,NEFL,PCOLCE,PTN,SDC1,SFRP1,SMOC1,SMOC2,Age,BMI
+0,False,False,False,False,False,False,True,False,False,False,False,False,False,3,1
+1,False,False,False,False,False,False,False,True,False,False,False,False,False,3,1
+2,True,False,False,False,False,False,False,False,False,False,False,False,False,3,1
+3,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1
+4,False,False,False,True,False,False,False,False,False,False,False,False,False,3,1
+5,False,False,False,False,True,False,False,False,False,False,False,False,False,3,1
+6,False,False,False,False,False,False,False,False,False,False,True,False,False,3,1
+7,False,False,False,False,False,False,False,False,True,False,False,False,False,3,1
+8,False,False,True,False,False,False,False,False,False,False,False,False,False,3,1
+9,False,False,False,False,False,False,False,False,False,True,False,False,False,3,1
+10,False,False,False,False,False,False,False,False,False,False,False,False,True,3,1
+11,False,False,False,False,False,False,False,False,False,False,False,True,False,3,1
+12,False,True,False,False,False,False,False,False,False,False,False,False,False,3,1

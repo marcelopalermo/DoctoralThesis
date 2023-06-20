@@ -1,0 +1,10 @@
+,CCL24,CLC,HGF,PRL,PTN,SDC1,SFRP1,SMOC1,SPON1,Age,BMI
+0,False,False,False,False,True,False,False,False,False,2,2
+1,False,False,False,False,False,True,False,False,False,2,2
+2,False,False,False,False,False,False,True,False,False,2,2
+3,False,False,False,False,False,False,False,True,False,2,2
+4,False,False,True,False,False,False,False,False,False,2,2
+5,True,False,False,False,False,False,False,False,False,2,2
+6,False,False,False,True,False,False,False,False,False,2,2
+7,False,False,False,False,False,False,False,False,True,2,2
+8,False,True,False,False,False,False,False,False,False,2,2
