@@ -1,0 +1,12 @@
+,Model,Split,TP,Sorting
+0,MLkNN,70_30,0,BMI (given Age)
+0,HARAM,70_30,2,BMI (given Age)
+0,BRV NB,70_30,0,BMI (given Age)
+0,LPS GB,70_30,0,BMI (given Age)
+0,CC,70_30,1,BMI (given Age)
+0,LPS SVM,70_30,0,BMI (given Age)
+0,RF,70_30,0,BMI (given Age)
+0,DT,70_30,0,BMI (given Age)
+0,SVM,70_30,35,BMI (given Age)
+0,BRV kNN,70_30,0,BMI (given Age)
+0,RKD,70_30,39,BMI (given Age)

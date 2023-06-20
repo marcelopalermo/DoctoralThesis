@@ -1,0 +1,6 @@
+"","Tissue","Total","Organ_Count","Tissue_Count","Split","Model"
+"1","Group enriched: bone marrow, lymphoid tissue",1,1,"1-Group enriched: bone marrow, lymphoid tissue","75%-25%","Deep"
+"2","Low tissue specificity",1,2,"2-Low tissue specificity","75%-25%","Deep"
+"3","Tissue enhanced: brain, pancreas",1,3,"3-Tissue enhanced: brain, pancreas","75%-25%","Deep"
+"4","Tissue enhanced: esophagus, salivary gland, skin 1, vagina",1,4,"4-Tissue enhanced: esophagus, salivary gland, skin 1, vagina","75%-25%","Deep"
+"5",NA,1,5,"5-NA","75%-25%","Deep"

@@ -1,0 +1,4 @@
+"","Tissue","Total","Organ_Count","Tissue_Count","Split","Model"
+"1","Low tissue specificity",1,1,"1-Low tissue specificity","60%-40%","HARAM"
+"2","Not detected",1,2,"2-Not detected","60%-40%","HARAM"
+"3","Tissue enhanced: endometrium 1, smooth muscle",1,3,"3-Tissue enhanced: endometrium 1, smooth muscle","60%-40%","HARAM"

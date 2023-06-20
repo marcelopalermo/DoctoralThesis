@@ -1,0 +1,316 @@
+"","Split","Model","Tissue","Significant proteins","Ranking"
+"125","60%-40%","ClassifierChains","Not detected","IFNL1",1
+"126","60%-40%","ClassifierChains","Low tissue specificity","DDX58",1
+"4","60%-40%","Deep","Low tissue specificity","ABHD14B, ABL1, ACP6, ADAM15, AMFR, AMIGO2, APP, ARHGEF12, ARSB, ATOX1, ATP5IF1, AXIN1, AXL, BAIAP2, BCL2L11, BCR, BOC, BSG, BTN2A1, CAPG, CASP2, CCN1, CCN4, CD276, CD40, CD46, CD58, CD59, CD99, CLEC14A, CNPY4, CNST, CTSB, CTSF, CXADR, CXCL16, DAG1, DBI, DCBLD2, DDR1, DDX58, DIABLO, DNMBP, DPT, EDA2R, EGFL7, EPHB4, ESAM, F11R, FAS, FGF2, FLT3LG, FOXO3, FSTL3, GAS6, GOPC, HS6ST1, IFNGR1, IGF1R, IGFBP4, IGFBP6, IKBKG, IL10RB, INPP1, INPPL1, ITGAV, KIFBP, LAMA4, LGALS1, LRP11, LTBR, LY96, MATN2, MAVS, MESD, METAP1D, MITD1, MPI, MTPN, MZT1, NCK2, NECTIN2, NOTCH3, NPDC1, NRP1, NRP2, NUDT2, PDP1, PIK3IP1, PLTP, PMVK, PPIB, PPP1R12A, PRCP, PRDX5, PRKRA, PTPN1, RGMB, RHOC, SCAMP3, SCARF2, SELP, SERPINB6, SKAP2, SMOC2, SNAP23, SPINT2, STX4, TBC1D23, TBC1D5, TBCC, TGFB1, TGFBR3, THBS2, TIE1, TIMP3, TJAP1, TMSB10, TNFRSF10A, TNFRSF10B, TNFRSF12A, TNFRSF14, TNFRSF1A, TNFSF12, TRIM5, TXLNA, USP8, UXS1, VEGFA, WWP2, YTHDF3",131
+"11","60%-40%","Deep","lymphoid tissue","ADA2, APBB1IP, ARHGAP25, C1QA, CCL14, CCL17, CCL21, CD160, CD163, CD27, CD38, CD40LG, CD5, CD79B, CD84, CLEC10A, CXCL9, F2R, FCER2, FEN1, FLI1, GRAP2, GZMA, HAVCR2, IL7R, KLRD1, LAT, MILR1, NCR1, NFKBIE, SCARF1, SIGLEC10, SIGLEC7, SIT1, SLAMF6, TNFRSF1B, TNFRSF4, TNFRSF9, TNFSF13B, XCL1",40
+"2","60%-40%","Deep","brain","ADAM22, APLP1, B4GAT1, CLIP2, CRTAM, CST3, DRAXIN, EDIL3, FKBP1B, ICAM5, IGSF8, MEGF10, MOG, NEFL, NFASC, NPPC, NTproBNP, PLXNB3, PON2, PPP1R9B, SCRN1, SORCS2, SORT1, TAFA5",24
+"54","60%-40%","Deep","liver","ADAMTS13, ANGPTL3, APOH, CCL16, CD302, CLEC1B, COL18A1, CRHBP, HYOU1, INHBC, IQGAP2, PROC, SCP2, TST",14
+"39","60%-40%","Deep","bone marrow","ANXA3, BID, CASP8, CCL4, CD83, CEACAM8, CLC, CLEC11A, CLEC5A, CXCL8, EREG, PLAUR",12
+"18","60%-40%","Deep","bone marrow, lymphoid tissue","CCL5, CD69, CTSS, FES, FYB1, GNLY, GP1BA, IFNG, KLRB1, PTPN6, TNF",11
+"13","60%-40%","Deep","placenta","ANGPTL1, CD93, COL4A1, HGF, JAM2, PAPPA, PECAM1, SPARC, TEK, TFPI2",10
+"6","60%-40%","Deep","skin 1","CST6, EFNA4, GPC1, KLK14, SERPINA12, WFDC12, XG",7
+"48","60%-40%","Deep","esophagus","CDCP1, CSTB, EPHA2, EPS8L2, SPINT1, ULBP2",6
+"49","60%-40%","Deep","intestine","CA13, CDHR2, CEACAM1, GUCA2A, RBP2, SPINK4",6
+"90","60%-40%","Deep","pancreas","CPA2, CPB1, PLA2G1B, REG1A, REG1B, SPINK1",6
+"59","60%-40%","Deep","bone marrow, lung, lymphoid tissue","CCL3, CD300LF, FCAR, NCF2, SIRPB1",5
+"61","60%-40%","Deep","lung","ACP5, ADAMTS8, CD274, SCGB1A1, TNFRSF6B",5
+"9","60%-40%","Deep","intestine, lymphoid tissue","BANK1, CCL24, MZB1, TNFRSF13C",4
+"17","60%-40%","Deep","skeletal muscle","CD99L2, FOXO1, IGF2R",3
+"19","60%-40%","Deep","urinary bladder","MMP13, SCARA5, TIMP1",3
+"42","60%-40%","Deep","kidney","CALB1, CDH6, PTH1R",3
+"45","60%-40%","Deep","salivary gland","CST5, MMP3, PRSS8",3
+"47","60%-40%","Deep","skeletal muscle, tongue","CDNF, HSPB6, ITGB6",3
+"57","60%-40%","Deep","adipose tissue","ADAMTS15, CPM, TNFRSF8",3
+"64","60%-40%","Deep","retina","CRX, FRZB, PFKFB2",3
+"1","60%-40%","Deep","parathyroid gland","ATP6AP2, CDH1",2
+"7","60%-40%","Deep","brain, skeletal muscle, tongue","NOS1, PADI2",2
+"8","60%-40%","Deep","intestine, liver","CCL15, SULT1A1",2
+"10","60%-40%","Deep","heart muscle, skeletal muscle, tongue","GYS1, ITGB1BP2",2
+"12","60%-40%","Deep","gallbladder","CPXM1, SPON1",2
+"15","60%-40%","Deep","lymphoid tissue, placenta","CD28, CLEC1A",2
+"24","60%-40%","Deep","esophagus, vagina","DSC2, FGFBP1",2
+"27","60%-40%","Deep","brain, parathyroid gland","ADAM23, PTN",2
+"29","60%-40%","Deep","intestine, kidney","HAVCR1, MME",2
+"30","60%-40%","Deep","intestine, pancreas","ANPEP, REG3A",2
+"32","60%-40%","Deep","brain, skeletal muscle","BAG3, IL17D",2
+"35","60%-40%","Deep","esophagus, salivary gland, skin 1, vagina","KLK11, NECTIN4",2
+"51","60%-40%","Deep","testis","GP6, PHOSPHO1",2
+"53","60%-40%","Deep","cervix","COLEC12, OGN",2
+"66","60%-40%","Deep","intestine, salivary gland","PIGR, TNFRSF11A",2
+"71","60%-40%","Deep","brain, retina","RASSF2, WASF3",2
+"72","60%-40%","Deep","kidney, liver","ACAA1, MSRA",2
+"76","60%-40%","Deep","adrenal gland","CCN3, LDLR",2
+"78","60%-40%","Deep","brain, pituitary gland","GAL, PODXL2",2
+"82","60%-40%","Deep","brain, choroid plexus","FGF23, FGFR2",2
+"86","60%-40%","Deep","brain, liver","RTN4R, SMOC1",2
+"110","60%-40%","Deep","lung, lymphoid tissue","DOK2, LAIR1",2
+"3","60%-40%","Deep","bone marrow, skeletal muscle","SOD2",1
+"5","60%-40%","Deep","gallbladder, stomach 1, urinary bladder","MMP1",1
+"14","60%-40%","Deep","stomach 1","TFF2",1
+"16","60%-40%","Deep","kidney, skin 1","CA12",1
+"20","60%-40%","Deep","bone marrow, brain, lymphoid tissue, thyroid gland","IPCEF1",1
+"21","60%-40%","Deep","adrenal gland, liver, pancreas","RARRES2",1
+"22","60%-40%","Deep","choroid plexus, fallopian tube, lung, salivary gland","FOLR1",1
+"23","60%-40%","Deep","fallopian tube, lung","MSLN",1
+"25","60%-40%","Deep","ovary","MDK",1
+"26","60%-40%","Deep","cervix, salivary gland","WFDC2",1
+"28","60%-40%","Deep","brain, esophagus","DKK4",1
+"31","60%-40%","Deep","endometrium 1, gallbladder, lymphoid tissue, smooth muscle","CHRDL2",1
+"33","60%-40%","Deep","breast, choroid plexus","SFRP1",1
+"34","60%-40%","Deep","brain, pancreas","PTPRN2",1
+"36","60%-40%","Deep","ovary, pancreas","FLRT2",1
+"37","60%-40%","Deep","intestine, pancreas, salivary gland, stomach 1","FAM3B",1
+"38","60%-40%","Deep","esophagus, parathyroid gland","EPHA1",1
+"40","60%-40%","Deep","adipose tissue, lymphoid tissue, urinary bladder","IL2RA",1
+"41","60%-40%","Deep","adipose tissue, brain, ovary","CLSTN2",1
+"43","60%-40%","Deep","lung, lymphoid tissue, skin 1","MPIG6B",1
+"44","60%-40%","Deep","esophagus, lymphoid tissue, vagina","PI3",1
+"46","60%-40%","Deep","brain, skin 1","EPHB6",1
+"50","60%-40%","Deep","smooth muscle","COL6A3",1
+"52","60%-40%","Deep","intestine, lymphoid tissue, stomach 1, urinary bladder","CCL11",1
+"55","60%-40%","Deep","endometrium 1","RSPO3",1
+"56","60%-40%","Deep","esophagus, skin 1, vagina","LY6D",1
+"58","60%-40%","Deep","breast, pituitary gland, salivary gland, stomach 1","MIA",1
+"60","60%-40%","Deep","epididymis","ENPP5",1
+"62","60%-40%","Deep","adrenal gland, brain","SNCG",1
+"63","60%-40%","Deep","adrenal gland, pituitary gland, placenta","DLK1",1
+"65","60%-40%","Deep","choroid plexus, ovary","CDH3",1
+"67","60%-40%","Deep","brain, intestine, testis","EPHA10",1
+"68","60%-40%","Deep","lymphoid tissue, smooth muscle","TNC",1
+"69","60%-40%","Deep","bone marrow, brain","ICOSLG",1
+"70","60%-40%","Deep","kidney, pancreas, skeletal muscle","EGF",1
+"73","60%-40%","Deep","cervix, endometrium 1, smooth muscle","ITGA11",1
+"74","60%-40%","Deep","cervix, gallbladder","COL1A1",1
+"75","60%-40%","Deep","liver, pancreas","P4HB",1
+"77","60%-40%","Deep","brain, choroid plexus, lung","TREM2",1
+"79","60%-40%","Deep","kidney, urinary bladder","GDF15",1
+"80","60%-40%","Deep","kidney, thyroid gland","ESM1",1
+"81","60%-40%","Deep","esophagus, lung, salivary gland, stomach 1","CXCL17",1
+"83","60%-40%","Deep","adipose tissue, breast, placenta","CD300LG",1
+"84","60%-40%","Deep","esophagus, salivary gland, skin 1","TACSTD2",1
+"85","60%-40%","Deep","liver, placenta","TFPI",1
+"87","60%-40%","Deep","salivary gland, skin 1","TNFRSF19",1
+"88","60%-40%","Deep","intestine, lymphoid tissue, skin 1, urinary bladder","CCL22",1
+"89","60%-40%","Deep","liver, lung, lymphoid tissue","MARCO",1
+"91","60%-40%","Deep","brain, kidney, testis","GPC5",1
+"92","60%-40%","Deep","brain, lung, lymphoid tissue","PCDH17",1
+"93","60%-40%","Deep","adipose tissue, breast","FABP4",1
+"94","60%-40%","Deep","gallbladder, lymphoid tissue, urinary bladder","CCL20",1
+"95","60%-40%","Deep","kidney, placenta","DAB2",1
+"96","60%-40%","Deep","heart muscle, liver","DECR1",1
+"97","60%-40%","Deep","heart muscle","NPPB",1
+"98","60%-40%","Deep","pituitary gland","PRL",1
+"99","60%-40%","Deep","intestine, urinary bladder","CCL13",1
+"100","60%-40%","Deep","gallbladder, urinary bladder","LIF",1
+"101","60%-40%","Deep","choroid plexus, retina, skeletal muscle, tongue","CA14",1
+"102","60%-40%","Deep","brain, urinary bladder","TNFRSF21",1
+"103","60%-40%","Deep","endometrium 1, seminal vesicle, smooth muscle","ACTA2",1
+"104","60%-40%","Deep","esophagus, skin 1","IL18",1
+"105","60%-40%","Deep","bone marrow, stomach 1, urinary bladder","S100P",1
+"106","60%-40%","Deep","gallbladder, liver, placenta, urinary bladder","SERPINE1",1
+"107","60%-40%","Deep","breast, liver, lymphoid tissue","TNFSF11",1
+"108","60%-40%","Deep","brain, gallbladder","FGF5",1
+"109","60%-40%","Deep","breast, fallopian tube, pancreas","VTCN1",1
+"111","60%-40%","Deep","brain, smooth muscle, urinary bladder","THY1",1
+"112","60%-40%","Deep","adrenal gland, pituitary gland","CHGB",1
+"113","60%-40%","Deep","Not detected","IFNL1",1
+"114","60%-40%","Deep","brain, intestine, pancreas, pituitary gland, stomach 1","SCGN",1
+"115","60%-40%","Deep","gallbladder, pancreas","ANXA4",1
+"116","60%-40%","Deep","brain, epididymis","AGRP",1
+"117","60%-40%","Deep","esophagus, liver, skin 1","SDC1",1
+"118","60%-40%","Deep","endometrium 1, skeletal muscle","PDLIM7",1
+"119","60%-40%","Deep","brain, thyroid gland","NTRK2",1
+"120","60%-40%","Deep","kidney, lymphoid tissue","TDGF1",1
+"121","60%-40%","Deep","ovary, pituitary gland","CCL26",1
+"122","60%-40%","Deep","gallbladder, intestine, kidney","ACE2",1
+"123","60%-40%","Deep","endometrium 1, smooth muscle","FAP",1
+"124","60%-40%","Deep","brain, heart muscle, testis","PTGDS",1
+"165","60%-40%","HARAM","endometrium 1, smooth muscle","FAP",1
+"166","60%-40%","HARAM","Not detected","IFNL1",1
+"167","60%-40%","HARAM","Low tissue specificity","APP",1
+"127","60%-40%","RakelD","Low tissue specificity","BGN, BOC, CCDC80, CCN2, CD276, CD40, CD99, CLEC14A, DCBLD2, DCN, DDX58, EFEMP1, IL6ST, LRP11, NOTCH3, OMD, VASN",17
+"146","60%-40%","RakelD","lymphoid tissue","ADA2, CCL17, LAT, SLAMF8",4
+"145","60%-40%","RakelD","placenta","CDH5, PECAM1, TEK",3
+"128","60%-40%","RakelD","brain","DRAXIN, NPPC",2
+"129","60%-40%","RakelD","brain, seminal vesicle","ACAN",1
+"130","60%-40%","RakelD","parathyroid gland","CD109",1
+"131","60%-40%","RakelD","heart muscle","ENG",1
+"132","60%-40%","RakelD","skeletal muscle, tongue","CDNF",1
+"133","60%-40%","RakelD","salivary gland","MANSC1",1
+"134","60%-40%","RakelD","kidney, thyroid gland","ESM1",1
+"135","60%-40%","RakelD","intestine, lymphoid tissue, stomach 1, urinary bladder","CCL11",1
+"136","60%-40%","RakelD","brain, parathyroid gland","ADAM23",1
+"137","60%-40%","RakelD","lymphoid tissue, placenta","CD28",1
+"138","60%-40%","RakelD","smooth muscle, urinary bladder","ITGA5",1
+"139","60%-40%","RakelD","brain, skeletal muscle","IL17D",1
+"140","60%-40%","RakelD","adrenal gland, pituitary gland","CHGB",1
+"141","60%-40%","RakelD","endometrium 1","PAEP",1
+"142","60%-40%","RakelD","brain, retina","ROBO2",1
+"143","60%-40%","RakelD","adipose tissue, cervix","CCN5",1
+"144","60%-40%","RakelD","brain, ovary","TYRO3",1
+"147","60%-40%","RakelD","bone marrow, lung, lymphoid tissue","CLEC7A",1
+"148","60%-40%","RakelD","urinary bladder","SCARA5",1
+"149","60%-40%","RakelD","skeletal muscle","IGF2R",1
+"150","60%-40%","RakelD","adipose tissue","TNFRSF8",1
+"151","60%-40%","RakelD","endometrium 1, seminal vesicle, smooth muscle","ACTA2",1
+"152","60%-40%","RakelD","bone marrow, lymphoid tissue","KLRB1",1
+"153","60%-40%","RakelD","pancreas","KIRREL2",1
+"154","60%-40%","RakelD","adrenal gland, brain, choroid plexus","DNER",1
+"155","60%-40%","RakelD","intestine, urinary bladder","CCL13",1
+"156","60%-40%","RakelD","brain, lung, lymphoid tissue","PCDH17",1
+"157","60%-40%","RakelD","liver","SCP2",1
+"158","60%-40%","RakelD","kidney","CDH6",1
+"159","60%-40%","RakelD","intestine, pancreas","ANPEP",1
+"160","60%-40%","RakelD","esophagus, skin 1","IL18",1
+"161","60%-40%","RakelD","retina, thyroid gland","PRTG",1
+"162","60%-40%","RakelD","intestine","ASAH2",1
+"163","60%-40%","RakelD","lung, lymphoid tissue","LAIR1",1
+"164","60%-40%","RakelD","retina","RTBDN",1
+"168","60%-40%","SVM","Low tissue specificity","APP, AXL, CCDC80, CD40, CD99, DCBLD2, INPP1, PTK7, RNASET2, SCARF2, TIA1, TXNDC5, VEGFA",13
+"170","60%-40%","SVM","lymphoid tissue","ADA2, CCL17, CD5, CD84, IL1R2, IL7R, LAT",7
+"180","60%-40%","SVM","liver","CA5A, CCL16, CD302, HAO1",4
+"184","60%-40%","SVM","pancreas","CPA2, PLA2G1B, PRSS2, SPINK1",4
+"169","60%-40%","SVM","brain","ADAM22, APLP1, NPPC",3
+"177","60%-40%","SVM","placenta","SPARC, TEK",2
+"178","60%-40%","SVM","bone marrow, lung, lymphoid tissue","CLEC7A, FGR",2
+"171","60%-40%","SVM","esophagus","CDCP1",1
+"172","60%-40%","SVM","intestine, lymphoid tissue, stomach 1, urinary bladder","CCL11",1
+"173","60%-40%","SVM","fallopian tube, lung","MSLN",1
+"174","60%-40%","SVM","adipose tissue, cervix","CCN5",1
+"175","60%-40%","SVM","brain, skeletal muscle, tongue","PADI2",1
+"176","60%-40%","SVM","brain, salivary gland","CGREF1",1
+"179","60%-40%","SVM","stomach 1","TFF2",1
+"181","60%-40%","SVM","cervix, placenta, urinary bladder","DKK1",1
+"182","60%-40%","SVM","bone marrow, lymphoid tissue","KLRB1",1
+"183","60%-40%","SVM","adrenal gland","CCN3",1
+"185","60%-40%","SVM","skeletal muscle, tongue","MSTN",1
+"186","60%-40%","SVM","intestine, lymphoid tissue","CCL24",1
+"187","60%-40%","SVM","endometrium 1","RSPO3",1
+"188","60%-40%","SVM","lung","TNFRSF6B",1
+"189","60%-40%","SVM","kidney, skin 1","CA12",1
+"190","60%-40%","SVM","intestine, urinary bladder","CCL13",1
+"191","60%-40%","SVM","intestine","GUCA2A",1
+"192","60%-40%","SVM","brain, gallbladder, kidney, placenta","SPP1",1
+"193","60%-40%","SVM","bone marrow, urinary bladder","IL1B",1
+"194","60%-40%","SVM","kidney, liver","ACAA1",1
+"195","60%-40%","SVM","bone marrow","CDKN2D",1
+"269","70%-30%","ClassifierChains","intestine, pancreas","REG3A",1
+"251","70%-30%","Deep",NA,"",211
+"198","70%-30%","Deep","Low tissue specificity","AIFM1, AKT1S1, ANXA11, ANXA5, APP, ARHGEF12, ATP5IF1, AXL, BAIAP2, BTN2A1, C2CD2L, CCL23, CCN1, CD276, CEP20, CLEC14A, CLPP, CNPY4, COMT, CRELD2, DBI, DCN, DIABLO, DNAJA2, DRG2, FLT3LG, FXN, GOPC, GRK5, GRPEL1, HS6ST1, IFNGR1, IGFBP4, IGSF3, IL10RB, KITLG, LAYN, LBR, LTBR, MATN2, MESD, MGLL, MITD1, MTPN, NCK2, NPDC1, PILRB, PLIN3, PPIB, PRKAR1A, PRKRA, PSMA1, PTPN1, RHOC, ROBO1, SCARB2, SMAD5, STAT5B, STX8, TARBP2, TGFB1, TIA1, TNFRSF10B, TRIM5, VAMP5, VEGFC",67
+"205","70%-30%","Deep","lymphoid tissue","ARHGAP25, CD163, CD27, CLEC4C, CXCL10, DLL1, FLI1, HAVCR2, IL12RB1, IL18BP, IL7R, KLRD1, MILR1, NCR1, SIGLEC10, SLAMF1, TNFRSF9",18
+"200","70%-30%","Deep","brain","AKT3, EDIL3, ENTPD2, ICAM5, LRRN1, MEGF10, NTproBNP, PPP1R9B, SORCS2, TAFA5",11
+"215","70%-30%","Deep","liver","ADAMTS13, ANGPTL3, CA5A, EFNA1, FETUB, PON3, TST",8
+"196","70%-30%","Deep","bone marrow, lymphoid tissue","BIN2, GZMB, IFNG, KLRB1, LYN, TREML2",7
+"210","70%-30%","Deep","lung","ACP5, ADAMTS8, CCL18, SFTPD, TNFRSF6B, VSIG4",7
+"218","70%-30%","Deep","bone marrow","ANXA3, BID, CDKN2D, CST7, DEFA1_DEFA1B, RETN",7
+"209","70%-30%","Deep","skeletal muscle","CD99L2, COX5B, FOXO1, IDI2, USO1",6
+"233","70%-30%","Deep","skin 1","CDSN, CST6, EFNA4, GPC1, SERPINA12",6
+"221","70%-30%","Deep","placenta","BMP6, CDH5, JAM2, PECAM1",5
+"230","70%-30%","Deep","pancreas","CPA1, CPB1, PLA2G1B, REG1A",5
+"199","70%-30%","Deep","skeletal muscle, tongue","CEP85, HSPB6, ITGB6",4
+"220","70%-30%","Deep","bone marrow, lung, lymphoid tissue","CLEC7A, FCAR, LILRB2",4
+"228","70%-30%","Deep","intestine","ASAH2, RBP2, SIAE",4
+"202","70%-30%","Deep","lung, lymphoid tissue","DOK2, LAIR1",3
+"214","70%-30%","Deep","heart muscle, skeletal muscle, tongue","GYS1, ITGB1BP2",3
+"216","70%-30%","Deep","endometrium 1","PAEP, SPON2",3
+"217","70%-30%","Deep","salivary gland","MMP3, TNFSF13",3
+"223","70%-30%","Deep","stomach 1","GKN1, TFF1",3
+"232","70%-30%","Deep","brain, choroid plexus","FGF23, FGFR2",3
+"260","70%-30%","Deep","esophagus","EPS8L2, S100A11",3
+"197","70%-30%","Deep","bone marrow, skeletal muscle","SOD2",2
+"201","70%-30%","Deep","bone marrow, lymphoid tissue, testis","TACC3",2
+"203","70%-30%","Deep","endometrium 1, gallbladder, lymphoid tissue, smooth muscle","CHRDL2",2
+"204","70%-30%","Deep","retina","FRZB",2
+"206","70%-30%","Deep","bone marrow, intestine, salivary gland","CRACR2A",2
+"207","70%-30%","Deep","brain, liver","RTN4R",2
+"208","70%-30%","Deep","intestine, liver, salivary gland","GNE",2
+"211","70%-30%","Deep","bone marrow, brain, lymphoid tissue, thyroid gland","IPCEF1",2
+"212","70%-30%","Deep","parathyroid gland, testis","TDRKH",2
+"213","70%-30%","Deep","adipose tissue, cervix","CXCL3",2
+"219","70%-30%","Deep","gallbladder","CPXM1",2
+"222","70%-30%","Deep","cervix, endometrium 1, smooth muscle","ITGA11",2
+"224","70%-30%","Deep","brain, choroid plexus, lung","TREM2",2
+"225","70%-30%","Deep","cervix, endometrium 1","RSPO1",2
+"226","70%-30%","Deep","adrenal gland, brain","SNCG",2
+"227","70%-30%","Deep","kidney, liver","ACAA1",2
+"229","70%-30%","Deep","esophagus, liver, skin 1","SDC1",2
+"231","70%-30%","Deep","adipose tissue, brain, ovary","CLSTN2",2
+"234","70%-30%","Deep","lymphoid tissue, placenta","VCAN",2
+"235","70%-30%","Deep","testis","SRPK2",2
+"236","70%-30%","Deep","breast, choroid plexus","SFRP1",2
+"237","70%-30%","Deep","brain, lung, lymphoid tissue","PCDH17",2
+"238","70%-30%","Deep","intestine, lymphoid tissue, urinary bladder","MMP12",2
+"239","70%-30%","Deep","liver, pancreas","IL32",2
+"240","70%-30%","Deep","brain, salivary gland","CGREF1",2
+"241","70%-30%","Deep","adipose tissue, brain","PLXNA4",2
+"242","70%-30%","Deep","gallbladder, stomach 1, urinary bladder","MMP1",2
+"243","70%-30%","Deep","adipose tissue, seminal vesicle","CHRDL1",2
+"244","70%-30%","Deep","kidney, urinary bladder","GDF15",2
+"245","70%-30%","Deep","adipose tissue","TNFRSF8",2
+"246","70%-30%","Deep","gallbladder, liver, placenta, urinary bladder","SERPINE1",2
+"247","70%-30%","Deep","kidney","PODXL",2
+"248","70%-30%","Deep","cervix, retina","NT5E",2
+"249","70%-30%","Deep","lymphoid tissue, testis","TIMD4",2
+"250","70%-30%","Deep","cervix, gallbladder","COL1A1",2
+"252","70%-30%","Deep","adipose tissue, heart muscle","LPL",2
+"253","70%-30%","Deep","gallbladder, salivary gland, urinary bladder","MMP7",2
+"254","70%-30%","Deep","parathyroid gland","CDH1",2
+"255","70%-30%","Deep","intestine, kidney, retina","DDC",2
+"256","70%-30%","Deep","brain, fallopian tube, lung, seminal vesicle","CRTAC1",2
+"257","70%-30%","Deep","parathyroid gland, seminal vesicle","PLA2G4A",2
+"258","70%-30%","Deep","intestine, salivary gland","PIGR",2
+"259","70%-30%","Deep","brain, parathyroid gland","ADAM23",2
+"261","70%-30%","Deep","placenta, thyroid gland","PGF",2
+"262","70%-30%","Deep","urinary bladder","TIMP1",2
+"263","70%-30%","Deep","brain, epididymis","AGRP",2
+"264","70%-30%","Deep","brain, ovary","TYRO3",2
+"265","70%-30%","Deep","bone marrow, stomach 1, urinary bladder","S100P",2
+"266","70%-30%","Deep","lung, urinary bladder","ICAM1",2
+"267","70%-30%","Deep","lymphoid tissue, pituitary gland","VMO1",2
+"268","70%-30%","Deep","kidney, skin 1","CA12",2
+"292","70%-30%","HARAM","Low tissue specificity","IL10RB",1
+"293","70%-30%","HARAM","intestine, pancreas","REG3A",1
+"271","70%-30%","RakelD","Low tissue specificity","ACTN4, ANXA11, BGN, CANT1, DBI, DCN, DDX58, DNMBP, DPT, EGFL7, HS6ST1, PLIN3, SLIT2, TXNDC5",14
+"272","70%-30%","RakelD","skeletal muscle","IGF2R, RGMA",2
+"273","70%-30%","RakelD","skin 1","GPNMB, SERPINA12",2
+"274","70%-30%","RakelD","bone marrow","MPO, RNASE3",2
+"275","70%-30%","RakelD","brain","ADAM22, SEMA4D",2
+"270","70%-30%","RakelD","liver","CRHBP",1
+"276","70%-30%","RakelD","adipose tissue, seminal vesicle","CHRDL1",1
+"277","70%-30%","RakelD","bone marrow, lung, lymphoid tissue","NCF2",1
+"278","70%-30%","RakelD","placenta","BMP6",1
+"279","70%-30%","RakelD","adrenal gland, pituitary gland","CHGB",1
+"280","70%-30%","RakelD","intestine, liver","CCL15",1
+"281","70%-30%","RakelD","lymphoid tissue","KIR2DL3",1
+"282","70%-30%","RakelD","lung","MSR1",1
+"283","70%-30%","RakelD","brain, gallbladder","FGF5",1
+"284","70%-30%","RakelD","intestine, pancreas, salivary gland, stomach 1","FAM3B",1
+"285","70%-30%","RakelD","brain, skin 1","EPHB6",1
+"286","70%-30%","RakelD","endometrium 1","PAEP",1
+"287","70%-30%","RakelD","esophagus","CDCP1",1
+"288","70%-30%","RakelD","brain, fallopian tube, retina","NELL2",1
+"289","70%-30%","RakelD","brain, skeletal muscle","IL17D",1
+"290","70%-30%","RakelD","intestine, parathyroid gland","DSG2",1
+"291","70%-30%","RakelD","brain, parathyroid gland","ADAM23",1
+"295","70%-30%","SVM","Low tissue specificity","ANXA11, BOC, CCDC80, CD40, CNPY4, DBI, DNMBP, EGFL7, NRP1, NRP2, PRKRA, SCAMP3, TXNDC5, UXS1",14
+"297","70%-30%","SVM","brain","ADAM22, CST3, MEGF10, SORT1",4
+"298","70%-30%","SVM","lymphoid tissue","ADA2, KLRD1, LAT, NCR1",4
+"294","70%-30%","SVM","liver","CLEC1B, CRHBP, PON3",3
+"296","70%-30%","SVM","lung, urinary bladder","ICAM1",1
+"299","70%-30%","SVM","bone marrow, lung, lymphoid tissue","NCF2",1
+"300","70%-30%","SVM","adipose tissue, lymphoid tissue, urinary bladder","IL2RA",1
+"301","70%-30%","SVM","skeletal muscle","NDUFS6",1
+"302","70%-30%","SVM","placenta","PECAM1",1
+"303","70%-30%","SVM","salivary gland","CST5",1
+"304","70%-30%","SVM","esophagus","CDCP1",1
+"305","70%-30%","SVM","brain, choroid plexus","ENPP2",1
+"306","70%-30%","SVM","parathyroid gland","ROR1",1
+"307","70%-30%","SVM","stomach 1","TFF1",1
+"313","75%-25%","ClassifierChains","intestine, pancreas","REG3A",1
+"311","75%-25%","Deep",NA,"",5
+"308","75%-25%","Deep","bone marrow, lymphoid tissue","CD48",2
+"309","75%-25%","Deep","esophagus, salivary gland, skin 1, vagina","KLK11",2
+"310","75%-25%","Deep","brain, pancreas","PTPRN2",2
+"312","75%-25%","Deep","Low tissue specificity","MPI",2
+"314","75%-25%","HARAM","intestine, pancreas","REG3A",1
+"315","75%-25%","SVM",NA,"",1

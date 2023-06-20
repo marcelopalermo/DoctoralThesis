@@ -1,0 +1,303 @@
+\begin{itemize}
+\item 	\textbf{Model: CC - Split: 60\%-40\% - Not detected - 1 potential biomarker(s):}\\ IFNL1 
+
+\item 	\textbf{Model: CC - Split: 60\%-40\% - Low tissue specificity - 1 potential biomarker(s):}\\ DDX58
+\item 	\textbf{Model: DP - Split: 60\%-40\% - Low tissue specificity - 139 potential biomarker(s):}\\ ABL1, ACP6, ADAM15, AGRN, AMFR, AMIGO2, ANXA11, APP, ARHGEF12, ARSB, ATOX1, AXIN1, AXL, BAX, BCL2L11, BSG, BTN2A1, CAPG, CASP2, CCL23, CCN4, CD276, CD40, CD46, CD55, CD59, CD99, CDC27, CLEC14A, CNPY4, CNST, CTSB, CTSF, CXADR, CXCL16, DAG1, DBI, DCN, DDR1, DDX58, DNAJA2, DNMBP, DPT, EDA2R, EGFL7, EPHB4, ESAM, F11R, FAM3C, FAS, FGF2, FOSB, FSTL3, GAS6, GFRA1, GOPC, HS6ST1, HSPG2, IFNGR1, IGF1R, IGFBP4, IGFBP6, IKBKG, IL10RB, INPP1, IRAK4, KIFBP, KITLG, LAMA4, LAYN, LGALS1, LRP11, LRPAP1, LTBR, LY96, MANF, MATN2, MAVS, MESD, METAP1D, MGLL, MITD1, MPI, MTPN, NBL1, NCK2, NOTCH3, NPDC1, NRP1, NRP2, NUDT2, PAMR1, PCDH1, PCOLCE, PDP1, PIK3IP1, PLTP, PMVK, PPIB, PPP1R12A, PRCP, PREB, PRKRA, PTPRF, PTPRS, PTS, RHOC, SCAMP3, SCARB2, SCARF2, SELP, SERPINB6, SKAP2, SLC27A4, SLIT2, SMOC2, SNAP23, SNAP29, SPINT2, STX4, STX8, TBCC, TGFBR2, THBS2, TIE1, TIMP3, TJAP1, TMSB10, TNFRSF10B, TNFRSF12A, TNFRSF1A, TNFSF12, TRIM5, TXLNA, TXNDC5, USP8, UXS1, YES1, YTHDF3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lymphoid tissue - 42 potential biomarker(s):}\\ APBB1IP, ARHGAP25, C1QA, CCL14, CCL17, CCL21, CD160, CD163, CD27, CD40LG, CD5, CD79B, CD84, CLEC10A, F2R, FCER2, FCRL5, FEN1, FLI1, GRAP2, GZMA, HAVCR2, IL1R2, IL7R, KAZALD1, KLRD1, LAT, MILR1, NCR1, NFKBIE, PDCD1, SCARF1, SH2D1A, SIGLEC10, SIGLEC7, SIT1, SLAMF8, TNFRSF1B, TNFRSF4, TNFRSF9, TNFSF13B, XCL1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain - 23 potential biomarker(s):}\\ ADAM22, ANGPT2, B4GAT1, CLIP2, CNTN1, CST3, DRAXIN, EDIL3, ERBIN, FKBP1B, ICAM5, IGSF8, MEPE, MOG, NEFL, NPPC, NTproBNP, PLXNB3, PON2, PPP1R9B, SCRN1, SORT1, TAFA5
+\item 	\textbf{Model: DP - Split: 60\%-40\% - liver - 13 potential biomarker(s):}\\ ANGPTL3, APOH, CCL16, CD302, CLEC1B, COL18A1, CRHBP, HYOU1, IQGAP2, MGMT, PROC, SCP2, TST
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow - 10 potential biomarker(s):}\\ ANXA3, CASP8, CD83, CLEC11A, CLEC4D, CXCL8, PLAUR, RELT, SH2B3, STK4
+\item 	\textbf{Model: DP - Split: 60\%-40\% - pancreas - 10 potential biomarker(s):}\\ AMY2B, CELA3A, CPA1, CPA2, CPB1, PLA2G1B, PRSS2, REG1A, REG1B, SPINK1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, lymphoid tissue - 9 potential biomarker(s):}\\ CD69, FES, FYB1, GNLY, GP1BA, GZMH, PTPN6, TNF, TNFRSF10C
+\item 	\textbf{Model: DP - Split: 60\%-40\% - placenta - 7 potential biomarker(s):}\\ ANGPTL1, CD93, HGF, JAM2, PAPPA, PECAM1, TFPI2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, lung, lymphoid tissue - 7 potential biomarker(s):}\\ CCL3, CD300C, CD300LF, CLEC7A, FCAR, NCF2, SIRPB1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus - 6 potential biomarker(s):}\\ CSTB, EDAR, EPHA2, EPS8L2, SPINT1, ULBP2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - skeletal muscle - 5 potential biomarker(s):}\\ CD99L2, COX5B, FOXO1, GDNF, USO1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lung - 5 potential biomarker(s):}\\ ACVRL1, ADAMTS8, CD274, SCGB1A1, TNFRSF6B
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine - 5 potential biomarker(s):}\\ CA13, CDHR2, CEACAM1, GUCA2A, RBP2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, lymphoid tissue - 4 potential biomarker(s):}\\ BANK1, CCL24, MZB1, TNFRSF13C
+\item 	\textbf{Model: DP - Split: 60\%-40\% - skin 1 - 4 potential biomarker(s):}\\ CST6, GPC1, KLK14, SERPINA12
+\item 	\textbf{Model: DP - Split: 60\%-40\% - kidney - 4 potential biomarker(s):}\\ CALB1, CDH6, PTH1R, TCN2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, retina - 3 potential biomarker(s):}\\ CNTNAP2, ROBO2, WASF3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - salivary gland - 3 potential biomarker(s):}\\ CCL28, CST5, PRSS8
+\item 	\textbf{Model: DP - Split: 60\%-40\% - testis - 3 potential biomarker(s):}\\ CEP43, GP6, PHOSPHO1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - urinary bladder - 3 potential biomarker(s):}\\ MMP13, SCARA5, TIMP1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - endometrium 1 - 3 potential biomarker(s):}\\ MMP10, RSPO3, SPON2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - skeletal muscle, tongue - 3 potential biomarker(s):}\\ CDNF, HSPB6, MSTN
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, vagina - 3 potential biomarker(s):}\\ DSC2, FABP5, FGFBP1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lung, lymphoid tissue - 3 potential biomarker(s):}\\ CLEC6A, DOK2, LAIR1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue - 3 potential biomarker(s):}\\ ADAMTS15, CPM, LRP1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, pancreas - 2 potential biomarker(s):}\\ ANPEP, REG3A
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, pituitary gland - 2 potential biomarker(s):}\\ ADGRB3, GAL
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue, cervix - 2 potential biomarker(s):}\\ CCN5, CXCL3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adrenal gland - 2 potential biomarker(s):}\\ CCN3, LDLR
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, skeletal muscle - 2 potential biomarker(s):}\\ BAG3, IL17D
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, liver - 2 potential biomarker(s):}\\ RTN4R, SMOC1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - parathyroid gland - 2 potential biomarker(s):}\\ CDH1, PVALB
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, kidney - 2 potential biomarker(s):}\\ HAVCR1, MME
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, skeletal muscle, tongue - 2 potential biomarker(s):}\\ NOS1, PADI2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, liver - 2 potential biomarker(s):}\\ CCL15, SULT1A1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, salivary gland, skin 1, vagina - 2 potential biomarker(s):}\\ KLK11, NECTIN4
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix, salivary gland - 2 potential biomarker(s):}\\ IL19, WFDC2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, salivary gland - 2 potential biomarker(s):}\\ PIGR, TNFRSF11A
+\item 	\textbf{Model: DP - Split: 60\%-40\% - gallbladder - 2 potential biomarker(s):}\\ CPXM1, SPON1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - retina - 2 potential biomarker(s):}\\ FRZB, PFKFB2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - ovary - 2 potential biomarker(s):}\\ MDK, PDGFRA
+\item 	\textbf{Model: DP - Split: 60\%-40\% - heart muscle, skeletal muscle, tongue - 2 potential biomarker(s):}\\ GYS1, ITGB1BP2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix - 2 potential biomarker(s):}\\ COLEC12, OGN
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, esophagus - 2 potential biomarker(s):}\\ DKK4, KLK6
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, intestine, salivary gland - 1 potential biomarker(s):}\\ CRACR2A
+\item 	\textbf{Model: DP - Split: 60\%-40\% - smooth muscle - 1 potential biomarker(s):}\\ COL6A3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, kidney, testis - 1 potential biomarker(s):}\\ GPC5
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, intestine, testis - 1 potential biomarker(s):}\\ EPHA10
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, gallbladder, salivary gland - 1 potential biomarker(s):}\\ LCN2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - gallbladder, intestine, kidney - 1 potential biomarker(s):}\\ ACE2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - epididymis - 1 potential biomarker(s):}\\ ENPP5
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue, breast, placenta - 1 potential biomarker(s):}\\ CD300LG
+\item 	\textbf{Model: DP - Split: 60\%-40\% - kidney, skin 1 - 1 potential biomarker(s):}\\ CA12
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, skeletal muscle - 1 potential biomarker(s):}\\ SOD2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, smooth muscle, urinary bladder - 1 potential biomarker(s):}\\ THY1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adrenal gland, pituitary gland, placenta - 1 potential biomarker(s):}\\ DLK1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - gallbladder, stomach 1, urinary bladder - 1 potential biomarker(s):}\\ MMP1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adrenal gland, brain - 1 potential biomarker(s):}\\ SNCG
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, choroid plexus - 1 potential biomarker(s):}\\ FGF23
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, urinary bladder - 1 potential biomarker(s):}\\ TNFRSF21
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, pancreas - 1 potential biomarker(s):}\\ PTPRN2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - liver, placenta - 1 potential biomarker(s):}\\ TFPI
+\item 	\textbf{Model: DP - Split: 60\%-40\% - kidney, pancreas, skeletal muscle - 1 potential biomarker(s):}\\ EGF
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, urinary bladder - 1 potential biomarker(s):}\\ CCL13
+\item 	\textbf{Model: DP - Split: 60\%-40\% - choroid plexus, ovary - 1 potential biomarker(s):}\\ CDH3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue, lymphoid tissue, urinary bladder - 1 potential biomarker(s):}\\ IL2RA
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, heart muscle, testis - 1 potential biomarker(s):}\\ PTGDS
+\item 	\textbf{Model: DP - Split: 60\%-40\% - kidney, thyroid gland - 1 potential biomarker(s):}\\ ESM1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - endometrium 1, skeletal muscle - 1 potential biomarker(s):}\\ PDLIM7
+\item 	\textbf{Model: DP - Split: 60\%-40\% - kidney, urinary bladder - 1 potential biomarker(s):}\\ GDF15
+\item 	\textbf{Model: DP - Split: 60\%-40\% - salivary gland, skin 1 - 1 potential biomarker(s):}\\ TNFRSF19
+\item 	\textbf{Model: DP - Split: 60\%-40\% - liver, lung, lymphoid tissue - 1 potential biomarker(s):}\\ MARCO
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, lymphoid tissue, stomach 1, urinary bladder - 1 potential biomarker(s):}\\ CCL11
+\item 	\textbf{Model: DP - Split: 60\%-40\% - stomach 1 - 1 potential biomarker(s):}\\ TFF2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - endometrium 1, gallbladder, lymphoid tissue, smooth muscle - 1 potential biomarker(s):}\\ CHRDL2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, skin 1, vagina - 1 potential biomarker(s):}\\ LY6D
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, brain, lymphoid tissue, thyroid gland - 1 potential biomarker(s):}\\ IPCEF1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - bone marrow, brain - 1 potential biomarker(s):}\\ ICOSLG
+\item 	\textbf{Model: DP - Split: 60\%-40\% - liver, pancreas - 1 potential biomarker(s):}\\ P4HB
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, parathyroid gland - 1 potential biomarker(s):}\\ EPHA1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, salivary gland, skin 1 - 1 potential biomarker(s):}\\ TACSTD2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix, gallbladder - 1 potential biomarker(s):}\\ COL1A1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, lung, salivary gland, stomach 1 - 1 potential biomarker(s):}\\ CXCL17
+\item 	\textbf{Model: DP - Split: 60\%-40\% - pituitary gland - 1 potential biomarker(s):}\\ PRL
+\item 	\textbf{Model: DP - Split: 60\%-40\% - prostate - 1 potential biomarker(s):}\\ MSMB
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, liver, skin 1 - 1 potential biomarker(s):}\\ SDC1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adrenal gland, brain, pancreas - 1 potential biomarker(s):}\\ DPP10
+\item 	\textbf{Model: DP - Split: 60\%-40\% - breast, choroid plexus - 1 potential biomarker(s):}\\ SFRP1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - fallopian tube, lung - 1 potential biomarker(s):}\\ MSLN
+\item 	\textbf{Model: DP - Split: 60\%-40\% - thyroid gland - 1 potential biomarker(s):}\\ IGFBPL1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - choroid plexus, fallopian tube, lung, salivary gland - 1 potential biomarker(s):}\\ FOLR1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - breast, pituitary gland, salivary gland, stomach 1 - 1 potential biomarker(s):}\\ MIA
+\item 	\textbf{Model: DP - Split: 60\%-40\% - choroid plexus, retina, skeletal muscle, tongue - 1 potential biomarker(s):}\\ CA14
+\item 	\textbf{Model: DP - Split: 60\%-40\% - endometrium 1, seminal vesicle, smooth muscle - 1 potential biomarker(s):}\\ ACTA2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - liver, lymphoid tissue - 1 potential biomarker(s):}\\ HYAL1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - parathyroid gland, testis - 1 potential biomarker(s):}\\ TDRKH
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, parathyroid gland - 1 potential biomarker(s):}\\ PTN
+\item 	\textbf{Model: DP - Split: 60\%-40\% - breast, fallopian tube, pancreas - 1 potential biomarker(s):}\\ VTCN1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - esophagus, lymphoid tissue, vagina - 1 potential biomarker(s):}\\ PI3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - heart muscle - 1 potential biomarker(s):}\\ TNNI3
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lymphoid tissue, smooth muscle - 1 potential biomarker(s):}\\ TNC
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix, endometrium 1 - 1 potential biomarker(s):}\\ RSPO1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - gallbladder, salivary gland, urinary bladder - 1 potential biomarker(s):}\\ MMP7
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue, breast - 1 potential biomarker(s):}\\ FABP4
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix, salivary gland, stomach 1 - 1 potential biomarker(s):}\\ BPIFB1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - Not detected - 1 potential biomarker(s):}\\ IFNL1
+\item 	\textbf{Model: DP - Split: 60\%-40\% - adipose tissue, brain, ovary - 1 potential biomarker(s):}\\ CLSTN2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lung, lymphoid tissue, skin 1 - 1 potential biomarker(s):}\\ MPIG6B
+\item 	\textbf{Model: DP - Split: 60\%-40\% - ovary, pancreas - 1 potential biomarker(s):}\\ FLRT2
+\item 	\textbf{Model: DP - Split: 60\%-40\% - brain, gallbladder - 1 potential biomarker(s):}\\ FGF5
+\item 	\textbf{Model: DP - Split: 60\%-40\% - lymphoid tissue, placenta - 1 potential biomarker(s):}\\ CLEC1A
+\item 	\textbf{Model: DP - Split: 60\%-40\% - cervix, endometrium 1, smooth muscle - 1 potential biomarker(s):}\\ ITGA11
+\item 	\textbf{Model: DP - Split: 60\%-40\% - intestine, lymphoid tissue, skin 1, urinary bladder - 1 potential biomarker(s):}\\ CCL22
+\item 	\textbf{Model: HARAM - Split: 60\%-40\% - endometrium 1, smooth muscle - 1 potential biomarker(s):}\\ FAP
+\item 	\textbf{Model: HARAM - Split: 60\%-40\% - Not detected - 1 potential biomarker(s):}\\ IFNL1
+\item 	\textbf{Model: HARAM - Split: 60\%-40\% - Low tissue specificity - 1 potential biomarker(s):}\\ APP
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - Low tissue specificity - 17 potential biomarker(s):}\\ BGN, BOC, CCDC80, CCN2, CD276, CD40, DCBLD2, DCN, EFEMP1, IL6ST, LRP11, LTBP2, MCAM, NOTCH3, OMD, PSMA1, VASN
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - brain - 3 potential biomarker(s):}\\ ADAM22, DRAXIN, NPPC
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - placenta - 2 potential biomarker(s):}\\ CDH5, PECAM1
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - lymphoid tissue - 2 potential biomarker(s):}\\ LAT, SLAMF8
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - brain, seminal vesicle - 1 potential biomarker(s):}\\ ACAN
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - heart muscle - 1 potential biomarker(s):}\\ ENG
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - lung - 1 potential biomarker(s):}\\ MSR1
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - skeletal muscle, tongue - 1 potential biomarker(s):}\\ CDNF
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - salivary gland - 1 potential biomarker(s):}\\ MANSC1
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - skin 1 - 1 potential biomarker(s):}\\ SERPINA12
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - kidney, thyroid gland - 1 potential biomarker(s):}\\ ESM1
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - lymphoid tissue, placenta - 1 potential biomarker(s):}\\ CD28
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - smooth muscle, urinary bladder - 1 potential biomarker(s):}\\ ITGA5
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - brain, skeletal muscle - 1 potential biomarker(s):}\\ IL17D
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - adrenal gland, pituitary gland - 1 potential biomarker(s):}\\ CHGB
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - endometrium 1 - 1 potential biomarker(s):}\\ PAEP
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - brain, retina - 1 potential biomarker(s):}\\ ROBO2
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - bone marrow, lung, lymphoid tissue - 1 potential biomarker(s):}\\ CLEC7A
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - urinary bladder - 1 potential biomarker(s):}\\ SCARA5
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - cervix, fallopian tube, salivary gland - 1 potential biomarker(s):}\\ MUC16
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - stomach 1 - 1 potential biomarker(s):}\\ TFF2
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - skeletal muscle - 1 potential biomarker(s):}\\ IGF2R
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - endometrium 1, seminal vesicle, smooth muscle - 1 potential biomarker(s):}\\ ACTA2
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - bone marrow, lymphoid tissue - 1 potential biomarker(s):}\\ KLRB1
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - pancreas - 1 potential biomarker(s):}\\ KIRREL2
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - adrenal gland - 1 potential biomarker(s):}\\ CCN3
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - intestine, urinary bladder - 1 potential biomarker(s):}\\ CCL13
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - brain, lung, lymphoid tissue - 1 potential biomarker(s):}\\ PCDH17
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - liver - 1 potential biomarker(s):}\\ SCP2
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - kidney - 1 potential biomarker(s):}\\ CDH6
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - intestine, pancreas - 1 potential biomarker(s):}\\ ANPEP
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - retina, thyroid gland - 1 potential biomarker(s):}\\ PRTG
+\item 	\textbf{Model: RKD - Split: 60\%-40\% - lung, lymphoid tissue - 1 potential biomarker(s):}\\ LAIR1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - Low tissue specificity - 13 potential biomarker(s):}\\ APP, AXL, CCDC80, CD40, CD99, DCBLD2, INPP1, PTK7, RNASET2, SCARF2, TIA1, TXNDC5, VEGFA
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - lymphoid tissue - 7 potential biomarker(s):}\\ ADA2, CCL17, CD5, CD84, IL1R2, IL7R, LAT
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - liver - 4 potential biomarker(s):}\\ CA5A, CCL16, CD302, HAO1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - pancreas - 4 potential biomarker(s):}\\ CPA2, PLA2G1B, PRSS2, SPINK1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - brain - 3 potential biomarker(s):}\\ ADAM22, APLP1, NPPC
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - placenta - 2 potential biomarker(s):}\\ SPARC, TEK
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - bone marrow, lung, lymphoid tissue - 2 potential biomarker(s):}\\ CLEC7A, FGR
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - esophagus - 1 potential biomarker(s):}\\ CDCP1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - intestine, lymphoid tissue, stomach 1, urinary bladder - 1 potential biomarker(s):}\\ CCL11
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - fallopian tube, lung - 1 potential biomarker(s):}\\ MSLN
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - adipose tissue, cervix - 1 potential biomarker(s):}\\ CCN5
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - brain, skeletal muscle, tongue - 1 potential biomarker(s):}\\ PADI2
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - brain, salivary gland - 1 potential biomarker(s):}\\ CGREF1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - stomach 1 - 1 potential biomarker(s):}\\ TFF2
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - cervix, placenta, urinary bladder - 1 potential biomarker(s):}\\ DKK1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - bone marrow, lymphoid tissue - 1 potential biomarker(s):}\\ KLRB1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - adrenal gland - 1 potential biomarker(s):}\\ CCN3
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - skeletal muscle, tongue - 1 potential biomarker(s):}\\ MSTN
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - intestine, lymphoid tissue - 1 potential biomarker(s):}\\ CCL24
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - endometrium 1 - 1 potential biomarker(s):}\\ RSPO3
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - lung - 1 potential biomarker(s):}\\ TNFRSF6B
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - kidney, skin 1 - 1 potential biomarker(s):}\\ CA12
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - intestine, urinary bladder - 1 potential biomarker(s):}\\ CCL13
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - intestine - 1 potential biomarker(s):}\\ GUCA2A
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - brain, gallbladder, kidney, placenta - 1 potential biomarker(s):}\\ SPP1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - bone marrow, urinary bladder - 1 potential biomarker(s):}\\ IL1B
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - kidney, liver - 1 potential biomarker(s):}\\ ACAA1
+\item 	\textbf{Model: SVM - Split: 60\%-40\% - bone marrow - 1 potential biomarker(s):}\\ CDKN2D
+\item 	\textbf{Model: CC - Split: 70\%-30\% - intestine, pancreas - 1 potential biomarker(s):}\\ REG3A
+\item 	\textbf{Model: DP - Split: 70\%-30\% - Low tissue specificity - 71 potential biomarker(s):}\\ AIFM1, ARHGEF12, ARTN, ATP5IF1, BAIAP2, BCR, BRK1, CALCOCO1, CASP2, CD99, CEP20, CHMP1A, CLPP, CNST, CRKL, CXCL16, DAG1, DBNL, DCTN1, DDR1, DIABLO, DNAJA2, DNMBP, EBAG9, EGFL7, EZR, GLT8D2, GOPC, IFNGR1, IGSF3, IKBKG, INPPL1, IRAK4, KIFBP, LGALS8, MANF, MATN2, MAVS, MESD, MGLL, MPI, MTPN, NBN, NFATC1, NRP1, NRP2, PDP1, PEAR1, PMVK, PPIB, PRCP, PRDX3, PRKRA, PTPN1, RHOC, SCAMP3, SKAP2, SMAD5, SNAP29, SRC, STX4, TBC1D23, TBC1D5, THBS2, TJAP1, TNFRSF10B, TYMP, USP8, UXS1, VPS53, YES1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - lymphoid tissue - 11 potential biomarker(s):}\\ ARHGAP25, CD163, CD40LG, GRAP2, KIR2DL3, KLRD1, PDCD1, SIT1, TNFRSF1B, TNFRSF4, XCL1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - bone marrow, lymphoid tissue - 10 potential biomarker(s):}\\ BIN2, CD244, CD48, CD69, FES, FYB1, HCLS1, LRRC25, LYN, PTPN6
+\item 	\textbf{Model: DP - Split: 70\%-30\% - liver - 9 potential biomarker(s):}\\ ANGPTL3, ASGR1, CLEC1B, CRHBP, FETUB, MGMT, SCLY, SDC4, TST
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain - 8 potential biomarker(s):}\\ ADAM22, EDIL3, ENTPD2, ERBIN, HPCAL1, NEFL, PPP1R9B, TBCB
+\item 	\textbf{Model: DP - Split: 70\%-30\% - bone marrow - 7 potential biomarker(s):}\\ BACH1, CD83, CLC, CLEC11A, CLEC4D, PLAUR, SH2B3
+\item 	\textbf{Model: DP - Split: 70\%-30\% - skeletal muscle - 6 potential biomarker(s):}\\ COX5B, EIF4G1, FOXO1, IGF2R, RGMA, USO1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine - 5 potential biomarker(s):}\\ ASAH2, CA13, CDHR2, CEACAM1, MUC13
+\item 	\textbf{Model: DP - Split: 70\%-30\% - placenta - 5 potential biomarker(s):}\\ ANGPTL1, BMP6, SPARC, TFPI2, TGFBI
+\item 	\textbf{Model: DP - Split: 70\%-30\% - skin 1 - 5 potential biomarker(s):}\\ CDSN, CST6, GPC1, LGALS7_LGALS7B, SERPINB8
+\item 	\textbf{Model: DP - Split: 70\%-30\% - pancreas - 4 potential biomarker(s):}\\ CLPS, CPA2, PRSS2, SPINK1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - lung - 2 potential biomarker(s):}\\ ADAMTS8, CD274
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, kidney - 2 potential biomarker(s):}\\ HAVCR1, MME
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, lymphoid tissue - 2 potential biomarker(s):}\\ BANK1, MZB1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - lung, urinary bladder - 2 potential biomarker(s):}\\ CSF3, ICAM1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - skeletal muscle, tongue - 2 potential biomarker(s):}\\ CEP85, ITGB6
+\item 	\textbf{Model: DP - Split: 70\%-30\% - kidney, liver - 2 potential biomarker(s):}\\ GGT1, MSRA
+\item 	\textbf{Model: DP - Split: 70\%-30\% - endometrium 1 - 2 potential biomarker(s):}\\ MMP10, SSC5D
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, choroid plexus, lung - 1 potential biomarker(s):}\\ TREM2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - endometrium 1, gallbladder, lymphoid tissue, smooth muscle - 1 potential biomarker(s):}\\ CHRDL2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - cervix, retina - 1 potential biomarker(s):}\\ NT5E
+\item 	\textbf{Model: DP - Split: 70\%-30\% - salivary gland, urinary bladder - 1 potential biomarker(s):}\\ SLITRK6
+\item 	\textbf{Model: DP - Split: 70\%-30\% - parathyroid gland, seminal vesicle - 1 potential biomarker(s):}\\ PLA2G4A
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adipose tissue - 1 potential biomarker(s):}\\ CPM
+\item 	\textbf{Model: DP - Split: 70\%-30\% - cervix, endometrium 1, smooth muscle - 1 potential biomarker(s):}\\ ITGA11
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adipose tissue, cervix - 1 potential biomarker(s):}\\ CXCL3
+\item 	\textbf{Model: DP - Split: 70\%-30\% - gallbladder, stomach 1, urinary bladder - 1 potential biomarker(s):}\\ MMP1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, parathyroid gland - 1 potential biomarker(s):}\\ PTN
+\item 	\textbf{Model: DP - Split: 70\%-30\% - testis - 1 potential biomarker(s):}\\ GP6
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, liver, salivary gland - 1 potential biomarker(s):}\\ GNE
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adrenal gland, liver, pancreas - 1 potential biomarker(s):}\\ RARRES2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, urinary bladder - 1 potential biomarker(s):}\\ CCL13
+\item 	\textbf{Model: DP - Split: 70\%-30\% - breast, fallopian tube, pancreas - 1 potential biomarker(s):}\\ VTCN1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - esophagus - 1 potential biomarker(s):}\\ CDCP1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, pancreas - 1 potential biomarker(s):}\\ ANPEP
+\item 	\textbf{Model: DP - Split: 70\%-30\% - pituitary gland - 1 potential biomarker(s):}\\ PRL
+\item 	\textbf{Model: DP - Split: 70\%-30\% - bone marrow, intestine, salivary gland - 1 potential biomarker(s):}\\ CRACR2A
+\item 	\textbf{Model: DP - Split: 70\%-30\% - parathyroid gland, testis - 1 potential biomarker(s):}\\ TDRKH
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adrenal gland - 1 potential biomarker(s):}\\ LDLR
+\item 	\textbf{Model: DP - Split: 70\%-30\% - lung, lymphoid tissue, skin 1 - 1 potential biomarker(s):}\\ MPIG6B
+\item 	\textbf{Model: DP - Split: 70\%-30\% - bone marrow, brain, lymphoid tissue, thyroid gland - 1 potential biomarker(s):}\\ IPCEF1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, salivary gland - 1 potential biomarker(s):}\\ TNFRSF11A
+\item 	\textbf{Model: DP - Split: 70\%-30\% - cervix, gallbladder - 1 potential biomarker(s):}\\ COL1A1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - ovary - 1 potential biomarker(s):}\\ MDK
+\item 	\textbf{Model: DP - Split: 70\%-30\% - gallbladder, intestine, kidney - 1 potential biomarker(s):}\\ ACE2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, testis - 1 potential biomarker(s):}\\ WASF1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - esophagus, skin 1 - 1 potential biomarker(s):}\\ IL18
+\item 	\textbf{Model: DP - Split: 70\%-30\% - fallopian tube, lung - 1 potential biomarker(s):}\\ MSLN
+\item 	\textbf{Model: DP - Split: 70\%-30\% - Not detected - 1 potential biomarker(s):}\\ IFNL1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, liver - 1 potential biomarker(s):}\\ SMOC1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - kidney - 1 potential biomarker(s):}\\ CALB1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, liver - 1 potential biomarker(s):}\\ SULT1A1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - breast, choroid plexus - 1 potential biomarker(s):}\\ SFRP1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - esophagus, vagina - 1 potential biomarker(s):}\\ FGFBP1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - esophagus, liver, skin 1 - 1 potential biomarker(s):}\\ SDC1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - heart muscle, liver - 1 potential biomarker(s):}\\ DECR1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - retina - 1 potential biomarker(s):}\\ PFKFB2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - lymphoid tissue, testis - 1 potential biomarker(s):}\\ TIMD4
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, skeletal muscle, tongue - 1 potential biomarker(s):}\\ PADI2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - liver, placenta - 1 potential biomarker(s):}\\ TFPI
+\item 	\textbf{Model: DP - Split: 70\%-30\% - endometrium 1, skeletal muscle - 1 potential biomarker(s):}\\ PDLIM7
+\item 	\textbf{Model: DP - Split: 70\%-30\% - liver, pancreas - 1 potential biomarker(s):}\\ P4HB
+\item 	\textbf{Model: DP - Split: 70\%-30\% - cervix, fallopian tube, salivary gland - 1 potential biomarker(s):}\\ MUC16
+\item 	\textbf{Model: DP - Split: 70\%-30\% - cervix, placenta, urinary bladder - 1 potential biomarker(s):}\\ DKK1
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adrenal gland, brain, pancreas - 1 potential biomarker(s):}\\ DPP10
+\item 	\textbf{Model: DP - Split: 70\%-30\% - testis, thyroid gland - 1 potential biomarker(s):}\\ GFRA2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - salivary gland - 1 potential biomarker(s):}\\ CCL28
+\item 	\textbf{Model: DP - Split: 70\%-30\% - adipose tissue, brain, ovary - 1 potential biomarker(s):}\\ CLSTN2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - heart muscle - 1 potential biomarker(s):}\\ ENG
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, esophagus - 1 potential biomarker(s):}\\ DKK4
+\item 	\textbf{Model: DP - Split: 70\%-30\% - parathyroid gland - 1 potential biomarker(s):}\\ ALCAM
+\item 	\textbf{Model: DP - Split: 70\%-30\% - intestine, parathyroid gland - 1 potential biomarker(s):}\\ DSG2
+\item 	\textbf{Model: DP - Split: 70\%-30\% - bone marrow, brain, lymphoid tissue - 1 potential biomarker(s):}\\ RAB37
+\item 	\textbf{Model: DP - Split: 70\%-30\% - brain, retina - 1 potential biomarker(s):}\\ CNTNAP2
+\item 	\textbf{Model: HARAM - Split: 70\%-30\% - Low tissue specificity - 1 potential biomarker(s):}\\ IL10RB
+\item 	\textbf{Model: HARAM - Split: 70\%-30\% - intestine, pancreas - 1 potential biomarker(s):}\\ REG3A
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - Low tissue specificity - 14 potential biomarker(s):}\\ ACTN4, ANXA11, BGN, BOC, CKAP4, DBI, DCN, DDX58, DNMBP, DPT, IL15RA, PLIN3, SLIT2, TXNDC5
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - skeletal muscle - 3 potential biomarker(s):}\\ IDI2, IGF2R, RGMA
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - skin 1 - 2 potential biomarker(s):}\\ GPNMB, SERPINA12
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain - 2 potential biomarker(s):}\\ ADAM22, SEMA4D
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - placenta - 2 potential biomarker(s):}\\ BMP6, PSG1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - lymphoid tissue - 1 potential biomarker(s):}\\ NCR1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - adipose tissue, seminal vesicle - 1 potential biomarker(s):}\\ CHRDL1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - adrenal gland, pituitary gland - 1 potential biomarker(s):}\\ CHGB
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - bone marrow - 1 potential biomarker(s):}\\ MPO
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - intestine, liver - 1 potential biomarker(s):}\\ CCL15
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - lung - 1 potential biomarker(s):}\\ MSR1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain, gallbladder - 1 potential biomarker(s):}\\ FGF5
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain, skin 1 - 1 potential biomarker(s):}\\ EPHB6
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - endometrium 1 - 1 potential biomarker(s):}\\ PAEP
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - esophagus - 1 potential biomarker(s):}\\ CDCP1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - bone marrow, lung, lymphoid tissue - 1 potential biomarker(s):}\\ SIRPB1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain, fallopian tube, retina - 1 potential biomarker(s):}\\ NELL2
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain, skeletal muscle - 1 potential biomarker(s):}\\ IL17D
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - intestine, parathyroid gland - 1 potential biomarker(s):}\\ DSG2
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - stomach 1 - 1 potential biomarker(s):}\\ TFF1
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - brain, parathyroid gland - 1 potential biomarker(s):}\\ ADAM23
+\item 	\textbf{Model: RKD - Split: 70\%-30\% - lung, lymphoid tissue - 1 potential biomarker(s):}\\ LAIR1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - Low tissue specificity - 14 potential biomarker(s):}\\ ANXA11, BOC, CCDC80, CD40, CNPY4, DBI, DNMBP, EGFL7, NRP1, NRP2, PRKRA, SCAMP3, TXNDC5, UXS1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - brain - 4 potential biomarker(s):}\\ ADAM22, CST3, MEGF10, SORT1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - lymphoid tissue - 4 potential biomarker(s):}\\ ADA2, KLRD1, LAT, NCR1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - liver - 3 potential biomarker(s):}\\ CLEC1B, CRHBP, PON3
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - lung, urinary bladder - 1 potential biomarker(s):}\\ ICAM1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - bone marrow, lung, lymphoid tissue - 1 potential biomarker(s):}\\ NCF2
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - adipose tissue, lymphoid tissue, urinary bladder - 1 potential biomarker(s):}\\ IL2RA
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - skeletal muscle - 1 potential biomarker(s):}\\ NDUFS6
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - placenta - 1 potential biomarker(s):}\\ PECAM1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - salivary gland - 1 potential biomarker(s):}\\ CST5
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - esophagus - 1 potential biomarker(s):}\\ CDCP1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - brain, choroid plexus - 1 potential biomarker(s):}\\ ENPP2
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - parathyroid gland - 1 potential biomarker(s):}\\ ROR1
+\item 	\textbf{Model: SVM - Split: 70\%-30\% - stomach 1 - 1 potential biomarker(s):}\\ TFF1
+\item 	\textbf{Model: CC - Split: 75\%-25\% - intestine, pancreas - 1 potential biomarker(s):}\\ REG3A
+\item 	\textbf{Model: DP - Split: 75\%-25\% - lymphoid tissue - 1 potential biomarker(s):}\\ XCL1
+\item 	\textbf{Model: DP - Split: 75\%-25\% - liver - 1 potential biomarker(s):}\\ SERPINA11
+\item 	\textbf{Model: DP - Split: 75\%-25\% - brain - 1 potential biomarker(s):}\\ AKT3
+\item 	\textbf{Model: DP - Split: 75\%-25\% - intestine, pancreas, salivary gland, stomach 1 - 1 potential biomarker(s):}\\ FAM3B
+\item 	\textbf{Model: DP - Split: 75\%-25\% - Low tissue specificity - 1 potential biomarker(s):}\\ CDKN1A
+\item 	\textbf{Model: HARAM - Split: 75\%-25\% - intestine, pancreas - 1 potential biomarker(s):}\\ REG3A
+\item 	\textbf{Model: SVM - Split: 75\%-25\% - placenta - 1 potential biomarker(s):}\\ EBI3
+\item 	\textbf{Model: SVM - Split: 75\%-25\% - liver - 1 potential biomarker(s):}\\ IL27  \end{itemize}
