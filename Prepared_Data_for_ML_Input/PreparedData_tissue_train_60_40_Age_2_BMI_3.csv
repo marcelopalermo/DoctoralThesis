@@ -1,0 +1,14 @@
+,Group_enriched_bone_marrow_lymphoid_tissue,Low_tissue_specificity,Not_detected,Tissue_enhanced_endometrium_1_smooth_muscle,Tissue_enhanced_esophagus_liver_skin_1,Tissue_enhanced_lung_urinary_bladder,Tissue_enhanced_lymphoid_tissue,Tissue_enhanced_placenta,Tissue_enriched_bone_marrow,Tissue_enriched_epididymis,Tissue_enriched_lymphoid_tissue,Age,BMI
+0,False,False,True,False,False,False,False,False,False,False,False,2,3
+1,False,False,False,False,False,False,True,False,False,False,False,2,3
+2,True,False,False,False,False,False,False,False,False,False,False,2,3
+3,False,False,False,False,False,False,True,False,False,False,False,2,3
+4,False,False,False,True,False,False,False,False,False,False,False,2,3
+5,False,False,False,False,True,False,False,False,False,False,False,2,3
+6,False,False,False,False,False,False,False,False,False,True,False,2,3
+7,False,False,False,False,False,False,False,True,False,False,False,2,3
+8,False,False,False,False,False,False,True,False,False,False,False,2,3
+9,False,False,False,False,False,True,False,False,False,False,False,2,3
+10,False,False,False,False,False,False,False,False,False,False,True,2,3
+11,False,False,False,False,False,False,False,False,True,False,False,2,3
+12,False,True,False,False,False,False,False,False,False,False,False,2,3

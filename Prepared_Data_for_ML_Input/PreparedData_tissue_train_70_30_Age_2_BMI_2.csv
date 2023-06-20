@@ -1,0 +1,11 @@
+,Group_enriched_intestine_lymphoid_tissue,Group_enriched_lymphoid_tissue_testis,Low_tissue_specificity,Tissue_enhanced_brain_parathyroid_gland,Tissue_enhanced_esophagus_liver_skin_1,Tissue_enhanced_gallbladder_salivary_gland_urinary_bladder,Tissue_enhanced_intestine_urinary_bladder,Tissue_enriched_brain,Tissue_enriched_lymphoid_tissue,Tissue_enriched_pituitary_gland,Age,BMI
+0,True,False,False,False,False,False,False,False,False,False,2,2
+1,False,False,False,False,False,True,False,False,False,False,2,2
+2,False,False,False,False,False,False,False,False,False,True,2,2
+3,False,False,False,True,False,False,False,False,False,False,2,2
+4,False,False,False,False,True,False,False,False,False,False,2,2
+5,False,False,False,False,False,False,False,True,False,False,2,2
+6,False,True,False,False,False,False,False,False,False,False,2,2
+7,False,False,True,False,False,False,False,False,False,False,2,2
+8,False,False,False,False,False,False,False,False,True,False,2,2
+9,False,False,False,False,False,False,True,False,False,False,2,2

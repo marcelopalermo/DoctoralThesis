@@ -1,0 +1,12 @@
+,Group_enriched_breast_pituitary_gland_salivary_gland_stomach_1,Low_tissue_specificity,Not_detected,Tissue_enhanced_bone_marrow,Tissue_enhanced_brain_skeletal_muscle_tongue,Tissue_enhanced_breast_fallopian_tube_pancreas,Tissue_enhanced_intestine_salivary_gland,Tissue_enhanced_lymphoid_tissue,Tissue_enhanced_placenta,Tissue_enriched_urinary_bladder,Age,BMI
+0,False,False,False,False,False,True,False,False,False,False,2,3
+1,False,False,True,False,False,False,False,False,False,False,2,3
+2,False,False,False,False,True,False,False,False,False,False,2,3
+3,False,False,False,False,False,False,False,False,True,False,2,3
+4,False,True,False,False,False,False,False,False,False,False,2,3
+5,False,False,False,False,False,False,False,True,False,False,2,3
+6,False,False,False,False,False,False,False,False,False,True,2,3
+7,False,False,False,False,False,False,True,False,False,False,2,3
+8,False,False,False,False,False,False,False,True,False,False,2,3
+9,False,False,False,True,False,False,False,False,False,False,2,3
+10,True,False,False,False,False,False,False,False,False,False,2,3

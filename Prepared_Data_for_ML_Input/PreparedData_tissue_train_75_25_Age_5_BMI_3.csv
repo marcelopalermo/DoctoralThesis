@@ -1,0 +1,10 @@
+,Low_tissue_specificity,Tissue_enhanced_brain_skeletal_muscle_tongue,Tissue_enriched_bone_marrow,Tissue_enriched_epididymis,Tissue_enriched_heart_muscle,Tissue_enriched_lung,Tissue_enriched_salivary_gland,Tissue_enriched_skin_1,Age,BMI
+0,False,True,False,False,False,False,False,False,5,3
+1,False,False,True,False,False,False,False,False,5,3
+2,False,False,False,True,False,False,False,False,5,3
+3,False,False,False,False,False,True,False,False,5,3
+4,False,False,False,False,False,False,False,True,5,3
+5,True,False,False,False,False,False,False,False,5,3
+6,True,False,False,False,False,False,False,False,5,3
+7,False,False,False,False,True,False,False,False,5,3
+8,False,False,False,False,False,False,True,False,5,3

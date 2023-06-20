@@ -1,0 +1,7 @@
+,Tissue_enhanced_brain,Tissue_enhanced_gallbladder_salivary_gland_urinary_bladder,Tissue_enriched_bone_marrow,Tissue_enriched_brain,Tissue_enriched_intestine,Tissue_enriched_testis,Age,BMI
+0,False,False,True,False,False,False,2,2
+1,True,False,False,False,False,False,2,2
+2,False,False,False,False,False,True,2,2
+3,False,False,False,True,False,False,2,2
+4,False,False,False,False,True,False,2,2
+5,False,True,False,False,False,False,2,2

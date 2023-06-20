@@ -1,0 +1,16 @@
+,Group_enriched_esophagus_vagina,Group_enriched_intestine_pancreas,Low_tissue_specificity,Tissue_enhanced_intestine,Tissue_enhanced_intestine_kidney,Tissue_enhanced_intestine_pancreas_salivary_gland_stomach_1,Tissue_enhanced_lung_lymphoid_tissue,Tissue_enhanced_lymphoid_tissue,Tissue_enriched_bone_marrow,Tissue_enriched_intestine,Age,BMI
+0,False,False,False,False,False,False,True,False,False,False,3,3
+1,False,False,False,False,False,False,False,False,False,True,3,3
+2,False,False,True,False,False,False,False,False,False,False,3,3
+3,False,False,False,False,True,False,False,False,False,False,3,3
+4,False,False,True,False,False,False,False,False,False,False,3,3
+5,False,True,False,False,False,False,False,False,False,False,3,3
+6,False,False,False,True,False,False,False,False,False,False,3,3
+7,True,False,False,False,False,False,False,False,False,False,3,3
+8,False,False,False,False,False,True,False,False,False,False,3,3
+9,False,False,True,False,False,False,False,False,False,False,3,3
+10,False,False,False,False,False,False,False,True,False,False,3,3
+11,False,False,True,False,False,False,False,False,False,False,3,3
+12,False,False,False,False,False,False,False,True,False,False,3,3
+13,False,False,False,False,False,False,False,False,True,False,3,3
+14,False,False,False,False,False,False,False,False,True,False,3,3
