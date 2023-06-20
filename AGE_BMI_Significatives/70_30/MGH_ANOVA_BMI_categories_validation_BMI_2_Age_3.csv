@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","SDC1","OID20169","P18827","Cardiometabolic","Timepoint",3,31.0822361412363,10.3607453804121,15.9444631900061,9.89505826241914e-06,0.014565525762281,"Significant","Tissue enhanced: esophagus, liver, skin 1","Syndecan-1","Tissue_enhanced_esophagus_liver_skin_1"

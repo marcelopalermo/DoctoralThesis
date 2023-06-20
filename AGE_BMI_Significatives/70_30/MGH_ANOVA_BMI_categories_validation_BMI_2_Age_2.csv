@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","IGFBP7","OID20236","Q16270","Cardiometabolic","Timepoint",2,2.16003461675,1.080017308375,157.658511469269,3.04421248136887e-05,0.0448108077257498,"Significant","Low tissue specificity","Insulin-like growth factor-binding protein 7","Low_tissue_specificity"

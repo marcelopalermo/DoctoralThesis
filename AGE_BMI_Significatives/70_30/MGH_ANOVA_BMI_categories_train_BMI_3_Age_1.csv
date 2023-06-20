@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","REG3A","OID20258","Q06141","Cardiometabolic","Timepoint",2,22.0362342245833,11.0181171122917,162.221336533368,2.83775813969254e-05,0.0417717998162742,"Significant","Group enriched: intestine, pancreas","Regenerating islet-derived protein 3-alpha","Group_enriched_intestine_pancreas"

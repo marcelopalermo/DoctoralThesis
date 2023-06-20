@@ -1,0 +1,2 @@
+"","Assay","OlinkID","UniProt","Panel","term","df","sumsq","meansq","statistic","p.value","Adjusted_pval","Threshold","Organ","Desc","Desc_Column"
+"1","SLITRK6","OID20094","Q9H5Y7","Cardiometabolic","Timepoint",2,11.582649508,5.791324754,81.0819896216072,1.44133693666216e-05,0.021216479707667,"Significant","Tissue enhanced: salivary gland, urinary bladder","SLIT and NTRK-like protein 6","Tissue_enhanced_salivary_gland_urinary_bladder"
