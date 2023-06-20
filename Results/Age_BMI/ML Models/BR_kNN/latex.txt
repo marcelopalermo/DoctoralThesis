@@ -1,0 +1,236 @@
+\begin{table}
+
+\caption{Example}
+\centering
+\begin{tabular}[t]{l|l|l|l|l|r}
+\hline
+  & Split & Model & Tissue & Significant proteins & Ranking\\
+\hline
+3 & 60\%-40\% & Deep & Low tissue specificity & ABL1, ACP6, ADAM15, AGRN, AMFR, AMIGO2, ANXA11, APP, ARHGEF12, ARSB, ATOX1, AXIN1, AXL, BAX, BCL2L11, BSG, BTN2A1, CAPG, CASP2, CCL23, CCN4, CD276, CD40, CD46, CD55, CD59, CD99, CDC27, CLEC14A, CNPY4, CNST, CTSB, CTSF, CXADR, CXCL16, DAG1, DBI, DCN, DDR1, DDX58, DNAJA2, DNMBP, DPT, EDA2R, EGFL7, EPHB4, ESAM, F11R, FAM3C, FAS, FGF2, FOSB, FSTL3, GAS6, GFRA1, GOPC, HS6ST1, HSPG2, IFNGR1, IGF1R, IGFBP4, IGFBP6, IKBKG, IL10RB, INPP1, IRAK4, KIFBP, KITLG, LAMA4, LAYN, LGALS1, LRP11, LRPAP1, LTBR, LY96, MANF, MATN2, MAVS, MESD, METAP1D, MGLL, MITD1, MPI, MTPN, NBL1, NCK2, NOTCH3, NPDC1, NRP1, NRP2, NUDT2, PAMR1, PCDH1, PCOLCE, PDP1, PIK3IP1, PLTP, PMVK, PPIB, PPP1R12A, PRCP, PREB, PRKRA, PTPRF, PTPRS, PTS, RHOC, SCAMP3, SCARB2, SCARF2, SELP, SERPINB6, SKAP2, SLC27A4, SLIT2, SMOC2, SNAP23, SNAP29, SPINT2, STX4, STX8, TBCC, TGFBR2, THBS2, TIE1, TIMP3, TJAP1, TMSB10, TNFRSF10B, TNFRSF12A, TNFRSF1A, TNFSF12, TRIM5, TXLNA, TXNDC5, USP8, UXS1, YES1, YTHDF3 & 139\\
+\hline
+12 & 60\%-40\% & Deep & lymphoid tissue & APBB1IP, ARHGAP25, C1QA, CCL14, CCL17, CCL21, CD160, CD163, CD27, CD40LG, CD5, CD79B, CD84, CLEC10A, F2R, FCER2, FCRL5, FEN1, FLI1, GRAP2, GZMA, HAVCR2, IL1R2, IL7R, KAZALD1, KLRD1, LAT, MILR1, NCR1, NFKBIE, PDCD1, SCARF1, SH2D1A, SIGLEC10, SIGLEC7, SIT1, SLAMF8, TNFRSF1B, TNFRSF4, TNFRSF9, TNFSF13B, XCL1 & 42\\
+\hline
+14 & 60\%-40\% & Deep & brain & ADAM22, ANGPT2, B4GAT1, CLIP2, CNTN1, CST3, DRAXIN, EDIL3, ERBIN, FKBP1B, ICAM5, IGSF8, MEPE, MOG, NEFL, NPPC, NTproBNP, PLXNB3, PON2, PPP1R9B, SCRN1, SORT1, TAFA5 & 23\\
+\hline
+1 & 60\%-40\% & Deep & liver & ANGPTL3, APOH, CCL16, CD302, CLEC1B, COL18A1, CRHBP, HYOU1, IQGAP2, MGMT, PROC, SCP2, TST & 13\\
+\hline
+9 & 60\%-40\% & Deep & bone marrow & ANXA3, CASP8, CD83, CLEC11A, CLEC4D, CXCL8, PLAUR, RELT, SH2B3, STK4 & 10\\
+\hline
+35 & 60\%-40\% & Deep & pancreas & AMY2B, CELA3A, CPA1, CPA2, CPB1, PLA2G1B, PRSS2, REG1A, REG1B, SPINK1 & 10\\
+\hline
+15 & 60\%-40\% & Deep & bone marrow, lymphoid tissue & CD69, FES, FYB1, GNLY, GP1BA, GZMH, PTPN6, TNF, TNFRSF10C & 9\\
+\hline
+21 & 60\%-40\% & Deep & placenta & ANGPTL1, CD93, HGF, JAM2, PAPPA, PECAM1, TFPI2 & 7\\
+\hline
+63 & 60\%-40\% & Deep & bone marrow, lung, lymphoid tissue & CCL3, CD300C, CD300LF, CLEC7A, FCAR, NCF2, SIRPB1 & 7\\
+\hline
+31 & 60\%-40\% & Deep & esophagus & CSTB, EDAR, EPHA2, EPS8L2, SPINT1, ULBP2 & 6\\
+\hline
+16 & 60\%-40\% & Deep & skeletal muscle & CD99L2, COX5B, FOXO1, GDNF, USO1 & 5\\
+\hline
+24 & 60\%-40\% & Deep & lung & ACVRL1, ADAMTS8, CD274, SCGB1A1, TNFRSF6B & 5\\
+\hline
+56 & 60\%-40\% & Deep & intestine & CA13, CDHR2, CEACAM1, GUCA2A, RBP2 & 5\\
+\hline
+7 & 60\%-40\% & Deep & intestine, lymphoid tissue & BANK1, CCL24, MZB1, TNFRSF13C & 4\\
+\hline
+39 & 60\%-40\% & Deep & skin 1 & CST6, GPC1, KLK14, SERPINA12 & 4\\
+\hline
+53 & 60\%-40\% & Deep & kidney & CALB1, CDH6, PTH1R, TCN2 & 4\\
+\hline
+11 & 60\%-40\% & Deep & brain, retina & CNTNAP2, ROBO2, WASF3 & 3\\
+\hline
+19 & 60\%-40\% & Deep & salivary gland & CCL28, CST5, PRSS8 & 3\\
+\hline
+36 & 60\%-40\% & Deep & testis & CEP43, GP6, PHOSPHO1 & 3\\
+\hline
+37 & 60\%-40\% & Deep & urinary bladder & MMP13, SCARA5, TIMP1 & 3\\
+\hline
+42 & 60\%-40\% & Deep & endometrium 1 & MMP10, RSPO3, SPON2 & 3\\
+\hline
+62 & 60\%-40\% & Deep & skeletal muscle, tongue & CDNF, HSPB6, MSTN & 3\\
+\hline
+66 & 60\%-40\% & Deep & esophagus, vagina & DSC2, FABP5, FGFBP1 & 3\\
+\hline
+70 & 60\%-40\% & Deep & lung, lymphoid tissue & CLEC6A, DOK2, LAIR1 & 3\\
+\hline
+78 & 60\%-40\% & Deep & adipose tissue & ADAMTS15, CPM, LRP1 & 3\\
+\hline
+2 & 60\%-40\% & Deep & intestine, pancreas & ANPEP, REG3A & 2\\
+\hline
+5 & 60\%-40\% & Deep & brain, pituitary gland & ADGRB3, GAL & 2\\
+\hline
+6 & 60\%-40\% & Deep & adipose tissue, cervix & CCN5, CXCL3 & 2\\
+\hline
+10 & 60\%-40\% & Deep & adrenal gland & CCN3, LDLR & 2\\
+\hline
+13 & 60\%-40\% & Deep & brain, skeletal muscle & BAG3, IL17D & 2\\
+\hline
+17 & 60\%-40\% & Deep & brain, liver & RTN4R, SMOC1 & 2\\
+\hline
+23 & 60\%-40\% & Deep & parathyroid gland & CDH1, PVALB & 2\\
+\hline
+33 & 60\%-40\% & Deep & intestine, kidney & HAVCR1, MME & 2\\
+\hline
+43 & 60\%-40\% & Deep & brain, skeletal muscle, tongue & NOS1, PADI2 & 2\\
+\hline
+51 & 60\%-40\% & Deep & intestine, liver & CCL15, SULT1A1 & 2\\
+\hline
+59 & 60\%-40\% & Deep & esophagus, salivary gland, skin 1, vagina & KLK11, NECTIN4 & 2\\
+\hline
+61 & 60\%-40\% & Deep & cervix, salivary gland & IL19, WFDC2 & 2\\
+\hline
+67 & 60\%-40\% & Deep & intestine, salivary gland & PIGR, TNFRSF11A & 2\\
+\hline
+73 & 60\%-40\% & Deep & gallbladder & CPXM1, SPON1 & 2\\
+\hline
+76 & 60\%-40\% & Deep & retina & FRZB, PFKFB2 & 2\\
+\hline
+84 & 60\%-40\% & Deep & ovary & MDK, PDGFRA & 2\\
+\hline
+86 & 60\%-40\% & Deep & heart muscle, skeletal muscle, tongue & GYS1, ITGB1BP2 & 2\\
+\hline
+90 & 60\%-40\% & Deep & cervix & COLEC12, OGN & 2\\
+\hline
+107 & 60\%-40\% & Deep & brain, esophagus & DKK4, KLK6 & 2\\
+\hline
+4 & 60\%-40\% & Deep & bone marrow, intestine, salivary gland & CRACR2A & 1\\
+\hline
+8 & 60\%-40\% & Deep & smooth muscle & COL6A3 & 1\\
+\hline
+18 & 60\%-40\% & Deep & brain, kidney, testis & GPC5 & 1\\
+\hline
+20 & 60\%-40\% & Deep & brain, intestine, testis & EPHA10 & 1\\
+\hline
+22 & 60\%-40\% & Deep & bone marrow, gallbladder, salivary gland & LCN2 & 1\\
+\hline
+25 & 60\%-40\% & Deep & gallbladder, intestine, kidney & ACE2 & 1\\
+\hline
+26 & 60\%-40\% & Deep & epididymis & ENPP5 & 1\\
+\hline
+27 & 60\%-40\% & Deep & adipose tissue, breast, placenta & CD300LG & 1\\
+\hline
+28 & 60\%-40\% & Deep & kidney, skin 1 & CA12 & 1\\
+\hline
+29 & 60\%-40\% & Deep & bone marrow, skeletal muscle & SOD2 & 1\\
+\hline
+30 & 60\%-40\% & Deep & brain, smooth muscle, urinary bladder & THY1 & 1\\
+\hline
+32 & 60\%-40\% & Deep & adrenal gland, pituitary gland, placenta & DLK1 & 1\\
+\hline
+34 & 60\%-40\% & Deep & gallbladder, stomach 1, urinary bladder & MMP1 & 1\\
+\hline
+38 & 60\%-40\% & Deep & adrenal gland, brain & SNCG & 1\\
+\hline
+40 & 60\%-40\% & Deep & brain, choroid plexus & FGF23 & 1\\
+\hline
+41 & 60\%-40\% & Deep & brain, urinary bladder & TNFRSF21 & 1\\
+\hline
+44 & 60\%-40\% & Deep & brain, pancreas & PTPRN2 & 1\\
+\hline
+45 & 60\%-40\% & Deep & liver, placenta & TFPI & 1\\
+\hline
+46 & 60\%-40\% & Deep & kidney, pancreas, skeletal muscle & EGF & 1\\
+\hline
+47 & 60\%-40\% & Deep & intestine, urinary bladder & CCL13 & 1\\
+\hline
+48 & 60\%-40\% & Deep & choroid plexus, ovary & CDH3 & 1\\
+\hline
+49 & 60\%-40\% & Deep & adipose tissue, lymphoid tissue, urinary bladder & IL2RA & 1\\
+\hline
+50 & 60\%-40\% & Deep & brain, heart muscle, testis & PTGDS & 1\\
+\hline
+52 & 60\%-40\% & Deep & kidney, thyroid gland & ESM1 & 1\\
+\hline
+54 & 60\%-40\% & Deep & endometrium 1, skeletal muscle & PDLIM7 & 1\\
+\hline
+55 & 60\%-40\% & Deep & kidney, urinary bladder & GDF15 & 1\\
+\hline
+57 & 60\%-40\% & Deep & salivary gland, skin 1 & TNFRSF19 & 1\\
+\hline
+58 & 60\%-40\% & Deep & liver, lung, lymphoid tissue & MARCO & 1\\
+\hline
+60 & 60\%-40\% & Deep & intestine, lymphoid tissue, stomach 1, urinary bladder & CCL11 & 1\\
+\hline
+64 & 60\%-40\% & Deep & stomach 1 & TFF2 & 1\\
+\hline
+65 & 60\%-40\% & Deep & endometrium 1, gallbladder, lymphoid tissue, smooth muscle & CHRDL2 & 1\\
+\hline
+68 & 60\%-40\% & Deep & esophagus, skin 1, vagina & LY6D & 1\\
+\hline
+69 & 60\%-40\% & Deep & bone marrow, brain, lymphoid tissue, thyroid gland & IPCEF1 & 1\\
+\hline
+71 & 60\%-40\% & Deep & bone marrow, brain & ICOSLG & 1\\
+\hline
+72 & 60\%-40\% & Deep & liver, pancreas & P4HB & 1\\
+\hline
+74 & 60\%-40\% & Deep & esophagus, parathyroid gland & EPHA1 & 1\\
+\hline
+75 & 60\%-40\% & Deep & esophagus, salivary gland, skin 1 & TACSTD2 & 1\\
+\hline
+77 & 60\%-40\% & Deep & cervix, gallbladder & COL1A1 & 1\\
+\hline
+79 & 60\%-40\% & Deep & esophagus, lung, salivary gland, stomach 1 & CXCL17 & 1\\
+\hline
+80 & 60\%-40\% & Deep & pituitary gland & PRL & 1\\
+\hline
+81 & 60\%-40\% & Deep & prostate & MSMB & 1\\
+\hline
+82 & 60\%-40\% & Deep & esophagus, liver, skin 1 & SDC1 & 1\\
+\hline
+83 & 60\%-40\% & Deep & adrenal gland, brain, pancreas & DPP10 & 1\\
+\hline
+85 & 60\%-40\% & Deep & breast, choroid plexus & SFRP1 & 1\\
+\hline
+87 & 60\%-40\% & Deep & fallopian tube, lung & MSLN & 1\\
+\hline
+88 & 60\%-40\% & Deep & thyroid gland & IGFBPL1 & 1\\
+\hline
+89 & 60\%-40\% & Deep & choroid plexus, fallopian tube, lung, salivary gland & FOLR1 & 1\\
+\hline
+91 & 60\%-40\% & Deep & breast, pituitary gland, salivary gland, stomach 1 & MIA & 1\\
+\hline
+92 & 60\%-40\% & Deep & choroid plexus, retina, skeletal muscle, tongue & CA14 & 1\\
+\hline
+93 & 60\%-40\% & Deep & endometrium 1, seminal vesicle, smooth muscle & ACTA2 & 1\\
+\hline
+94 & 60\%-40\% & Deep & liver, lymphoid tissue & HYAL1 & 1\\
+\hline
+95 & 60\%-40\% & Deep & parathyroid gland, testis & TDRKH & 1\\
+\hline
+96 & 60\%-40\% & Deep & brain, parathyroid gland & PTN & 1\\
+\hline
+97 & 60\%-40\% & Deep & breast, fallopian tube, pancreas & VTCN1 & 1\\
+\hline
+98 & 60\%-40\% & Deep & esophagus, lymphoid tissue, vagina & PI3 & 1\\
+\hline
+99 & 60\%-40\% & Deep & heart muscle & TNNI3 & 1\\
+\hline
+100 & 60\%-40\% & Deep & lymphoid tissue, smooth muscle & TNC & 1\\
+\hline
+101 & 60\%-40\% & Deep & cervix, endometrium 1 & RSPO1 & 1\\
+\hline
+102 & 60\%-40\% & Deep & gallbladder, salivary gland, urinary bladder & MMP7 & 1\\
+\hline
+103 & 60\%-40\% & Deep & adipose tissue, breast & FABP4 & 1\\
+\hline
+104 & 60\%-40\% & Deep & cervix, salivary gland, stomach 1 & BPIFB1 & 1\\
+\hline
+105 & 60\%-40\% & Deep & Not detected & IFNL1 & 1\\
+\hline
+106 & 60\%-40\% & Deep & adipose tissue, brain, ovary & CLSTN2 & 1\\
+\hline
+108 & 60\%-40\% & Deep & lung, lymphoid tissue, skin 1 & MPIG6B & 1\\
+\hline
+109 & 60\%-40\% & Deep & ovary, pancreas & FLRT2 & 1\\
+\hline
+110 & 60\%-40\% & Deep & brain, gallbladder & FGF5 & 1\\
+\hline
+111 & 60\%-40\% & Deep & lymphoid tissue, placenta & CLEC1A & 1\\
+\hline
+112 & 60\%-40\% & Deep & cervix, endometrium 1, smooth muscle & ITGA11 & 1\\
+\hline
+113 & 60\%-40\% & Deep & intestine, lymphoid tissue, skin 1, urinary bladder & CCL22 & 1\\
+\hline
+\end{tabular}
+\end{table}
