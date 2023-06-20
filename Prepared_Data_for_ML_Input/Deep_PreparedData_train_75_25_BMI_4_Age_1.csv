@@ -1,0 +1,15 @@
+,ACE2,BAG3,CD5,CRX,CTSF,DEFA1_DEFA1B,EREG,GFOD2,HAVCR1,IL1B,NEFL,NPPB,S100A11,VTCN1,Age,BMI
+0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,4,1
+1,False,False,False,False,False,False,False,False,False,False,True,False,False,False,4,1
+2,False,False,False,False,False,False,False,False,True,False,False,False,False,False,4,1
+3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,4,1
+4,False,False,False,False,False,False,False,False,False,True,False,False,False,False,4,1
+5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,4,1
+6,False,False,False,False,False,False,False,False,False,False,False,False,True,False,4,1
+7,True,False,False,False,False,False,False,False,False,False,False,False,False,False,4,1
+8,False,True,False,False,False,False,False,False,False,False,False,False,False,False,4,1
+9,False,False,True,False,False,False,False,False,False,False,False,False,False,False,4,1
+10,False,False,False,True,False,False,False,False,False,False,False,False,False,False,4,1
+11,False,False,False,False,False,True,False,False,False,False,False,False,False,False,4,1
+12,False,False,False,False,False,False,False,True,False,False,False,False,False,False,4,1
+13,False,False,False,False,False,False,False,False,False,False,False,False,False,True,4,1
