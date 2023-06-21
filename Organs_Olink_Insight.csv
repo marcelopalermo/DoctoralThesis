@@ -1,0 +1,1467 @@
+UniProt ID;Gene;Protein Name;Panel;Tissue Specificity
+P05231;IL6;Interleukin-6;Olink Explore Cardiometabolic, Olink Explore Inflammation, Olink Explore Neurology, Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response, Olink Target 48 Cytokine;Tissue enhanced: urinary bladder
+P01375;TNF;Tumor necrosis factor;Olink Explore Cardiometabolic, Olink Explore Inflammation, Olink Explore Neurology, Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: bone marrow, lymphoid tissue
+P10145;CXCL8;Interleukin-8;Olink Explore Cardiometabolic, Olink Explore Inflammation, Olink Explore Neurology, Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: bone marrow
+P10147;CCL3;C-C motif chemokine 3;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: bone marrow, lung, lymphoid tissue
+P13500;CCL2;C-C motif chemokine 2;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular III, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: urinary bladder
+P14210;HGF;Hepatocyte growth factor;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: placenta
+P15692;VEGFA;Vascular endothelial growth factor A;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+P22301;IL10;Interleukin-10;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response, Olink Target 48 Cytokine;Tissue enhanced: adipose tissue, lymphoid tissue
+P29460;IL12B;Interleukin-12 subunit beta;Olink Explore Inflammation, Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P50591;TNFSF10;Tumor necrosis factor ligand superfamily member 10;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+Q14116;IL18;Interleukin-18;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: esophagus, skin 1
+O14625;CXCL11;C-X-C motif chemokine 11;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: lymphoid tissue
+O43508;TNFSF12;Tumor necrosis factor ligand superfamily member 12;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+O95760;IL33;Interleukin-33;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: urinary bladder
+P01133;EGF;Pro-epidermal growth factor;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Group enriched: kidney, pancreas, skeletal muscle
+P01135;TGFA;Protransforming growth factor alpha;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Oncology II, Olink Target 48 Cytokine;Tissue enhanced: brain
+P01579;IFNG;Interferon gamma;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Group enriched: bone marrow, lymphoid tissue
+P02778;CXCL10;C-X-C motif chemokine 10;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: lymphoid tissue
+P05112;IL4;Interleukin-4;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Not detected
+P05113;IL5;Interleukin-5;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: brain, testis
+P09341;CXCL1;Growth-regulated alpha protein;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: cervix, lymphoid tissue
+P09603;CSF1;Macrophage colony-stimulating factor 1;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+P13232;IL7;Interleukin-7;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+P13236;CCL4;C-C motif chemokine 4;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: bone marrow
+P21583;KITLG;Kit ligand;Olink Explore Cardiometabolic, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Oncology II;Low tissue specificity
+P35225;IL13;Interleukin-13;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: testis
+P39900;MMP12;Macrophage metalloelastase;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: intestine, lymphoid tissue, urinary bladder
+P40933;IL15;Interleukin-15;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Neuro Exploratory, Olink Target 48 Cytokine;Low tissue specificity
+P48061;CXCL12;Stromal cell-derived factor 1;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response, Olink Target 48 Cytokine;Low tissue specificity
+P49763;PGF;Placenta growth factor;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: placenta, thyroid gland
+P51671;CCL11;Eotaxin;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immune Response, Olink Target 48 Cytokine;Tissue enhanced: intestine, lymphoid tissue, stomach 1, urinary bladder
+P60568;IL2;Interleukin-2;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Not detected
+P80075;CCL8;C-C motif chemokine 8;Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Low tissue specificity
+P80098;CCL7;C-C motif chemokine 7;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: bone marrow
+Q07325;CXCL9;C-X-C motif chemokine 9;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: lymphoid tissue
+Q99616;CCL13;C-C motif chemokine 13;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enhanced: intestine, urinary bladder
+Q99731;CCL19;C-C motif chemokine 19;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 48 Cytokine;Tissue enriched: lymphoid tissue
+Q9NSA1;FGF21;Fibroblast growth factor 21;Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Cell Regulation;Tissue enriched: liver
+O00182;LGALS9;Galectin-9;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: intestine, stomach 1
+O00220;TNFRSF10A;Tumor necrosis factor receptor superfamily member 10A;Olink Explore Neurology, Olink Target 96 Cardiovascular II, Olink Target 96 Cell Regulation;Low tissue specificity
+O00300;TNFRSF11B;Tumor necrosis factor receptor superfamily member 11B;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular III;Group enriched: kidney, thyroid gland
+O15123;ANGPT2;Angiopoietin-2;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Metabolism;Tissue enhanced: brain
+O43557;TNFSF14;Tumor necrosis factor ligand superfamily member 14;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enriched: liver
+O43915;VEGFD;Vascular endothelial growth factor D;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Cell Regulation;Tissue enhanced: lung
+O43927;CXCL13;C-X-C motif chemokine 13;Olink Explore Neurology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+O75144;ICOSLG;ICOS ligand;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: bone marrow, brain
+O75354;ENTPD6;Ectonucleoside triphosphate diphosphohydrolase 6;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation, Olink Target 96 Organ Damage;Low tissue specificity
+O75509;TNFRSF21;Tumor necrosis factor receptor superfamily member 21;Olink Explore Neurology, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Tissue enhanced: brain, urinary bladder
+O76036;NCR1;Natural cytotoxicity triggering receptor 1;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+O95727;CRTAM;Cytotoxic and regulatory T-cell molecule;Olink Explore Neurology, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Tissue enriched: brain
+P00749;PLAU;Urokinase-type plasminogen activator;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular III;Tissue enhanced: urinary bladder
+P00813;ADA;Adenosine deaminase;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Group enriched: intestine, lymphoid tissue
+P01127;PDGFB;Platelet-derived growth factor subunit B;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P01137;TGFB1;Transforming growth factor beta-1 proprotein;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P01138;NGF;Beta-nerve growth factor;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Neurology;Tissue enhanced: heart muscle, ovary
+P01374;LTA;Lymphotoxin-alpha;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Group enriched: intestine, lymphoid tissue, testis
+P01583;IL1A;Interleukin-1 alpha;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: esophagus, testis, urinary bladder
+P01584;IL1B;Interleukin-1 beta;Olink Explore Inflammation, Olink Target 96 Oncology III, Olink Target 48 Cytokine;Tissue enhanced: bone marrow, urinary bladder
+P01730;CD4;T-cell surface glycoprotein CD4;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: liver, lymphoid tissue, parathyroid gland
+P01732;CD8A;T-cell surface glycoprotein CD8 alpha chain;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+P03956;MMP1;Interstitial collagenase;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Tissue enhanced: gallbladder, stomach 1, urinary bladder
+P05089;ARG1;Arginase-1;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Metabolism;Tissue enriched: liver
+P05412;JUN;Transcription factor Jun;Olink Explore Inflammation, Olink Target 96 Immune Response, Olink Target 96 Cell Regulation;Low tissue specificity
+P06127;CD5;T-cell surface glycoprotein CD5;Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P07585;DCN;Decorin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P09038;FGF2;Fibroblast growth factor 2;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Low tissue specificity
+P09237;MMP7;Matrilysin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: gallbladder, salivary gland, urinary bladder
+P09382;LGALS1;Galectin-1;Olink Explore Cardiometabolic, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P09601;HMOX1;Heme oxygenase 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+P09919;CSF3;Granulocyte colony-stimulating factor;Olink Explore Inflammation, Olink Target 96 Neurology, Olink Target 48 Cytokine;Tissue enhanced: lung, urinary bladder
+P10144;GZMB;Granzyme B;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: bone marrow, lymphoid tissue
+P10747;CD28;T-cell-specific surface glycoprotein CD28;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Group enriched: lymphoid tissue, placenta
+P12544;GZMA;Granzyme A;Olink Explore Inflammation, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P13725;OSM;Oncostatin-M;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Tissue enriched: bone marrow
+P15514;AREG;Amphiregulin;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immune Response;Tissue enhanced: bone marrow, placenta, urinary bladder
+P18627;LAG3;Lymphocyte activation gene 3 protein;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue, ovary
+P20718;GZMH;Granzyme H;Olink Explore Cardiometabolic, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: bone marrow, lymphoid tissue
+P21246;PTN;Pleiotrophin;Olink Explore Cardiometabolic, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: brain, parathyroid gland
+P25942;CD40;Tumor necrosis factor receptor superfamily member 5;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P26842;CD27;CD27 antigen;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+P29459;IL12A;Interleukin-12 subunit alpha;Olink Explore Oncology, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Tissue enhanced: esophagus
+P29474;NOS3;Nitric oxide synthase, endothelial;Olink Explore Neurology, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: lymphoid tissue
+P29965;CD40LG;CD40 ligand;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P32970;CD70;CD70 antigen;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P35968;KDR;Vascular endothelial growth factor receptor 2;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P39905;GDNF;Glial cell line-derived neurotrophic factor;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Neurology;Tissue enhanced: skeletal muscle
+P42701;IL12RB1;Interleukin-12 receptor subunit beta-1;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+P42830;CXCL5;C-X-C motif chemokine 5;Olink Explore Cardiometabolic, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Group enriched: lymphoid tissue, salivary gland
+P43489;TNFRSF4;Tumor necrosis factor receptor superfamily member 4;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P43629;KIR3DL1;Killer cell immunoglobulin-like receptor 3DL1;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: lymphoid tissue
+P48023;FASLG;Tumor necrosis factor ligand superfamily member 6;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+P49771;FLT3LG;Fms-related tyrosine kinase 3 ligand;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Low tissue specificity
+P55773;CCL23;C-C motif chemokine 23;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Low tissue specificity
+P78380;OLR1;Oxidized low-density lipoprotein receptor 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II, Olink Target 48 Cytokine;Tissue enhanced: lung, placenta
+P78423;CX3CL1;Fractalkine;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: breast
+P78556;CCL20;C-C motif chemokine 20;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Group enriched: gallbladder, lymphoid tissue, urinary bladder
+Q01151;CD83;CD83 antigen;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: bone marrow
+Q02763;TEK;Angiopoietin-1 receptor;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: placenta
+Q05516;ZBTB16;Zinc finger and BTB domain-containing protein 16;Olink Explore Oncology, Olink Target 96 Immune Response, Olink Target 96 Cell Regulation;Tissue enhanced: tongue
+Q07011;TNFRSF9;Tumor necrosis factor receptor superfamily member 9;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+Q13241;KLRD1;Natural killer cells antigen CD94;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+Q14213;EBI3;Interleukin-27 subunit beta;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 48 Cytokine;Tissue enriched: placenta
+Q14790;CASP8;Caspase-8;Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: bone marrow
+Q14956;GPNMB;Transmembrane glycoprotein NMB;Olink Explore Cardiometabolic, Olink Target 96 Oncology II, Olink Target 96 Neuro Exploratory;Tissue enhanced: skin 1
+Q15116;PDCD1;Programmed cell death protein 1;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: lymphoid tissue
+Q15389;ANGPT1;Angiopoietin-1;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: seminal vesicle
+Q16552;IL17A;Interleukin-17A;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Tissue enhanced: lymphoid tissue
+Q16790;CA9;Carbonic anhydrase 9;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enriched: stomach 1
+Q29980;MICB;MHC class I polypeptide-related sequence B;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+Q29983;MICA;MHC class I polypeptide-related sequence A;Olink Explore Inflammation, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Low tissue specificity
+Q8NEV9;IL27;Interleukin-27 subunit alpha;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 48 Cytokine;Tissue enriched: liver
+Q8WXI7;MUC16;Mucin-16;Olink Explore Oncology, Olink Target 96 Oncology II, Olink Target 96 Immuno-Oncology;Tissue enhanced: cervix, fallopian tube, salivary gland
+Q92583;CCL17;C-C motif chemokine 17;Olink Explore Inflammation, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enriched: lymphoid tissue
+Q969D9;TSLP;Thymic stromal lymphopoietin;Olink Explore Cardiometabolic, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Tissue enhanced: liver, urinary bladder
+Q96D42;HAVCR1;Hepatitis A virus cellular receptor 1;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 96 Organ Damage;Group enriched: intestine, kidney
+Q96PD2;DCBLD2;Discoidin, CUB and LCCL domain-containing protein 2;Olink Explore Oncology, Olink Target 96 Immune Response, Olink Target 96 Cell Regulation;Low tissue specificity
+Q96PD4;IL17F;Interleukin-17F;Olink Explore Inflammation, Olink Target 96 Oncology III, Olink Target 48 Cytokine;Tissue enhanced: lymphoid tissue
+Q9BQ51;PDCD1LG2;Programmed cell death 1 ligand 2;Olink Explore Oncology, Olink Target 96 Cardiovascular II, Olink Target 96 Immuno-Oncology;Tissue enhanced: lymphoid tissue
+Q9BWV1;BOC;Brother of CDO;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II, Olink Target 96 Cell Regulation;Low tissue specificity
+Q9BZW8;CD244;Natural killer cell receptor 2B4;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: bone marrow, lymphoid tissue
+Q9GZV9;FGF23;Fibroblast growth factor 23;Olink Explore Oncology, Olink Target 96 Inflammation, Olink Target 96 Cardiovascular II;Group enriched: brain, choroid plexus
+Q9NP84;TNFRSF12A;Tumor necrosis factor receptor superfamily member 12A;Olink Explore Oncology, Olink Target 96 Neurology, Olink Target 96 Immuno-Oncology;Low tissue specificity
+Q9NZQ7;CD274;Programmed cell death 1 ligand 1;Olink Explore Neurology, Olink Target 96 Inflammation, Olink Target 96 Immuno-Oncology;Tissue enhanced: lung
+Q9P0M4;IL17C;Interleukin-17C;Olink Explore Inflammation, Olink Target 96 Inflammation, Olink Target 48 Cytokine;Tissue enhanced: endometrium 1, urinary bladder
+Q9UQV4;LAMP3;Lysosome-associated membrane glycoprotein 3;Olink Explore Inflammation, Olink Target 96 Immuno-Oncology, Olink Target 96 Immune Response;Tissue enriched: lung
+Q9Y653;ADGRG1;Adhesion G-protein coupled receptor G1;Olink Explore Oncology, Olink Target 96 Immuno-Oncology, Olink Target 96 Organ Damage;Tissue enhanced: thyroid gland
+O43186;CRX;Cone-rod homeobox protein;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enriched: retina
+A4D1B5;GSAP;Gamma-secretase-activating protein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+A6NI73;LILRA5;Leukocyte immunoglobulin-like receptor subfamily A member 5;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: bone marrow, lymphoid tissue
+O00161;SNAP23;Synaptosomal-associated protein 23;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+O00175;CCL24;C-C motif chemokine 24;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Group enriched: intestine, lymphoid tissue
+O00186;STXBP3;Syntaxin-binding protein 3;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+O00214;LGALS8;Galectin-8;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+O00221;NFKBIE;NF-kappa-B inhibitor epsilon;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+O00233;PSMD9;26S proteasome non-ATPase regulatory subunit 9;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+O00241;SIRPB1;Signal-regulatory protein beta-1;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: bone marrow, lung, lymphoid tissue
+O00253;AGRP;Agouti-related protein;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Group enriched: brain, epididymis
+O00273;DFFA;DNA fragmentation factor subunit alpha;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+O00308;WWP2;NEDD4-like E3 ubiquitin-protein ligase WWP2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+O00339;MATN2;Matrilin-2;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+O00451;GFRA2;GDNF family receptor alpha-2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: testis, thyroid gland
+O00533;CHL1;Neural cell adhesion molecule L1-like protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: brain
+O00548;DLL1;Delta-like protein 1;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: lymphoid tissue
+O00585;CCL21;C-C motif chemokine 21;Olink Explore Inflammation, Olink Target 96 Development;Tissue enriched: lymphoid tissue
+O00592;PODXL;Podocalyxin;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: kidney
+O00622;CCN1;CCN family member 1;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+O00748;CES2;Cocaine esterase;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: intestine, liver
+O14558;HSPB6;Heat shock protein beta-6;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: skeletal muscle, tongue
+O14594;NCAN;Neurocan core protein;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: brain
+O14662;STX16;Syntaxin-16;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+O14713;ITGB1BP1;Integrin beta-1-binding protein 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+O14763;TNFRSF10B;Tumor necrosis factor receptor superfamily member 10B;Olink Explore Neurology, Olink Target 96 Cardiovascular II;Low tissue specificity
+O14773;TPP1;Tripeptidyl-peptidase 1;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+O14786;NRP1;Neuropilin-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+O14788;TNFSF11;Tumor necrosis factor ligand superfamily member 11;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: breast, liver, lymphoid tissue
+O14793;MSTN;Growth/differentiation factor 8;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enhanced: skeletal muscle, tongue
+O14798;TNFRSF10C;Tumor necrosis factor receptor superfamily member 10C;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow, lymphoid tissue
+O14828;SCAMP3;Secretory carrier-associated membrane protein 3;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+O14836;TNFRSF13B;Tumor necrosis factor receptor superfamily member 13B;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Group enriched: intestine, lymphoid tissue, skeletal muscle
+O14867;BACH1;Transcription regulator protein BACH1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: bone marrow
+O14904;WNT9A;Protein Wnt-9a;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enhanced: skeletal muscle
+O14917;PCDH17;Protocadherin-17;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enhanced: brain, lung, lymphoid tissue
+O14944;EREG;Proepiregulin;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: bone marrow
+O15031;PLXNB2;Plexin-B2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+O15169;AXIN1;Axin-1;Olink Explore Inflammation, Olink Target 96 Inflammation;Low tissue specificity
+O15197;EPHB6;Ephrin type-B receptor 6;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, skin 1
+O15232;MATN3;Matrilin-3;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: lung, placenta
+O15263;DEFB4A, DEFB4B;Defensin beta 4A;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enriched: esophagus, Group enriched: esophagus, lymphoid tissue
+O15357;INPPL1;Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+O15444;CCL25;C-C motif chemokine 25;Olink Explore Inflammation, Olink Target 96 Inflammation;Group enriched: intestine, lymphoid tissue
+O15455;TLR3;Toll-like receptor 3;Olink Explore Inflammation, Olink Target 96 Oncology II;Low tissue specificity
+O15467;CCL16;C-C motif chemokine 16;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: liver
+O15496;PLA2G10;Group 10 secretory phospholipase A2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: intestine, pancreas, stomach 1
+O43155;FLRT2;Leucine-rich repeat transmembrane protein FLRT2;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: ovary, pancreas
+O43240;KLK10;Kallikrein-10;Olink Explore Oncology, Olink Target 96 Metabolism;Group enriched: esophagus, vagina
+O43278;SPINT1;Kunitz-type protease inhibitor 1;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: esophagus
+O43291;SPINT2;Kunitz-type protease inhibitor 2;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+O43464;HTRA2;Serine protease HTRA2, mitochondrial;Olink Explore Oncology, Olink Target 96 Development;Low tissue specificity
+O43505;B4GAT1;Beta-1,4-glucuronyltransferase 1;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: brain
+O43521;BCL2L11;Bcl-2-like protein 11;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+O43524;FOXO3;Forkhead box protein O3;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+O43561;LAT;Linker for activation of T-cells family member 1;Olink Explore Inflammation, Olink Target 96 Neurology;Tissue enriched: lymphoid tissue
+O43570;CA12;Carbonic anhydrase 12;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: kidney, skin 1
+O43597;SPRY2;Protein sprouty homolog 2;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+O43699;SIGLEC6;Sialic acid-binding Ig-like lectin 6;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: placenta
+O43707;ACTN4;Alpha-actinin-4;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+O43736;ITM2A;Integral membrane protein 2A;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+O43752;STX6;Syntaxin-6;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+O43827;ANGPTL7;Angiopoietin-related protein 7;Olink Explore Oncology, Olink Target 96 Metabolism;Low tissue specificity
+O43854;EDIL3;EGF-like repeat and discoidin I-like domain-containing protein 3;Olink Explore Cardiometabolic, Olink Target 96 Organ Damage;Tissue enriched: brain
+O43895;XPNPEP2;Xaa-Pro aminopeptidase 2;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: intestine, kidney
+O60240;PLIN1;Perilipin-1;Olink Explore Neurology, Olink Target 96 Organ Damage;Group enriched: adipose tissue, breast
+O60242;ADGRB3;Adhesion G protein-coupled receptor B3;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: brain, pituitary gland
+O60243;HS6ST1;Heparan-sulfate 6-O-sulfotransferase 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+O60259;KLK8;Kallikrein-8;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: esophagus, skin 1, vagina
+O60449;LY75;Lymphocyte antigen 75;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: lymphoid tissue
+O60462;NRP2;Neuropilin-2;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+O60542;PSPN;Persephin;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: brain
+O60575;SPINK4;Serine protease inhibitor Kazal-type 4;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enriched: intestine
+O60609;GFRA3;GDNF family receptor alpha-3;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+O60760;HPGDS;Hematopoietic prostaglandin D synthase;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: placenta
+O60763;USO1;General vesicular transport factor p115;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: skeletal muscle
+O60880;SH2D1A;SH2 domain-containing protein 1A;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: lymphoid tissue
+O60907;TBL1X;F-box-like/WD repeat-containing protein TBL1X;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+O60911;CTSV;Cathepsin L2;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: lymphoid tissue
+O60934;NBN;Nibrin;Olink Explore Inflammation, Olink Target 96 Organ Damage;Low tissue specificity
+O75015;FCGR3B;Low affinity immunoglobulin gamma Fc region receptor III-B;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: bone marrow, lymphoid tissue
+O75023;LILRB5;Leukocyte immunoglobulin-like receptor subfamily B member 5;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adipose tissue, lymphoid tissue
+O75054;IGSF3;Immunoglobulin superfamily member 3;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+O75077;ADAM23;Disintegrin and metalloproteinase domain-containing protein 23;Olink Explore Inflammation, Olink Target 96 Neurology;Tissue enhanced: brain, parathyroid gland
+O75326;SEMA7A;Semaphorin-7A;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: lymphoid tissue, retina
+O75356;ENTPD5;Nucleoside diphosphate phosphatase ENTPD5;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: intestine, kidney, liver
+O75475;PSIP1;PC4 and SFRS1-interacting protein;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+O75569;PRKRA;Interferon-inducible double-stranded RNA-dependent protein kinase activator A;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+O75594;PGLYRP1;Peptidoglycan recognition protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+O75695;RP2;Protein XRP2;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: bone marrow
+O75787;ATP6AP2;Renin receptor;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: parathyroid gland
+O75791;GRAP2;GRB2-related adapter protein 2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: lymphoid tissue
+O75888;TNFSF13;Tumor necrosis factor ligand superfamily member 13;Olink Explore Inflammation, Olink Target 96 Oncology II;Tissue enhanced: salivary gland
+O76038;SCGN;Secretagogin;Olink Explore Inflammation, Olink Target 96 Oncology III;Group enriched: brain, intestine, pancreas, pituitary gland, stomach 1
+O76070;SNCG;Gamma-synuclein;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: adrenal gland, brain
+O94760;DDAH1;N(G),N(G)-dimethylarginine dimethylaminohydrolase 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, kidney
+O94779;CNTN5;Contactin-5;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, placenta, salivary gland, thyroid gland
+O94907;DKK1;Dickkopf-related protein 1;Olink Explore Neurology, Olink Target 96 Cardiovascular II;Tissue enhanced: cervix, placenta, urinary bladder
+O94985;CLSTN1;Calsyntenin-1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+O94992;HEXIM1;Protein HEXIM1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+O95183;VAMP5;Vesicle-associated membrane protein 5;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Low tissue specificity
+O95274;LYPD3;Ly6/PLAUR domain-containing protein 3;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: esophagus, skin 1, vagina
+O95379;TNFAIP8;Tumor necrosis factor alpha-induced protein 8;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: lymphoid tissue
+O95388;CCN4;CCN family member 4;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+O95407;TNFRSF6B;Tumor necrosis factor receptor superfamily member 6B;Olink Explore Neurology, Olink Target 96 Oncology II;Tissue enhanced: lung
+O95445;APOM;Apolipoprotein M;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+O95502;NPTXR;Neuronal pentraxin receptor;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: brain
+O95544;NADK;NAD kinase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+O95630;STAMBP;STAM-binding protein;Olink Explore Neurology, Olink Target 96 Inflammation;Low tissue specificity
+O95633;FSTL3;Follistatin-related protein 3;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+O95644;NFATC1;Nuclear factor of activated T-cells, cytoplasmic 1;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+O95715;CXCL14;C-X-C motif chemokine 14;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: skin 1
+O95721;SNAP29;Synaptosomal-associated protein 29;Olink Explore Oncology, Olink Target 96 Development;Low tissue specificity
+O95750;FGF19;Fibroblast growth factor 19;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enriched: gallbladder
+O95786;DDX58;Antiviral innate immune response receptor RIG-I;Olink Explore Oncology, Olink Target 96 Immune Response;Low tissue specificity
+O95831;AIFM1;Apoptosis-inducing factor 1, mitochondrial;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+O95841;ANGPTL1;Angiopoietin-related protein 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: placenta
+O95971;CD160;CD160 antigen;Olink Explore Inflammation, Olink Target 96 Oncology II;Tissue enhanced: lymphoid tissue
+O95988;TCL1B;T-cell leukemia/lymphoma protein 1B;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enhanced: bone marrow, lymphoid tissue, testis
+O95994;AGR2;Anterior gradient protein 2 homolog;Olink Explore Neurology, Olink Target 96 Organ Damage;Tissue enhanced: cervix, intestine, stomach 1
+O95998;IL18BP;Interleukin-18-binding protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+O96013;PAK4;Serine/threonine-protein kinase PAK 4;Olink Explore Neurology, Olink Target 96 Cell Regulation;Low tissue specificity
+P00352;ALDH1A1;Aldehyde dehydrogenase 1A1;Olink Explore Neurology, Olink Target 96 Metabolism;Tissue enhanced: liver
+P00441;SOD1;Superoxide dismutase [Cu-Zn];Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: liver
+P00519;ABL1;Tyrosine-protein kinase ABL1;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P00533;EGFR;Epidermal growth factor receptor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: placenta
+P00750;PLAT;Tissue-type plasminogen activator;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: parathyroid gland, urinary bladder
+P00797;REN;Renin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: kidney
+P00915;CA1;Carbonic anhydrase 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: bone marrow, intestine
+P00918;CA2;Carbonic anhydrase 2;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: intestine, stomach 1
+P00995;SPINK1;Serine protease inhibitor Kazal-type 1;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: pancreas
+P01033;TIMP1;Metalloproteinase inhibitor 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: urinary bladder
+P01034;CST3;Cystatin-C;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: brain
+P01130;LDLR;Low-density lipoprotein receptor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: adrenal gland
+P01215;CGA;Glycoprotein hormones alpha chain;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: pituitary gland
+P01222;TSHB;Thyrotropin subunit beta;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: pituitary gland
+P01229;LHB;Lutropin subunit beta;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: pituitary gland
+P01241;GH1;Somatotropin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: pituitary gland
+P01242;GH2;Growth hormone variant;Olink Explore Oncology, Olink Target 96 Cell Regulation;Group enriched: pituitary gland, placenta
+P01258;CALCA;Calcitonin;Olink Explore Neurology, Olink Target 96 Organ Damage;Group enriched: parathyroid gland, thyroid gland
+P01275;GCG;Pro-glucagon;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: pancreas
+P01298;PPY;Pancreatic prohormone;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: pancreas
+P01303;NPY;Pro-neuropeptide Y;Olink Explore Oncology, Olink Target 96 Oncology III;Group enriched: adrenal gland, brain, prostate
+P01588;EPO;Erythropoietin;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enriched: liver
+P01589;IL2RA;Interleukin-2 receptor subunit alpha;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: adipose tissue, lymphoid tissue, urinary bladder
+P01591;JCHAIN;Immunoglobulin J chain;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: breast, intestine, stomach 1
+P01833;PIGR;Polymeric immunoglobulin receptor;Olink Explore Neurology, Olink Target 96 Cardiovascular II;Tissue enhanced: intestine, salivary gland
+P02144;MB;Myoglobin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: heart muscle, skeletal muscle, tongue
+P02452;COL1A1;Collagen alpha-1(I) chain;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: cervix, gallbladder
+P02462;COL4A1;Collagen alpha-1(IV) chain;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enhanced: placenta
+P02745;C1QA;Complement C1q subcomponent subunit A;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: lymphoid tissue
+P02760;AMBP;Protein AMBP;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+P02771;AFP;Alpha-fetoprotein;Olink Explore Neurology, Olink Target 96 Oncology III;Tissue enriched: liver
+P02786;TFRC;Transferrin receptor protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow
+P03950;ANG;Angiogenin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+P04066;FUCA1;Tissue alpha-L-fucosidase;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P04070;PROC;Vitamin K-dependent protein C;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+P04080;CSTB;Cystatin-B;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: esophagus
+P04085;PDGFA;Platelet-derived growth factor subunit A;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: skeletal muscle
+P04179;SOD2;Superoxide dismutase [Mn], mitochondrial;Olink Explore Neurology, Olink Target 96 Cardiovascular II;Group enriched: bone marrow, skeletal muscle
+P04216;THY1;Thy-1 membrane glycoprotein;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, smooth muscle, urinary bladder
+P04233;CD74;HLA class II histocompatibility antigen gamma chain;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: lymphoid tissue
+P04275;VWF;von Willebrand factor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P04626;ERBB2;Receptor tyrosine-protein kinase erbB-2;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P04637;TP53;Cellular tumor antigen p53;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+P04792;HSPB1;Heat shock protein beta-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: esophagus
+P05067;APP;Amyloid-beta precursor protein;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+P05107;ITGB2;Integrin beta-2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow, lymphoid tissue
+P05121;SERPINE1;Plasminogen activator inhibitor 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: gallbladder, liver, placenta, urinary bladder
+P05164;MPO;Myeloperoxidase;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+P05187;ALPP;Alkaline phosphatase, placental type;Olink Explore Oncology, Olink Target 96 Oncology III;Group enriched: cervix, placenta
+P05362;ICAM1;Intercellular adhesion molecule 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: lung, urinary bladder
+P05451;REG1A;Lithostathine-1-alpha;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: pancreas
+P05556;ITGB1;Integrin beta-1;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P06681;C2;Complement C2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+P06731;CEACAM5;Carcinoembryonic antigen-related cell adhesion molecule 5;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: intestine
+P06734;FCER2;Low affinity immunoglobulin epsilon Fc receptor;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: lymphoid tissue
+P06748;NPM1;Nucleophosmin;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P06756;ITGAV;Integrin alpha-V;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P06850;CRH;Corticoliberin;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: brain
+P06858;LPL;Lipoprotein lipase;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: adipose tissue, heart muscle
+P07196;NEFL;Neurofilament light polypeptide;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: brain
+P07204;THBD;Thrombomodulin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Low tissue specificity
+P07237;P4HB;Protein disulfide-isomerase;Olink Explore Oncology, Olink Target 96 Development;Tissue enhanced: liver, pancreas
+P07306;ASGR1;Asialoglycoprotein receptor 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: liver
+P07332;FES;Tyrosine-protein kinase Fes/Fps;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow, lymphoid tissue
+P07339;CTSD;Cathepsin D;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P07359;GP1BA;Platelet glycoprotein Ib alpha chain;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: bone marrow, lymphoid tissue
+P07451;CA3;Carbonic anhydrase 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: skeletal muscle
+P07478;PRSS2;Trypsin-2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: pancreas
+P07711;CTSL;Procathepsin L;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: placenta
+P07911;UMOD;Uromodulin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: kidney
+P07947;YES1;Tyrosine-protein kinase Yes;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+P07948;LYN;Tyrosine-protein kinase Lyn;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: bone marrow, lymphoid tissue
+P07949;RET;Proto-oncogene tyrosine-protein kinase receptor Ret;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: adrenal gland, brain, parathyroid gland
+P08069;IGF1R;Insulin-like growth factor 1 receptor;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P08118;MSMB;Beta-microseminoprotein;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enriched: prostate
+P08236;GUSB;Beta-glucuronidase;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P08254;MMP3;Stromelysin-1;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enriched: salivary gland
+P08397;HMBS;Porphobilinogen deaminase;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: bone marrow
+P08473;MME;Neprilysin;Olink Explore Oncology, Olink Target 96 Neurology;Tissue enhanced: intestine, kidney
+P08581;MET;Hepatocyte growth factor receptor;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: liver
+P08648;ITGA5;Integrin alpha-5;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: smooth muscle, urinary bladder
+P08670;VIM;Vimentin;Olink Explore Cardiometabolic, Olink Target 96 Oncology II;Low tissue specificity
+P08709;F7;Coagulation factor VII;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+P08727;KRT19;Keratin, type I cytoskeletal 19;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: esophagus, intestine, salivary gland, urinary bladder
+P08833;IGFBP1;Insulin-like growth factor-binding protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: liver
+P08887;IL6R;Interleukin-6 receptor subunit alpha;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: liver, skeletal muscle
+P08962;CD63;CD63 antigen;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P09104;ENO2;Gamma-enolase;Olink Explore Neurology, Olink Target 96 Metabolism;Group enriched: brain, retina
+P09105;HBQ1;Hemoglobin subunit theta-1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: bone marrow
+P09110;ACAA1;3-ketoacyl-CoA thiolase, peroxisomal;Olink Explore Oncology, Olink Target 96 Oncology III;Group enriched: kidney, liver
+P09211;GSTP1;Glutathione S-transferase P;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: esophagus
+P09238;MMP10;Stromelysin-2;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enriched: endometrium 1
+P09326;CD48;CD48 antigen;Olink Explore Inflammation, Olink Target 96 Oncology II;Group enriched: bone marrow, lymphoid tissue
+P09417;QDPR;Dihydropteridine reductase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: brain, choroid plexus
+P09466;PAEP;Glycodelin;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: endometrium 1
+P09467;FBP1;Fructose-1,6-bisphosphatase 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: intestine, kidney, liver
+P09486;SPARC;SPARC;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: placenta
+P09525;ANXA4;Annexin A4;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: gallbladder, pancreas
+P09619;PDGFRB;Platelet-derived growth factor receptor beta;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P09668;CTSH;Pro-cathepsin H;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: lung
+P09758;TACSTD2;Tumor-associated calcium signal transducer 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: esophagus, salivary gland, skin 1
+P09769;FGR;Tyrosine-protein kinase Fgr;Olink Explore Neurology, Olink Target 96 Organ Damage;Group enriched: bone marrow, lung, lymphoid tissue
+P09874;PARP1;Poly [ADP-ribose] polymerase 1;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Low tissue specificity
+P09958;FURIN;Furin;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: liver, salivary gland
+P09960;LTA4H;Leukotriene A-4 hydrolase;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+P0CG37;CFC1;Cryptic protein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, pancreas, pituitary gland
+P10451;SPP1;Osteopontin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: brain, gallbladder, kidney, placenta
+P10586;PTPRF;Receptor-type tyrosine-protein phosphatase F;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P10636;MAPT;Microtubule-associated protein tau;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, skeletal muscle
+P10646;TFPI;Tissue factor pathway inhibitor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: liver, placenta
+P10721;KIT;Mast/stem cell growth factor receptor Kit;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: breast
+P11215;ITGAM;Integrin alpha-M;Olink Explore Neurology, Olink Target 96 Cardiometabolic;Tissue enriched: bone marrow
+P11274;BCR;Breakpoint cluster region protein;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+P11464;PSG1;Pregnancy-specific beta-1-glycoprotein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: placenta
+P11717;IGF2R;Cation-independent mannose-6-phosphate receptor;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: skeletal muscle
+P12034;FGF5;Fibroblast growth factor 5;Olink Explore Inflammation, Olink Target 96 Inflammation;Group enriched: brain, gallbladder
+P12104;FABP2;Fatty acid-binding protein, intestinal;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: intestine
+P12318;FCGR2A;Low affinity immunoglobulin gamma Fc region receptor II-a;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: lymphoid tissue, placenta
+P12644;BMP4;Bone morphogenetic protein 4;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+P12724;RNASE3;Eosinophil cationic protein;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: bone marrow
+P12830;CDH1;Cadherin-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: parathyroid gland
+P12872;MLN;Promotilin;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enriched: intestine
+P12931;SRC;Proto-oncogene tyrosine-protein kinase Src;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Low tissue specificity
+P13385;TDGF1;Teratocarcinoma-derived growth factor 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: kidney, lymphoid tissue
+P13501;CCL5;C-C motif chemokine 5;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: bone marrow, lymphoid tissue
+P13521;SCG2;Secretogranin-2;Olink Explore Oncology, Olink Target 96 Oncology III;Group enriched: adrenal gland, brain, pituitary gland
+P13591;NCAM1;Neural cell adhesion molecule 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: brain, heart muscle
+P13598;ICAM2;Intercellular adhesion molecule 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+P13611;VCAN;Versican core protein;Olink Explore Neurology, Olink Target 96 Metabolism;Tissue enhanced: lymphoid tissue, placenta
+P13686;ACP5;Tartrate-resistant acid phosphatase type 5;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: lung
+P13688;CEACAM1;Carcinoembryonic antigen-related cell adhesion molecule 1;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: intestine
+P13693;TPT1;Translationally-controlled tumor protein;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: skeletal muscle
+P13726;F3;Tissue factor;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Low tissue specificity
+P13747;HLA-E;HLA class I histocompatibility antigen, alpha chain E;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+P13987;CD59;CD59 glycoprotein;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P14174;MIF;Macrophage migration inhibitory factor;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+P14317;HCLS1;Hematopoietic lineage cell-specific protein;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: bone marrow, lymphoid tissue
+P14384;CPM;Carboxypeptidase M;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: adipose tissue
+P14543;NID1;Nidogen-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: placenta
+P14625;HSP90B1;Endoplasmin;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P14778;IL1R1;Interleukin-1 receptor type 1;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Low tissue specificity
+P14780;MMP9;Matrix metalloproteinase-9;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Group enriched: bone marrow, lymphoid tissue
+P14784;IL2RB;Interleukin-2 receptor subunit beta;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: bone marrow, lymphoid tissue, placenta
+P15018;LIF;Leukemia inhibitory factor;Olink Explore Neurology, Olink Target 96 Inflammation;Tissue enhanced: gallbladder, urinary bladder
+P15085;CPA1;Carboxypeptidase A1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: pancreas
+P15086;CPB1;Carboxypeptidase B;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: pancreas
+P15090;FABP4;Fatty acid-binding protein, adipocyte;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: adipose tissue, breast
+P15121;AKR1B1;Aldo-keto reductase family 1 member B1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: adrenal gland
+P15144;ANPEP;Aminopeptidase N;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: intestine, pancreas
+P15151;PVR;Poliovirus receptor;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+P15260;IFNGR1;Interferon gamma receptor 1;Olink Explore Inflammation, Olink Target 96 Oncology II;Low tissue specificity
+P15289;ARSA;Arylsulfatase A;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+P15291;B4GALT1;Beta-1,4-galactosyltransferase 1;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+P15311;EZR;Ezrin;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+P15328;FOLR1;Folate receptor alpha;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: choroid plexus, fallopian tube, lung, salivary gland
+P15509;CSF2RA;Granulocyte-macrophage colony-stimulating factor receptor subunit alpha;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: placenta
+P15529;CD46;Membrane cofactor protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P15848;ARSB;Arylsulfatase B;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+P15907;ST6GAL1;Beta-galactoside alpha-2,6-sialyltransferase 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: liver, lymphoid tissue
+P16109;SELP;P-selectin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P16112;ACAN;Aggrecan core protein;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: brain, seminal vesicle
+P16234;PDGFRA;Platelet-derived growth factor receptor alpha;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enhanced: ovary
+P16278;GLB1;Beta-galactosidase;Olink Explore Neurology, Olink Target 96 Immune Response;Low tissue specificity
+P16284;PECAM1;Platelet endothelial cell adhesion molecule;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: placenta
+P16422;EPCAM;Epithelial cell adhesion molecule;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enhanced: intestine
+P16444;DPEP1;Dipeptidase 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: intestine, kidney, pancreas
+P16455;MGMT;Methylated-DNA--protein-cysteine methyltransferase;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: liver
+P16562;CRISP2;Cysteine-rich secretory protein 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: testis
+P16581;SELE;E-selectin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: urinary bladder
+P16860;NPPB;Natriuretic peptides B;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: heart muscle
+P16870;CPE;Carboxypeptidase E;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: brain, retina
+P16871;IL7R;Interleukin-7 receptor subunit alpha;Olink Explore Neurology, Olink Target 96 Cardiometabolic;Tissue enhanced: lymphoid tissue
+P17405;SMPD1;Sphingomyelin phosphodiesterase;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+P17813;ENG;Endoglin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: heart muscle
+P17931;LGALS3;Galectin-3;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: intestine
+P17936;IGFBP3;Insulin-like growth factor-binding protein 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: placenta
+P17948;FLT1;Vascular endothelial growth factor receptor 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: placenta
+P18031;PTPN1;Tyrosine-protein phosphatase non-receptor type 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P18065;IGFBP2;Insulin-like growth factor-binding protein 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: pancreas
+P18084;ITGB5;Integrin beta-5;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P18510;IL1RN;Interleukin-1 receptor antagonist protein;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enriched: esophagus
+P18564;ITGB6;Integrin beta-6;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: skeletal muscle, tongue
+P18827;SDC1;Syndecan-1;Olink Explore Cardiometabolic, Olink Target 96 Oncology II;Tissue enhanced: esophagus, liver, skin 1
+P19021;PAM;Peptidyl-glycine alpha-amidating monooxygenase;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: heart muscle
+P19022;CDH2;Cadherin-2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: heart muscle
+P19256;CD58;Lymphocyte function-associated antigen 3;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+P19320;VCAM1;Vascular cell adhesion protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: lymphoid tissue
+P19429;TNNI3;Troponin I, cardiac muscle;Olink Explore Cardiometabolic, Olink Target 96 Organ Damage;Tissue enriched: heart muscle
+P19438;TNFRSF1A;Tumor necrosis factor receptor superfamily member 1A;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Low tissue specificity
+P19474;TRIM21;E3 ubiquitin-protein ligase TRIM21;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P19801;AOC1;Amiloride-sensitive amine oxidase [copper-containing];Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Group enriched: intestine, kidney, placenta
+P19878;NCF2;Neutrophil cytosol factor 2;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow, lung, lymphoid tissue
+P19883;FST;Follistatin;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: liver
+P19957;PI3;Elafin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: esophagus, lymphoid tissue, vagina
+P19971;TYMP;Thymidine phosphorylase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P20023;CR2;Complement receptor type 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: lymphoid tissue
+P20062;TCN2;Transcobalamin-2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: kidney
+P20138;CD33;Myeloid cell surface antigen CD33;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: bone marrow, lymphoid tissue
+P20160;AZU1;Azurocidin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+P20273;CD22;B-cell receptor CD22;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: brain, lymphoid tissue, ovary
+P20333;TNFRSF1B;Tumor necrosis factor receptor superfamily member 1B;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+P20340;RAB6A;Ras-related protein Rab-6A;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+P20472;PVALB;Parvalbumin alpha;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: parathyroid gland
+P20711;DDC;Aromatic-L-amino-acid decarboxylase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Group enriched: intestine, kidney, retina
+P20783;NTF3;Neurotrophin-3;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: ovary
+P20849;COL9A1;Collagen alpha-1(IX) chain;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: choroid plexus, prostate
+P20936;RASA1;Ras GTPase-activating protein 1;Olink Explore Neurology, Olink Target 96 Organ Damage;Tissue enhanced: placenta
+P21217;FUT3;3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: esophagus, intestine, retina, salivary gland
+P21589;NT5E;5'-nucleotidase;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: cervix, retina
+P21741;MDK;Midkine;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: ovary
+P21757;MSR1;Macrophage scavenger receptor types I and II;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: lung
+P21802;FGFR2;Fibroblast growth factor receptor 2;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain, choroid plexus
+P21810;BGN;Biglycan;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+P21860;ERBB3;Receptor tyrosine-protein kinase erbB-3;Olink Explore Inflammation, Olink Target 96 Oncology II;Low tissue specificity
+P21964;COMT;Catechol O-methyltransferase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P21980;TGM2;Protein-glutamine gamma-glutamyltransferase 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Low tissue specificity
+P22004;BMP6;Bone morphogenetic protein 6;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: placenta
+P22105;TNXB;Tenascin-X;Olink Explore Neurology, Olink Target 96 Cardiometabolic;Tissue enriched: adrenal gland
+P22223;CDH3;Cadherin-3;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: choroid plexus, ovary
+P22466;GAL;Galanin peptides;Olink Explore Inflammation, Olink Target 96 Metabolism;Group enriched: brain, pituitary gland
+P22748;CA4;Carbonic anhydrase 4;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: intestine
+P22749;GNLY;Granulysin;Olink Explore Neurology, Olink Target 96 Cardiometabolic;Tissue enhanced: bone marrow, lymphoid tissue
+P23141;CES1;Liver carboxylesterase 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+P23229;ITGA6;Integrin alpha-6;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P23280;CA6;Carbonic anhydrase 6;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: salivary gland
+P23284;PPIB;Peptidyl-prolyl cis-trans isomerase B;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+P23515;OMG;Oligodendrocyte-myelin glycoprotein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Group enriched: brain, choroid plexus
+P23526;AHCY;Adenosylhomocysteinase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P23582;NPPC;C-type natriuretic peptide;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enriched: brain
+P23588;EIF4B;Eukaryotic translation initiation factor 4B;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P24001;IL32;Interleukin-32;Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Tissue enhanced: liver, pancreas
+P24071;FCAR;Immunoglobulin alpha Fc receptor;Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Group enriched: bone marrow, lung, lymphoid tissue
+P24158;PRTN3;Myeloblastin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+P24387;CRHBP;Corticotropin-releasing factor-binding protein;Olink Explore Inflammation, Olink Target 96 Development;Tissue enriched: liver
+P24394;IL4R;Interleukin-4 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Low tissue specificity
+P24592;IGFBP6;Insulin-like growth factor-binding protein 6;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P24821;TNC;Tenascin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: lymphoid tissue, smooth muscle
+P25116;F2R;Proteinase-activated receptor 1;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: lymphoid tissue
+P25445;FAS;Tumor necrosis factor receptor superfamily member 6;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P25685;DNAJB1;DnaJ homolog subfamily B member 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain
+P25774;CTSS;Cathepsin S;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+P25786;PSMA1;Proteasome subunit alpha type-1;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+P25815;S100P;Protein S100-P;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: bone marrow, stomach 1, urinary bladder
+P26010;ITGB7;Integrin beta-7;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enhanced: lymphoid tissue
+P26022;PTX3;Pentraxin-related protein PTX3;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: adipose tissue, urinary bladder
+P26447;S100A4;Protein S100-A4;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: bone marrow
+P26951;IL3RA;Interleukin-3 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P27352;CBLIF;Cobalamin binding intrinsic factor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: stomach 1
+P27487;DPP4;Dipeptidyl peptidase 4;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: intestine, parathyroid gland, placenta, prostate
+P27540;ARNT;Aryl hydrocarbon receptor nuclear translocator;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P27695;APEX1;DNA-(apurinic or apyrimidinic site) endonuclease;Olink Explore Oncology, Olink Target 96 Metabolism;Low tissue specificity
+P27930;IL1R2;Interleukin-1 receptor type 2;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+P28325;CST5;Cystatin-D;Olink Explore Neurology, Olink Target 96 Inflammation;Tissue enriched: salivary gland
+P28799;GRN;Progranulin;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Low tissue specificity
+P28827;PTPRM;Receptor-type tyrosine-protein phosphatase mu;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+P28838;LAP3;Cytosol aminopeptidase;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+P28845;HSD11B1;11-beta-hydroxysteroid dehydrogenase 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: liver
+P28907;CD38;ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1;Olink Explore Oncology, Olink Target 96 Neurology;Tissue enhanced: lymphoid tissue
+P29017;CD1C;T-cell surface glycoprotein CD1c;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enriched: lymphoid tissue
+P29218;IMPA1;Inositol monophosphatase 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P29317;EPHA2;Ephrin type-A receptor 2;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: esophagus
+P29350;PTPN6;Tyrosine-protein phosphatase non-receptor type 6;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: bone marrow, lymphoid tissue
+P30041;PRDX6;Peroxiredoxin-6;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+P30043;BLVRB;Flavin reductase (NADPH);Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: bone marrow
+P30044;PRDX5;Peroxiredoxin-5, mitochondrial;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P30048;PRDX3;Thioredoxin-dependent peroxide reductase, mitochondrial;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P30086;PEBP1;Phosphatidylethanolamine-binding protein 1;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: liver
+P30203;CD6;T-cell differentiation antigen CD6;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: intestine, lymphoid tissue
+P30260;CDC27;Cell division cycle protein 27 homolog;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P30519;HMOX2;Heme oxygenase 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P30530;AXL;Tyrosine-protein kinase receptor UFO;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P30533;LRPAP1;Alpha-2-macroglobulin receptor-associated protein;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+P30838;ALDH3A1;Aldehyde dehydrogenase, dimeric NADP-preferring;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: esophagus, salivary gland, stomach 1
+P31431;SDC4;Syndecan-4;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: liver
+P31948;STIP1;Stress-induced-phosphoprotein 1;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+P31949;S100A11;Protein S100-A11;Olink Explore Cardiometabolic, Olink Target 96 Oncology II;Tissue enhanced: esophagus
+P31994;FCGR2B;Low affinity immunoglobulin gamma Fc region receptor II-b;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enriched: placenta
+P31997;CEACAM8;Carcinoembryonic antigen-related cell adhesion molecule 8;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: bone marrow
+P32004;L1CAM;Neural cell adhesion molecule L1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: brain, intestine
+P32456;GBP2;Guanylate-binding protein 2;Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P32926;DSG3;Desmoglein-3;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: esophagus, lymphoid tissue, vagina
+P32942;ICAM3;Intercellular adhesion molecule 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: bone marrow, liver, lymphoid tissue
+P33151;CDH5;Cadherin-5;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: placenta
+P33241;LSP1;Lymphocyte-specific protein 1;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: adrenal gland, lymphoid tissue
+P34130;NTF4;Neurotrophin-4;Olink Explore Oncology, Olink Target 96 Immune Response;Tissue enhanced: prostate, skeletal muscle, skin 1
+P35052;GPC1;Glypican-1;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: skin 1
+P35070;BTC;Probetacellulin;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: intestine
+P35218;CA5A;Carbonic anhydrase 5A, mitochondrial;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+P35237;SERPINB6;Serpin B6;Olink Explore Neurology, Olink Target 96 Metabolism;Low tissue specificity
+P35247;SFTPD;Pulmonary surfactant-associated protein D;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: lung
+P35318;ADM;Pro-adrenomedullin;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enhanced: adipose tissue
+P35442;THBS2;Thrombospondin-2;Olink Explore Neurology, Olink Target 96 Cardiovascular II;Low tissue specificity
+P35443;THBS4;Thrombospondin-4;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adipose tissue, heart muscle, smooth muscle, tongue
+P35475;IDUA;Alpha-L-iduronidase;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Low tissue specificity
+P35590;TIE1;Tyrosine-protein kinase receptor Tie-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P35637;FUS;RNA-binding protein FUS;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P35754;GLRX;Glutaredoxin-1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: skeletal muscle
+P35916;FLT4;Vascular endothelial growth factor receptor 3;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P36222;CHI3L1;Chitinase-3-like protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: brain, liver
+P36269;GGT5;Glutathione hydrolase 5 proenzyme;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P36888;FLT3;Receptor-type tyrosine-protein kinase FLT3;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: bone marrow, brain, lymphoid tissue
+P36941;LTBR;Tumor necrosis factor receptor superfamily member 3;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Low tissue specificity
+P37023;ACVRL1;Serine/threonine-protein kinase receptor R3;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: lung
+P37108;SRP14;Signal recognition particle 14 kDa protein;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P37173;TGFBR2;TGF-beta receptor type-2;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P38484;IFNGR2;Interferon gamma receptor 2;Olink Explore Neurology, Olink Target 96 Oncology III;Low tissue specificity
+P38936;CDKN1A;Cyclin-dependent kinase inhibitor 1;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P39060;COL18A1;Collagen alpha-1(XVIII) chain;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: liver
+P40121;CAPG;Macrophage-capping protein;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+P40198;CEACAM3;Carcinoembryonic antigen-related cell adhesion molecule 3;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enriched: bone marrow
+P40222;TXLNA;Alpha-taxilin;Olink Explore Neurology, Olink Target 96 Oncology II;Low tissue specificity
+P40225;THPO;Thrombopoietin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+P40259;CD79B;B-cell antigen receptor complex-associated protein beta chain;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enriched: lymphoid tissue
+P40818;USP8;Ubiquitin carboxyl-terminal hydrolase 8;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P41159;LEP;Leptin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Group enriched: adipose tissue, breast
+P41208;CETN2;Centrin-2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: fallopian tube
+P41217;CD200;OX-2 membrane glycoprotein;Olink Explore Inflammation, Olink Target 96 Neurology;Low tissue specificity
+P41236;PPP1R2;Protein phosphatase inhibitor 2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P41271;NBL1;Neuroblastoma suppressor of tumorigenicity 1;Olink Explore Oncology, Olink Target 96 Neurology;Low tissue specificity
+P41439;FOLR3;Folate receptor gamma;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: bone marrow, lymphoid tissue
+P42331;ARHGAP25;Rho GTPase-activating protein 25;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: lymphoid tissue
+P42574;CASP3;Caspase-3;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P42575;CASP2;Caspase-2;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+P42658;DPP6;Dipeptidyl aminopeptidase-like protein 6;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: brain, endometrium 1
+P42702;LIFR;Leukemia inhibitory factor receptor;Olink Explore Inflammation, Olink Target 96 Inflammation;Low tissue specificity
+P42768;WAS;Actin nucleation-promoting factor WAS;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow, lymphoid tissue
+P42785;PRCP;Lysosomal Pro-X carboxypeptidase;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P42892;ECE1;Endothelin-converting enzyme 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P43234;CTSO;Cathepsin O;Olink Explore Inflammation, Olink Target 96 Metabolism;Low tissue specificity
+P43490;NAMPT;Nicotinamide phosphoribosyltransferase;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P43628;KIR2DL3;Killer cell immunoglobulin-like receptor 2DL3;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: lymphoid tissue
+P46109;CRKL;Crk-like protein;Olink Explore Inflammation, Olink Target 96 Metabolism;Low tissue specificity
+P46379;BAG6;Large proline-rich protein BAG6;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P46531;NOTCH1;Neurogenic locus notch homolog protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P47712;PLA2G4A;Cytosolic phospholipase A2;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: parathyroid gland, seminal vesicle
+P47929;LGALS7, LGALS7B;Galectin-7;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: esophagus, skin 1, Tissue enriched: skin 1
+P47992;XCL1;Lymphotactin;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enhanced: lymphoid tissue
+P48052;CPA2;Carboxypeptidase A2;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: pancreas
+P48307;TFPI2;Tissue factor pathway inhibitor 2;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: placenta
+P48357;LEPR;Leptin receptor;Olink Explore Cardiometabolic, Olink Target 96 Neuro Exploratory;Tissue enriched: liver
+P48643;CCT5;T-complex protein 1 subunit epsilon;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P48740;MASP1;Mannan-binding lectin serine protease 1;Olink Explore Neurology, Olink Target 96 Immune Response;Tissue enhanced: heart muscle, liver
+P48745;CCN3;CCN family member 3;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enriched: adrenal gland
+P48960;ADGRE5;Adhesion G protein-coupled receptor E5;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: bone marrow
+P49023;PXN;Paxillin;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+P49441;INPP1;Inositol polyphosphate 1-phosphatase;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P49747;COMP;Cartilage oligomeric matrix protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adipose tissue, skin 1
+P49788;RARRES1;Retinoic acid receptor responder protein 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: fallopian tube, salivary gland
+P49789;FHIT;Bis(5'-adenosyl)-triphosphatase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: choroid plexus
+P50135;HNMT;Histamine N-methyltransferase;Olink Explore Neurology, Olink Target 96 Immune Response;Tissue enhanced: liver
+P50225;SULT1A1;Sulfotransferase 1A1;Olink Explore Neurology, Olink Target 96 Inflammation;Tissue enhanced: intestine, liver
+P50452;SERPINB8;Serpin B8;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enhanced: skin 1
+P50579;METAP2;Methionine aminopeptidase 2;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+P50749;RASSF2;Ras association domain-containing protein 2;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: brain, retina
+P50895;BCAM;Basal cell adhesion molecule;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: kidney
+P50995;ANXA11;Annexin A11;Olink Explore Inflammation, Olink Target 96 Metabolism;Low tissue specificity
+P51161;FABP6;Gastrotropin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: intestine
+P51452;DUSP3;Dual specificity protein phosphatase 3;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: skeletal muscle
+P51580;TPMT;Thiopurine S-methyltransferase;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: kidney, liver, thyroid gland
+P51617;IRAK1;Interleukin-1 receptor-associated kinase 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P51693;APLP1;Amyloid beta precursor like protein 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: brain
+P51858;HDGF;Hepatoma-derived growth factor;Olink Explore Oncology, Olink Target 96 Metabolism;Low tissue specificity
+P51888;PRELP;Prolargin;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Low tissue specificity
+P52564;MAP2K6;Dual specificity mitogen-activated protein kinase kinase 6;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enhanced: skeletal muscle
+P52798;EFNA4;Ephrin-A4;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: skin 1
+P52823;STC1;Stanniocalcin-1;Olink Explore Neurology, Olink Target 96 Immune Response;Tissue enhanced: thyroid gland
+P52888;THOP1;Thimet oligopeptidase;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+P52943;CRIP2;Cysteine-rich protein 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: heart muscle
+P53539;FOSB;Protein FosB;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+P53582;METAP1;Methionine aminopeptidase 1;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+P53634;CTSC;Dipeptidyl peptidase 1;Olink Explore Inflammation, Olink Target 96 Neurology;Low tissue specificity
+P54760;EPHB4;Ephrin type-B receptor 4;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+P55008;AIF1;Allograft inflammatory factor 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: bone marrow, lymphoid tissue
+P55039;DRG2;Developmentally-regulated GTP-binding protein 2;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P55058;PLTP;Phospholipid transfer protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+P55103;INHBC;Inhibin beta C chain;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: liver
+P55145;MANF;Mesencephalic astrocyte-derived neurotrophic factor;Olink Explore Inflammation, Olink Target 96 Neurology;Low tissue specificity
+P55285;CDH6;Cadherin-6;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enhanced: kidney
+P55291;CDH15;Cadherin-15;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: brain, skeletal muscle
+P55774;CCL18;C-C motif chemokine 18;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: lung
+P55789;GFER;FAD-linked sulfhydryl oxidase ALR;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+P55808;XG;Glycoprotein Xg;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: skin 1
+P55957;BID;BH3-interacting domain death agonist;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow
+P56159;GFRA1;GDNF family receptor alpha-1;Olink Explore Oncology, Olink Target 96 Neurology;Low tissue specificity
+P56279;TCL1A;T-cell leukemia/lymphoma protein 1A;Olink Explore Neurology, Olink Target 96 Oncology II;Tissue enriched: lymphoid tissue
+P56470;LGALS4;Galectin-4;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enriched: intestine
+P57087;JAM2;Junctional adhesion molecule B;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: placenta
+P57771;RGS8;Regulator of G-protein signaling 8;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Group enriched: brain, retina
+P58294;PROK1;Prokineticin-1;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Group enriched: ovary, placenta, testis
+P58417;NXPH1;Neurexophilin-1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: adrenal gland, brain
+P58499;FAM3B;Protein FAM3B;Olink Explore Oncology, Olink Target 96 Immune Response;Tissue enhanced: intestine, pancreas, salivary gland, stomach 1
+P59665;DEFA1, DEFA1B;Neutrophil defensin 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: bone marrow, Tissue enriched: bone marrow
+P61244;MAX;Protein max;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+P62166;NCS1;Neuronal calcium sensor 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: brain
+P63098;PPP3R1;Calcineurin subunit B type 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: retina
+P63241;EIF5A;Eukaryotic translation initiation factor 5A-1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P63313;TMSB10;Thymosin beta-10;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+P68106;FKBP1B;Peptidyl-prolyl cis-trans isomerase FKBP1B;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: brain
+P78310;CXADR;Coxsackievirus and adenovirus receptor;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+P78324;SIRPA;Tyrosine-protein phosphatase non-receptor type substrate 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: brain
+P78325;ADAM8;Disintegrin and metalloproteinase domain-containing protein 8;Olink Explore Neurology, Olink Target 96 Oncology II;Tissue enhanced: bone marrow, lymphoid tissue
+P78333;GPC5;Glypican-5;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, kidney, testis
+P78362;SRPK2;SRSF protein kinase 2;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: testis
+P78410;BTN3A2;Butyrophilin subfamily 3 member A2;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+P78552;IL13RA1;Interleukin-13 receptor subunit alpha-1;Olink Explore Oncology, Olink Target 96 Development;Low tissue specificity
+P78560;CRADD;Death domain-containing protein CRADD;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+P80162;CXCL6;C-X-C motif chemokine 6;Olink Explore Inflammation, Olink Target 96 Inflammation;Group enriched: gallbladder, lymphoid tissue, urinary bladder
+P80188;LCN2;Neutrophil gelatinase-associated lipocalin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: bone marrow, gallbladder, salivary gland
+P80303;NUCB2;Nucleobindin-2;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: pancreas, salivary gland
+P80370;DLK1;Protein delta homolog 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: adrenal gland, pituitary gland, placenta
+P80511;S100A12;Protein S100-A12;Olink Explore Oncology, Olink Target 96 Inflammation;Tissue enriched: bone marrow
+P98073;TMPRSS15;Enteropeptidase;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: intestine
+P98082;DAB2;Disabled homolog 2;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enhanced: kidney, placenta
+P98160;HSPG2;Basement membrane-specific heparan sulfate proteoglycan core protein;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q01344;IL5RA;Interleukin-5 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Neurology;Tissue enhanced: brain, choroid plexus, fallopian tube
+Q01543;FLI1;Friend leukemia integration 1 transcription factor;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q01638;IL1RL1;Interleukin-1 receptor-like 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: kidney, lung, placenta
+Q01973;ROR1;Inactive tyrosine-protein kinase transmembrane receptor ROR1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: parathyroid gland
+Q02083;NAAA;N-acylethanolamine-hydrolyzing acid amidase;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q02246;CNTN2;Contactin-2;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: brain
+Q02487;DSC2;Desmocollin-2;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: esophagus, vagina
+Q02742;GCNT1;Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase;Olink Explore Oncology, Olink Target 96 Cell Regulation;Group enriched: intestine, parathyroid gland, stomach 1, thyroid gland
+Q02790;FKBP4;Peptidyl-prolyl cis-trans isomerase FKBP4;Olink Explore Neurology, Olink Target 96 Metabolism;Tissue enhanced: brain
+Q03167;TGFBR3;Transforming growth factor beta receptor type 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q03393;PTS;6-pyruvoyl tetrahydrobiopterin synthase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q03403;TFF2;Trefoil factor 2;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enriched: stomach 1
+Q03405;PLAUR;Urokinase plasminogen activator surface receptor;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+Q03426;MVK;Mevalonate kinase;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: liver
+Q03431;PTH1R;Parathyroid hormone/parathyroid hormone-related peptide receptor;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: kidney
+Q04637;EIF4G1;Eukaryotic translation initiation factor 4 gamma 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: skeletal muscle
+Q04759;PRKCQ;Protein kinase C theta type;Olink Explore Inflammation, Olink Target 96 Immune Response;Group enriched: lymphoid tissue, skeletal muscle, tongue
+Q04760;GLO1;Lactoylglutathione lyase;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Low tissue specificity
+Q04900;CD164;Sialomucin core protein 24;Olink Explore Neurology, Olink Target 96 Metabolism;Low tissue specificity
+Q05084;ICA1;Islet cell autoantigen 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q06141;REG3A;Regenerating islet-derived protein 3-alpha;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: intestine, pancreas
+Q06323;PSME1;Proteasome activator complex subunit 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q06418;TYRO3;Tyrosine-protein kinase receptor TYRO3;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: brain, ovary
+Q06520;SULT2A1;Sulfotransferase 2A1;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enriched: liver
+Q06830;PRDX1;Peroxiredoxin-1;Olink Explore Neurology, Olink Target 96 Immune Response;Low tissue specificity
+Q07065;CKAP4;Cytoskeleton-associated protein 4;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q07108;CD69;Early activation antigen CD69;Olink Explore Cardiometabolic, Olink Target 96 Development;Group enriched: bone marrow, lymphoid tissue
+Q07654;TFF3;Trefoil factor 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: cervix, intestine, salivary gland, thyroid gland
+Q07954;LRP1;Prolow-density lipoprotein receptor-related protein 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: adipose tissue
+Q07960;ARHGAP1;Rho GTPase-activating protein 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q08174;PCDH1;Protocadherin-1;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+Q08334;IL10RB;Interleukin-10 receptor subunit beta;Olink Explore Inflammation, Olink Target 96 Inflammation;Low tissue specificity
+Q08345;DDR1;Epithelial discoidin domain-containing receptor 1;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q08431;MFGE8;Lactadherin;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q08629;SPOCK1;Testican-1;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain
+Q08708;CD300C;CMRF35-like molecule 6;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: bone marrow, lung, lymphoid tissue
+Q0Z7S8;FABP9;Fatty acid-binding protein 9;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enriched: skin 1
+Q10471;GALNT2;Polypeptide N-acetylgalactosaminyltransferase 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q10588;BST1;ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2;Olink Explore Neurology, Olink Target 96 Development;Group enriched: bone marrow, intestine
+Q10589;BST2;Bone marrow stromal antigen 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: adrenal gland, ovary
+Q11128;FUT5;4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase FUT5;Olink Explore Neurology, Olink Target 96 Development;Not detected
+Q11201;ST3GAL1;CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q12778;FOXO1;Forkhead box protein O1;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: skeletal muscle
+Q12805;EFEMP1;EGF-containing fibulin-like extracellular matrix protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q12860;CNTN1;Contactin-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: brain
+Q12864;CDH17;Cadherin-17;Olink Explore Cardiometabolic, Olink Target 96 Neuro Exploratory;Tissue enriched: intestine
+Q12866;MERTK;Tyrosine-protein kinase Mer;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Low tissue specificity
+Q12884;FAP;Prolyl endopeptidase FAP;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: endometrium 1, smooth muscle
+Q12912;IRAG2;Inositol 1,4,5-triphosphate receptor associated 2;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Group enriched: bone marrow, lymphoid tissue
+Q12933;TRAF2;TNF receptor-associated factor 2;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q12968;NFATC3;Nuclear factor of activated T-cells, cytoplasmic 3;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+Q13007;IL24;Interleukin-24;Olink Explore Inflammation, Olink Target 96 Inflammation;Group enriched: intestine, lymphoid tissue, urinary bladder
+Q13043;STK4;Serine/threonine-protein kinase 4;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: bone marrow
+Q13093;PLA2G7;Platelet-activating factor acetylhydrolase;Olink Explore Neurology, Olink Target 96 Cardiometabolic;Tissue enhanced: lymphoid tissue, placenta
+Q13105;ZBTB17;Zinc finger and BTB domain-containing protein 17;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Low tissue specificity
+Q13145;BAMBI;BMP and activin membrane-bound inhibitor homolog;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: ovary
+Q13158;FADD;FAS-associated death domain protein;Olink Explore Cardiometabolic, Olink Target 96 Oncology II;Low tissue specificity
+Q13219;PAPPA;Pappalysin-1;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enriched: placenta
+Q13231;CHIT1;Chitotriosidase-1;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow, lung, lymphoid tissue
+Q13261;IL15RA;Interleukin-15 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Inflammation;Low tissue specificity
+Q13275;SEMA3F;Semaphorin-3F;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: esophagus
+Q13291;SLAMF1;Signaling lymphocytic activation molecule;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enriched: lymphoid tissue
+Q13308;PTK7;Inactive tyrosine-protein kinase 7;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+Q13332;PTPRS;Receptor-type tyrosine-protein phosphatase S;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q13361;MFAP5;Microfibrillar-associated protein 5;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: endometrium 1
+Q13421;MSLN;Mesothelin;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: fallopian tube, lung
+Q13444;ADAM15;Disintegrin and metalloproteinase domain-containing protein 15;Olink Explore Cardiometabolic, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q13451;FKBP5;Peptidyl-prolyl cis-trans isomerase FKBP5;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: skeletal muscle, tongue
+Q13459;MYO9B;Unconventional myosin-IXb;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+Q13478;IL18R1;Interleukin-18 receptor 1;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: lung, lymphoid tissue
+Q13490;BIRC2;Baculoviral IAP repeat-containing protein 2;Olink Explore Oncology, Olink Target 96 Immune Response;Low tissue specificity
+Q13541;EIF4EBP1;Eukaryotic translation initiation factor 4E-binding protein 1;Olink Explore Cardiometabolic, Olink Target 96 Inflammation;Tissue enhanced: pancreas, salivary gland
+Q13561;DCTN2;Dynactin subunit 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q13574;DGKZ;Diacylglycerol kinase zeta;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: brain
+Q13576;IQGAP2;Ras GTPase-activating-like protein IQGAP2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: liver
+Q13651;IL10RA;Interleukin-10 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: bone marrow, lymphoid tissue
+Q13740;ALCAM;CD166 antigen;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: parathyroid gland
+Q13822;ENPP2;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: brain, choroid plexus
+Q13867;BLMH;Bleomycin hydrolase;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: skin 1
+Q14005;IL16;Pro-interleukin-16;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: lymphoid tissue
+Q14108;SCARB2;Lysosome membrane protein 2;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q14112;NID2;Nidogen-2;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: placenta
+Q14118;DAG1;Dystroglycan 1;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q14162;SCARF1;Scavenger receptor class F member 1;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: lymphoid tissue
+Q14203;DCTN1;Dynactin subunit 1;Olink Explore Oncology, Olink Target 96 Immune Response;Low tissue specificity
+Q14241;ELOA;Elongin-A;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q14242;SELPLG;P-selectin glycoprotein ligand 1;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: lymphoid tissue
+Q14393;GAS6;Growth arrest-specific protein 6;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q14435;GALNT3;Polypeptide N-acetylgalactosaminyltransferase 3;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: stomach 1
+Q14508;WFDC2;WAP four-disulfide core domain protein 2;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: cervix, salivary gland
+Q14512;FGFBP1;Fibroblast growth factor-binding protein 1;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: esophagus, vagina
+Q14515;SPARCL1;SPARC-like protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q14696;MESD;LRP chaperone MESD;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q14767;LTBP2;Latent-transforming growth factor beta-binding protein 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q14773;ICAM4;Intercellular adhesion molecule 4;Olink Explore Inflammation, Olink Target 96 Oncology III;Group enriched: bone marrow, lung
+Q15109;AGER;Advanced glycosylation end product-specific receptor;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enriched: lung
+Q15113;PCOLCE;Procollagen C-endopeptidase enhancer 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q15126;PMVK;Phosphomevalonate kinase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q15155;NOMO1;Nodal modulator 1;Olink Explore Neurology, Olink Target 96 Metabolism;Tissue enhanced: pancreas
+Q15165;PON2;Serum paraoxonase/arylesterase 2;Olink Explore Cardiometabolic, Olink Target 96 Organ Damage;Tissue enhanced: brain
+Q15166;PON3;Serum paraoxonase/lactonase 3;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enriched: liver
+Q15303;ERBB4;Receptor tyrosine-protein kinase erbB-4;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: brain, fallopian tube
+Q15485;FCN2;Ficolin-2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+Q15517;CDSN;Corneodesmosin;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: skin 1
+Q15582;TGFBI;Transforming growth factor-beta-induced protein ig-h3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: placenta
+Q15661;TPSAB1;Tryptase alpha/beta-1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q15797;SMAD1;Mothers against decapentaplegic homolog 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q15828;CST6;Cystatin-M;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enriched: skin 1
+Q15846;CLUL1;Clusterin-like protein 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: retina
+Q16270;IGFBP7;Insulin-like growth factor-binding protein 7;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q16288;NTRK3;NT-3 growth factor receptor;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain
+Q16363;LAMA4;Laminin subunit alpha-4;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q16619;CTF1;Cardiotrophin-1;Olink Explore Cardiometabolic, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q16620;NTRK2;BDNF/NT-3 growth factors receptor;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enhanced: brain, thyroid gland
+Q16627;CCL14;C-C motif chemokine 14;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: lymphoid tissue
+Q16651;PRSS8;Prostasin;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: salivary gland
+Q16653;MOG;Myelin-oligodendrocyte glycoprotein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: brain
+Q16663;CCL15;C-C motif chemokine 15;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Group enriched: intestine, liver
+Q16674;MIA;Melanoma-derived growth regulatory protein;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: breast, pituitary gland, salivary gland, stomach 1
+Q16698;DECR1;2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], mitochondrial;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: heart muscle, liver
+Q16719;KYNU;Kynureninase;Olink Explore Inflammation, Olink Target 96 Neurology;Tissue enhanced: liver, urinary bladder
+Q16769;QPCT;Glutaminyl-peptide cyclotransferase;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adrenal gland, epididymis
+Q16773;KYAT1;Kynurenine--oxoglutarate transaminase 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q16775;HAGH;Hydroxyacylglutathione hydrolase, mitochondrial;Olink Explore Oncology, Olink Target 96 Neurology;Low tissue specificity
+Q16820;MEP1B;Meprin A subunit beta;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: intestine
+Q16853;AOC3;Membrane primary amine oxidase;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adipose tissue
+Q16864;ATP6V1F;V-type proton ATPase subunit F;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q2MKA7;RSPO1;R-spondin-1;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: cervix, endometrium 1
+Q2TAL6;VWC2;Brorin;Olink Explore Neurology, Olink Target 96 Neurology;Group enriched: brain, heart muscle, ovary
+Q2VWP7;PRTG;Protogenin;Olink Explore Oncology, Olink Target 96 Neurology;Tissue enhanced: retina, thyroid gland
+Q496F6;CD300E;CMRF35-like molecule 2;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: bone marrow, lymphoid tissue
+Q49AH0;CDNF;Cerebral dopamine neurotrophic factor;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: skeletal muscle, tongue
+Q4KMG0;CDON;Cell adhesion molecule-related/down-regulated by oncogenes;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q53H82;LACTB2;Endoribonuclease LACTB2;Olink Explore Cardiometabolic, Olink Target 96 Oncology III;Tissue enhanced: liver
+Q5JZY3;EPHA10;Ephrin type-A receptor 10;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain, intestine, testis
+Q5KU26;COLEC12;Collectin-12;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: cervix
+Q5T2D2;TREML2;Trem-like transcript 2 protein;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow, lymphoid tissue
+Q5T4W7;ARTN;Artemin;Olink Explore Inflammation, Olink Target 96 Inflammation;Low tissue specificity
+Q5VIR6;VPS53;Vacuolar protein sorting-associated protein 53 homolog;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q5VY43;PEAR1;Platelet endothelial aggregation receptor 1;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+Q6BAA4;FCRLB;Fc receptor-like B;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: lymphoid tissue
+Q6DN72;FCRL6;Fc receptor-like protein 6;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: bone marrow, lymphoid tissue
+Q6EIG7;CLEC6A;C-type lectin domain family 6 member A;Olink Explore Oncology, Olink Target 96 Immune Response;Tissue enhanced: lung, lymphoid tissue
+Q6EMK4;VASN;Vasorin;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q6GTX8;LAIR1;Leukocyte-associated immunoglobulin-like receptor 1;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: lung, lymphoid tissue
+Q6ISS4;LAIR2;Leukocyte-associated immunoglobulin-like receptor 2;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: lymphoid tissue, pituitary gland
+Q6NW40;RGMB;Repulsive guidance molecule B;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q6PCB0;VWA1;von Willebrand factor A domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: seminal vesicle
+Q6UB28;METAP1D;Methionine aminopeptidase 1D, mitochondrial;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+Q6UWL6;KIRREL2;Kin of IRRE-like protein 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: pancreas
+Q6UWV6;ENPP7;Ectonucleotide pyrophosphatase/phosphodiesterase family member 7;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enriched: intestine
+Q6UX15;LAYN;Layilin;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q6UX27;VSTM1;V-set and transmembrane domain-containing protein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: bone marrow
+Q6UXB2;CXCL17;C-X-C motif chemokine 17;Olink Explore Inflammation, Olink Target 96 Oncology II;Group enriched: esophagus, lung, salivary gland, stomach 1
+Q6UXB4;CLEC4G;C-type lectin domain family 4 member G;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: adipose tissue, liver, lymphoid tissue
+Q6UXD5;SEZ6L2;Seizure 6-like protein 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, pituitary gland
+Q6UXG3;CD300LG;CMRF35-like molecule 9;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: adipose tissue, breast, placenta
+Q6UXH1;CRELD2;Protein disulfide isomerase CRELD2;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q6UXH9;PAMR1;Inactive serine protease PAMR1;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q6UXK2;ISLR2;Immunoglobulin superfamily containing leucine-rich repeat protein 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: brain, testis
+Q6UXK5;LRRN1;Leucine-rich repeat neuronal protein 1;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enhanced: brain
+Q6WN34;CHRDL2;Chordin-like protein 2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: endometrium 1, gallbladder, lymphoid tissue, smooth muscle
+Q6YHK3;CD109;CD109 antigen;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: parathyroid gland
+Q6ZMJ2;SCARA5;Scavenger receptor class A member 5;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: urinary bladder
+Q6ZUJ8;PIK3AP1;Phosphoinositide 3-kinase adapter protein 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: liver, lymphoid tissue, salivary gland
+Q76LX8;ADAMTS13;A disintegrin and metalloproteinase with thrombospondin motifs 13;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+Q76M96;CCDC80;Coiled-coil domain-containing protein 80;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q7L5Y9;MAEA;E3 ubiquitin-protein transferase MAEA;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q7L8A9;VASH1;Tubulinyl-Tyr carboxypeptidase 1;Olink Explore Inflammation, Olink Target 96 Organ Damage;Tissue enhanced: retina
+Q7LG56;RRM2B;Ribonucleoside-diphosphate reductase subunit M2 B;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q7Z5A7;TAFA5;Chemokine-like protein TAFA-5;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: brain
+Q7Z5L0;VMO1;Vitelline membrane outer layer protein 1 homolog;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: lymphoid tissue, pituitary gland
+Q7Z5R6;APBB1IP;Amyloid beta A4 precursor protein-binding family B member 1-interacting protein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q7Z6M3;MILR1;Allergin-1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+Q7Z739;YTHDF3;YTH domain-containing family protein 3;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+Q86SF2;GALNT7;N-acetylgalactosaminyltransferase 7;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q86SJ2;AMIGO2;Amphoterin-induced protein 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q86SJ6;DSG4;Desmoglein-4;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: skin 1
+Q86SR1;GALNT10;Polypeptide N-acetylgalactosaminyltransferase 10;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: ovary
+Q86T13;CLEC14A;C-type lectin domain family 14 member A;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q86VB7;CD163;Scavenger receptor cysteine-rich type 1 protein M130;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+Q86VZ4;LRP11;Low-density lipoprotein receptor-related protein 11;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q86WD7;SERPINA9;Serpin A9;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enriched: lymphoid tissue
+Q86WV1;SKAP1;Src kinase-associated phosphoprotein 1;Olink Explore Neurology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q86Z14;KLB;Beta-klotho;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Group enriched: adipose tissue, liver, pancreas
+Q8IU54;IFNL1;Interferon lambda-1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Not detected
+Q8IU57;IFNLR1;Interferon lambda receptor 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q8IUK5;PLXDC1;Plexin domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: retina
+Q8IUN9;CLEC10A;C-type lectin domain family 10 member A;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: lymphoid tissue
+Q8IW75;SERPINA12;Serpin A12;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: skin 1
+Q8IWL2;SFTPA1;Pulmonary surfactant-associated protein A1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: lung
+Q8IWV2;CNTN4;Contactin-4;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: parathyroid gland
+Q8IX05;CD302;CD302 antigen;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: liver
+Q8IXJ6;SIRT2;NAD-dependent protein deacetylase sirtuin-2;Olink Explore Oncology, Olink Target 96 Inflammation;Tissue enhanced: skeletal muscle, tongue
+Q8IYS5;OSCAR;Osteoclast-associated immunoglobulin-like receptor;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Group enriched: bone marrow, lung, lymphoid tissue
+Q8IZP9;ADGRG2;Adhesion G-protein coupled receptor G2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: epididymis
+Q8N1Q1;CA13;Carbonic anhydrase 13;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: intestine
+Q8N2G4;LYPD1;Ly6/PLAUR domain-containing protein 1;Olink Explore Neurology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, fallopian tube, pituitary gland
+Q8N423;LILRB2;Leukocyte immunoglobulin-like receptor subfamily B member 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: bone marrow, lung, lymphoid tissue
+Q8N474;SFRP1;Secreted frizzled-related protein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: breast, choroid plexus
+Q8N5S9;CAMKK1;Calcium/calmodulin-dependent protein kinase kinase 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain
+Q8N608;DPP10;Inactive dipeptidyl peptidase 10;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: adrenal gland, brain, pancreas
+Q8N6P7;IL22RA1;Interleukin-22 receptor subunit alpha-1;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enriched: pancreas
+Q8N6Q3;CD177;CD177 antigen;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: bone marrow, intestine
+Q8N8S7;ENAH;Protein enabled homolog;Olink Explore Inflammation, Olink Target 96 Organ Damage;Low tissue specificity
+Q8NBI3;DRAXIN;Draxin;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: brain
+Q8NBJ7;SUMF2;Inactive C-alpha-formylglycine-generating enzyme 2;Olink Explore Neurology, Olink Target 96 Metabolism;Low tissue specificity
+Q8NBP7;PCSK9;Proprotein convertase subtilisin/kexin type 9;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: liver
+Q8NBS9;TXNDC5;Thioredoxin domain-containing protein 5;Olink Explore Neurology, Olink Target 96 Metabolism;Low tissue specificity
+Q8NC01;CLEC1A;C-type lectin domain family 1 member A;Olink Explore Cardiometabolic, Olink Target 96 Organ Damage;Tissue enhanced: lymphoid tissue, placenta
+Q8NDB2;BANK1;B-cell scaffold protein with ankyrin repeats;Olink Explore Inflammation, Olink Target 96 Organ Damage;Group enriched: intestine, lymphoid tissue
+Q8NEZ2;VPS37A;Vacuolar protein sorting-associated protein 37A;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q8NFP4;MDGA1;MAM domain-containing glycosylphosphatidylinositol anchor protein 1;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: brain
+Q8NFT8;DNER;Delta and Notch-like epidermal growth factor-related receptor;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: adrenal gland, brain, choroid plexus
+Q8NHJ6;LILRB4;Leukocyte immunoglobulin-like receptor subfamily B member 4;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lung, lymphoid tissue
+Q8NHL6;LILRB1;Leukocyte immunoglobulin-like receptor subfamily B member 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: lymphoid tissue
+Q8NI22;MCFD2;Multiple coagulation factor deficiency protein 2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q8TAD2;IL17D;Interleukin-17D;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Group enriched: brain, skeletal muscle
+Q8TCT1;PHOSPHO1;Phosphoethanolamine/phosphocholine phosphatase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: testis
+Q8TCZ2;CD99L2;CD99 antigen-like protein 2;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: skeletal muscle
+Q8TD06;AGR3;Anterior gradient protein 3;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: fallopian tube, intestine, lung
+Q8TD46;CD200R1;Cell surface glycoprotein CD200 receptor 1;Olink Explore Inflammation, Olink Target 96 Neurology;Tissue enhanced: lymphoid tissue
+Q8TDQ0;HAVCR2;Hepatitis A virus cellular receptor 2;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: lymphoid tissue
+Q8TDQ1;CD300LF;CMRF35-like molecule 1;Olink Explore Oncology, Olink Target 96 Neurology;Tissue enhanced: bone marrow, lung, lymphoid tissue
+Q8TE58;ADAMTS15;A disintegrin and metalloproteinase with thrombospondin motifs 15;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: adipose tissue
+Q8TEU8;WFIKKN2;WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2;Olink Explore Inflammation, Olink Target 96 Development;Group enriched: choroid plexus, ovary
+Q8WTT0;CLEC4C;C-type lectin domain family 4 member C;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: lymphoid tissue
+Q8WTU2;SSC4D;Scavenger receptor cysteine-rich domain-containing group B protein;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: kidney, parathyroid gland, pituitary gland
+Q8WUW1;BRK1;Protein BRICK1;Olink Explore Neurology, Olink Target 96 Oncology III;Low tissue specificity
+Q8WVQ1;CANT1;Soluble calcium-activated nucleotidase 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q8WX77;IGFBPL1;Insulin-like growth factor-binding protein-like 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: thyroid gland
+Q8WXI8;CLEC4D;C-type lectin domain family 4 member D;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: bone marrow
+Q8WYN0;ATG4A;Cysteine protease ATG4A;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q92520;FAM3C;Protein FAM3C;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q92558;WASF1;Actin-binding protein WASF1;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enhanced: brain, testis
+Q92597;NDRG1;Protein NDRG1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain
+Q92692;NECTIN2;Nectin-2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q92752;TNR;Tenascin-R;Olink Explore Neurology, Olink Target 96 Neurology;Group enriched: brain, retina
+Q92765;FRZB;Secreted frizzled-related protein 3;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: retina
+Q92823;NRCAM;Neuronal cell adhesion molecule;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enhanced: adrenal gland, brain, epididymis, retina
+Q92832;NELL1;Protein kinase C-binding protein NELL1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: brain, kidney
+Q92844;TANK;TRAF family member-associated NF-kappa-B activator;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q92876;KLK6;Kallikrein-6;Olink Explore Oncology, Olink Target 96 Cardiovascular III;Tissue enhanced: brain, esophagus
+Q92956;TNFRSF14;Tumor necrosis factor receptor superfamily member 14;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q92982;NINJ1;Ninjurin-1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: bone marrow
+Q969V3;NCLN;Nicalin;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+Q969Z4;RELT;Tumor necrosis factor receptor superfamily member 19L;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: bone marrow
+Q96AP7;ESAM;Endothelial cell-selective adhesion molecule;Olink Explore Cardiometabolic, Olink Target 96 Development;Low tissue specificity
+Q96B36;AKT1S1;Proline-rich AKT1 substrate 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q96B86;RGMA;Repulsive guidance molecule A;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: skeletal muscle
+Q96DB9;FXYD5;FXYD domain-containing ion transport regulator 5;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q96EK5;KIFBP;KIF-binding protein;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q96F46;IL17RA;Interleukin-17 receptor A;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: bone marrow
+Q96FQ6;S100A16;Protein S100-A16;Olink Explore Neurology, Olink Target 96 Oncology III;Tissue enhanced: esophagus
+Q96GP6;SCARF2;Scavenger receptor class F member 2;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q96GW7;BCAN;Brevican core protein;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: brain
+Q96H15;TIMD4;T-cell immunoglobulin and mucin domain-containing protein 4;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Group enriched: lymphoid tissue, testis
+Q96I15;SCLY;Selenocysteine lyase;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: liver
+Q96I82;KAZALD1;Kazal-type serine protease inhibitor domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q96IU4;ABHD14B;Putative protein-lysine deacylase ABHD14B;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q96J42;TXNDC15;Thioredoxin domain-containing protein 15;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q96JA1;LRIG1;Leucine-rich repeats and immunoglobulin-like domains protein 1;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enhanced: pancreas
+Q96KN2;CNDP1;Beta-Ala-His dipeptidase;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: brain
+Q96LA5;FCRL2;Fc receptor-like protein 2;Olink Explore Inflammation, Olink Target 96 Neurology;Group enriched: intestine, lymphoid tissue
+Q96LA6;FCRL1;Fc receptor-like protein 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Group enriched: bone marrow, intestine, lymphoid tissue
+Q96LC7;SIGLEC10;Sialic acid-binding Ig-like lectin 10;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q96NY8;NECTIN4;Nectin-4;Olink Explore Oncology, Olink Target 96 Oncology II;Group enriched: esophagus, salivary gland, skin 1, vagina
+Q96NZ8;WFIKKN1;WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 1;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q96P31;FCRL3;Fc receptor-like protein 3;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: lymphoid tissue
+Q96PL1;SCGB3A2;Secretoglobin family 3A member 2;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enriched: lung
+Q96PQ0;SORCS2;VPS10 domain-containing receptor SorCS2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain
+Q96RD9;FCRL5;Fc receptor-like protein 5;Olink Explore Neurology, Olink Target 96 Development;Tissue enriched: lymphoid tissue
+Q96RJ3;TNFRSF13C;Tumor necrosis factor receptor superfamily member 13C;Olink Explore Inflammation, Olink Target 96 Neuro Exploratory;Group enriched: intestine, lymphoid tissue
+Q96RT1;ERBIN;Erbin;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: brain
+Q96SB3;PPP1R9B;Neurabin-2;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: brain
+Q96SM3;CPXM1;Probable carboxypeptidase X1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: gallbladder
+Q99075;HBEGF;Proheparin-binding EGF-like growth factor;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enhanced: urinary bladder
+Q99426;TBCB;Tubulin-folding cofactor B;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain
+Q99497;PARK7;Parkinson disease protein 7;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q99523;SORT1;Sortilin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: brain
+Q99536;VAT1;Synaptic vesicle membrane protein VAT-1 homolog;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q99538;LGMN;Legumain;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q99650;OSMR;Oncostatin-M-specific receptor subunit beta;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Low tissue specificity
+Q99717;SMAD5;Mothers against decapentaplegic homolog 5;Olink Explore Oncology, Olink Target 96 Oncology II;Low tissue specificity
+Q99727;TIMP4;Metalloproteinase inhibitor 4;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: adipose tissue, breast
+Q99748;NRTN;Neurturin;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: heart muscle, pancreas
+Q99795;GPA33;Cell surface A33 antigen;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: intestine
+Q99895;CTRC;Chymotrypsin-C;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enriched: pancreas
+Q99969;RARRES2;Retinoic acid receptor responder protein 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: adrenal gland, liver, pancreas
+Q99972;MYOC;Myocilin;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: tongue
+Q99983;OMD;Osteomodulin;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q99988;GDF15;Growth/differentiation factor 15;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: kidney, urinary bladder
+Q9BQB4;SOST;Sclerostin;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: kidney
+Q9BQR3;PRSS27;Serine protease 27;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Group enriched: esophagus, vagina
+Q9BS26;ERP44;Endoplasmic reticulum resident protein 44;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q9BS40;LXN;Latexin;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: urinary bladder
+Q9BSL1;UBAC1;Ubiquitin-associated domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: skeletal muscle, tongue
+Q9BTE6;AARSD1;Alanyl-tRNA editing protein Aarsd1;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9BUD6;SPON2;Spondin-2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: endometrium 1
+Q9BW30;TPPP3;Tubulin polymerization-promoting protein family member 3;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: fallopian tube
+Q9BXJ1;C1QTNF1;Complement C1q tumor necrosis factor-related protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: adipose tissue, heart muscle
+Q9BXJ7;AMN;Protein amnionless;Olink Explore Inflammation, Olink Target 96 Organ Damage;Group enriched: intestine, kidney, liver
+Q9BXN2;CLEC7A;C-type lectin domain family 7 member A;Olink Explore Inflammation, Olink Target 96 Immune Response;Group enriched: bone marrow, lung, lymphoid tissue
+Q9BXY4;RSPO3;R-spondin-3;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: endometrium 1
+Q9BY76;ANGPTL4;Angiopoietin-related protein 4;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: adipose tissue, breast, liver
+Q9BYC5;FUT8;Alpha-(1,6)-fucosyltransferase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain
+Q9BYE9;CDHR2;Cadherin-related family member 2;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: intestine
+Q9BYF1;ACE2;Angiotensin-converting enzyme 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: gallbladder, intestine, kidney
+Q9BYH1;SEZ6L;Seizure 6-like protein;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: brain
+Q9BYZ8;REG4;Regenerating islet-derived protein 4;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enriched: intestine
+Q9BZM5;ULBP2;UL16-binding protein 2;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: esophagus
+Q9BZR6;RTN4R;Reticulon-4 receptor;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enhanced: brain, liver
+Q9BZZ2;SIGLEC1;Sialoadhesin;Olink Explore Inflammation, Olink Target 96 Neurology;Low tissue specificity
+Q9C035;TRIM5;Tripartite motif-containing protein 5;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q9C0C4;SEMA4C;Semaphorin-4C;Olink Explore Oncology, Olink Target 96 Cell Regulation;Low tissue specificity
+Q9GZM7;TINAGL1;Tubulointerstitial nephritis antigen-like;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9GZT9;EGLN1;Egl nine homolog 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: skeletal muscle
+Q9GZY6;LAT2;Linker for activation of T-cells family member 2;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow, lymphoid tissue
+Q9H0C8;ILKAP;Integrin-linked kinase-associated serine/threonine phosphatase 2C;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9H0P0;NT5C3A;Cytosolic 5'-nucleotidase 3A;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: skeletal muscle
+Q9H156;SLITRK2;SLIT and NTRK-like protein 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, retina
+Q9H1U4;MEGF9;Multiple epidermal growth factor-like domains protein 9;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: retina
+Q9H2A7;CXCL16;C-X-C motif chemokine 16;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q9H3G5;CPVL;Probable serine carboxypeptidase CPVL;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: lymphoid tissue
+Q9H3S3;TMPRSS5;Transmembrane protease serine 5;Olink Explore Neurology, Olink Target 96 Neurology;Group enriched: brain, choroid plexus
+Q9H3U7;SMOC2;SPARC-related modular calcium-binding protein 2;Olink Explore Inflammation, Olink Target 96 Neurology;Low tissue specificity
+Q9H477;RBKS;Ribokinase;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: liver
+Q9H4A9;DPEP2;Dipeptidase 2;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: bone marrow, lymphoid tissue
+Q9H4D0;CLSTN2;Calsyntenin-2;Olink Explore Inflammation, Olink Target 96 Metabolism;Group enriched: adipose tissue, brain, ovary
+Q9H4F8;SMOC1;SPARC-related modular calcium-binding protein 1;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: brain, liver
+Q9H5V8;CDCP1;CUB domain-containing protein 1;Olink Explore Neurology, Olink Target 96 Inflammation;Tissue enhanced: esophagus
+Q9H5Y7;SLITRK6;SLIT and NTRK-like protein 6;Olink Explore Cardiometabolic, Olink Target 96 Cell Regulation;Tissue enhanced: salivary gland, urinary bladder
+Q9H6B4;CLMP;CXADR-like membrane protein;Olink Explore Oncology, Olink Target 96 Metabolism;Tissue enhanced: adipose tissue
+Q9H773;DCTPP1;dCTP pyrophosphatase 1;Olink Explore Cardiometabolic, Olink Target 96 Oncology III;Low tissue specificity
+Q9H8J5;MANSC1;MANSC domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enhanced: salivary gland
+Q9HAN9;NMNAT1;Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1;Olink Explore Neurology, Olink Target 96 Neurology;Low tissue specificity
+Q9HAV5;EDA2R;Tumor necrosis factor receptor superfamily member 27;Olink Explore Oncology, Olink Target 96 Neurology;Low tissue specificity
+Q9HAW4;CLSPN;Claspin;Olink Explore Neurology, Olink Target 96 Organ Damage;Tissue enhanced: bone marrow, lymphoid tissue, retina, testis
+Q9HB29;IL1RL2;Interleukin-1 receptor-like 2;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: skin 1
+Q9HBB8;CDHR5;Cadherin-related family member 5;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Group enriched: intestine, liver
+Q9HBG7;LY9;T-lymphocyte surface antigen Ly-9;Olink Explore Inflammation, Olink Target 96 Oncology II;Tissue enhanced: bone marrow, intestine, lymphoid tissue
+Q9HCB6;SPON1;Spondin-1;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enhanced: gallbladder
+Q9HCK4;ROBO2;Roundabout homolog 2;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, retina
+Q9HCM2;PLXNA4;Plexin-A4;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: adipose tissue, brain
+Q9HCN6;GP6;Platelet glycoprotein VI;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Tissue enhanced: testis
+Q9HCU5;PREB;Prolactin regulatory element-binding protein;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+Q9HD26;GOPC;Golgi-associated PDZ and coiled-coil motif-containing protein;Olink Explore Inflammation, Olink Target 96 Oncology III;Low tissue specificity
+Q9HD89;RETN;Resistin;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enriched: bone marrow
+Q9NNX6;CD209;CD209 antigen;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enhanced: adipose tissue, placenta
+Q9NPH0;ACP6;Lysophosphatidic acid phosphatase type 6;Olink Explore Oncology, Olink Target 96 Metabolism;Low tissue specificity
+Q9NPY3;CD93;Complement component C1q receptor;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: placenta
+Q9NQ25;SLAMF7;SLAM family member 7;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: intestine, lymphoid tissue, stomach 1
+Q9NQ30;ESM1;Endothelial cell-specific molecule 1;Olink Explore Inflammation, Olink Target 96 Oncology II;Tissue enhanced: kidney, thyroid gland
+Q9NQ38;SPINK5;Serine protease inhibitor Kazal-type 5;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: esophagus, lymphoid tissue, skin 1, vagina
+Q9NQ76;MEPE;Matrix extracellular phosphoglycoprotein;Olink Explore Inflammation, Olink Target 96 Cardiovascular III;Tissue enriched: brain
+Q9NQ79;CRTAC1;Cartilage acidic protein 1;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enhanced: brain, fallopian tube, lung, seminal vesicle
+Q9NQ88;TIGAR;Fructose-2,6-bisphosphatase TIGAR;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9NQX5;NPDC1;Neural proliferation differentiation and control protein 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9NR28;DIABLO;Diablo IAP-binding mitochondrial protein;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9NR71;ASAH2;Neutral ceramidase;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: intestine
+Q9NRA1;PDGFC;Platelet-derived growth factor C;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: parathyroid gland
+Q9NRG1;PRTFDC1;Phosphoribosyltransferase domain-containing protein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9NRJ3;CCL28;C-C motif chemokine 28;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enriched: salivary gland
+Q9NRM6;IL17RB;Interleukin-17 receptor B;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Tissue enhanced: brain, kidney, liver
+Q9NS15;LTBP3;Latent-transforming growth factor beta-binding protein 3;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9NS68;TNFRSF19;Tumor necrosis factor receptor superfamily member 19;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: salivary gland, skin 1
+Q9NS71;GKN1;Gastrokine-1;Olink Explore Neurology, Olink Target 96 Cell Regulation;Tissue enriched: stomach 1
+Q9NTU7;CBLN4;Cerebellin-4;Olink Explore Oncology, Olink Target 96 Oncology III;Group enriched: adrenal gland, brain, epididymis
+Q9NWQ8;PAG1;Phosphoprotein associated with glycosphingolipid-enriched microdomains 1;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9NWZ3;IRAK4;Interleukin-1 receptor-associated kinase 4;Olink Explore Inflammation, Olink Target 96 Immune Response;Low tissue specificity
+Q9NX58;LYAR;Cell growth-regulating nucleolar protein;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: testis
+Q9NXA8;SIRT5;NAD-dependent protein deacylase sirtuin-5, mitochondrial;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9NY25;CLEC5A;C-type lectin domain family 5 member A;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: bone marrow
+Q9NYY1;IL20;Interleukin-20;Olink Explore Inflammation, Olink Target 96 Inflammation;Not detected
+Q9NZ53;PODXL2;Podocalyxin-like protein 2;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, pituitary gland
+Q9NZN5;ARHGEF12;Rho guanine nucleotide exchange factor 12;Olink Explore Inflammation, Olink Target 96 Cell Regulation;Low tissue specificity
+Q9NZV1;CRIM1;Cysteine-rich motor neuron 1 protein;Olink Explore Inflammation, Olink Target 96 Development;Tissue enhanced: placenta
+Q9P0G3;KLK14;Kallikrein-14;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: skin 1
+Q9P0J1;PDP1;[Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9P0K1;ADAM22;Disintegrin and metalloproteinase domain-containing protein 22;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: brain
+Q9P0V8;SLAMF8;SLAM family member 8;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: lymphoid tissue
+Q9P126;CLEC1B;C-type lectin domain family 1 member B;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enriched: liver
+Q9P1Z2;CALCOCO1;Calcium-binding and coiled-coil domain-containing protein 1;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q9UBG3;CRNN;Cornulin;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: esophagus, vagina
+Q9UBM4;OPTC;Opticin;Olink Explore Oncology, Olink Target 96 Cell Regulation;Not detected
+Q9UBP4;DKK3;Dickkopf-related protein 3;Olink Explore Cardiometabolic, Olink Target 96 Development;Tissue enriched: heart muscle
+Q9UBR2;CTSZ;Cathepsin Z;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q9UBT3;DKK4;Dickkopf-related protein 4;Olink Explore Neurology, Olink Target 96 Neurology;Tissue enhanced: brain, esophagus
+Q9UBU3;GHRL;Appetite-regulating hormone;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enriched: stomach 1
+Q9UBX1;CTSF;Cathepsin F;Olink Explore Oncology, Olink Target 96 Development;Low tissue specificity
+Q9UBX7;KLK11;Kallikrein-11;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: esophagus, salivary gland, skin 1, vagina
+Q9UDT6;CLIP2;CAP-Gly domain-containing linker protein 2;Olink Explore Inflammation, Olink Target 96 Oncology III;Tissue enhanced: brain
+Q9UEW3;MARCO;Macrophage receptor MARCO;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: liver, lung, lymphoid tissue
+Q9UGM5;FETUB;Fetuin-B;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+Q9UHC6;CNTNAP2;Contactin-associated protein-like 2;Olink Explore Inflammation, Olink Target 96 Immune Response;Group enriched: brain, retina
+Q9UHD8;SEPTIN9;Septin-9;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q9UHF1;EGFL7;Epidermal growth factor-like protein 7;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9UHF4;IL20RA;Interleukin-20 receptor subunit alpha;Olink Explore Inflammation, Olink Target 96 Inflammation;Tissue enhanced: breast, skin 1
+Q9UHL4;DPP7;Dipeptidyl peptidase 2;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9UHV9;PFDN2;Prefoldin subunit 2;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9UHX3;ADGRE2;Adhesion G protein-coupled receptor E2;Olink Explore Inflammation, Olink Target 96 Metabolism;Tissue enhanced: lymphoid tissue
+Q9UIB8;CD84;SLAM family member 5;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: lymphoid tissue
+Q9UJ71;CD207;C-type lectin domain family 4 member K;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: skin 1
+Q9UJ72;ANXA10;Annexin A10;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enriched: stomach 1
+Q9UJM8;HAO1;2-Hydroxyacid oxidase 1;Olink Explore Oncology, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+Q9UJY5;GGA1;ADP-ribosylation factor-binding protein GGA1;Olink Explore Neurology, Olink Target 96 Oncology III;Tissue enhanced: testis
+Q9UK05;GDF2;Growth/differentiation factor 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enriched: liver
+Q9UK53;ING1;Inhibitor of growth protein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9UK85;DKKL1;Dickkopf-like protein 1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enriched: testis
+Q9UKJ0;PILRB;Paired immunoglobulin-like type 2 receptor beta;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9UKJ1;PILRA;Paired immunoglobulin-like type 2 receptor alpha;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q9UKK9;NUDT5;ADP-sugar pyrophosphatase;Olink Explore Neurology, Olink Target 96 Development;Low tissue specificity
+Q9UKL0;RCOR1;REST corepressor 1;Olink Explore Cardiometabolic, Olink Target 96 Organ Damage;Low tissue specificity
+Q9UKP3;ITGB1BP2;Integrin beta-1-binding protein 2;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular II;Tissue enhanced: heart muscle, skeletal muscle, tongue
+Q9UKR0;KLK12;Kallikrein-12;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: cervix, esophagus, salivary gland, vagina
+Q9UKR3;KLK13;Kallikrein-13;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enriched: esophagus
+Q9UKS7;IKZF2;Zinc finger protein Helios;Olink Explore Oncology, Olink Target 96 Neuro Exploratory;Tissue enhanced: lymphoid tissue
+Q9UKX5;ITGA11;Integrin alpha-11;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: cervix, endometrium 1, smooth muscle
+Q9ULL4;PLXNB3;Plexin-B3;Olink Explore Cardiometabolic, Olink Target 96 Neurology;Tissue enriched: brain
+Q9ULX7;CA14;Carbonic anhydrase 14;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: choroid plexus, retina, skeletal muscle, tongue
+Q9UM47;NOTCH3;Neurogenic locus notch homolog protein 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q9UMF0;ICAM5;Intercellular adhesion molecule 5;Olink Explore Cardiometabolic, Olink Target 96 Oncology III;Tissue enriched: brain
+Q9UMR7;CLEC4A;C-type lectin domain family 4 member A;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: bone marrow, lymphoid tissue
+Q9UN19;DAPP1;Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: esophagus, lymphoid tissue
+Q9UNE0;EDAR;Tumor necrosis factor receptor superfamily member EDAR;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: esophagus
+Q9UNK0;STX8;Syntaxin-8;Olink Explore Inflammation, Olink Target 96 Organ Damage;Low tissue specificity
+Q9UPY6;WASF3;Actin-binding protein WASF3;Olink Explore Neurology, Olink Target 96 Cell Regulation;Tissue enhanced: brain, retina
+Q9UQQ2;SH2B3;SH2B adapter protein 3;Olink Explore Oncology, Olink Target 96 Immune Response;Tissue enhanced: bone marrow
+Q9Y240;CLEC11A;C-type lectin domain family 11 member A;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: bone marrow
+Q9Y275;TNFSF13B;Tumor necrosis factor ligand superfamily member 13B;Olink Explore Cardiometabolic, Olink Target 96 Cardiovascular III;Tissue enhanced: lymphoid tissue
+Q9Y279;VSIG4;V-set and immunoglobulin domain-containing protein 4;Olink Explore Neurology, Olink Target 96 Development;Tissue enhanced: lung
+Q9Y286;SIGLEC7;Sialic acid-binding Ig-like lectin 7;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Tissue enhanced: lymphoid tissue
+Q9Y2B0;CNPY2;Protein canopy homolog 2;Olink Explore Cardiometabolic, Olink Target 96 Oncology III;Low tissue specificity
+Q9Y2J8;PADI2;Protein-arginine deiminase type-2;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enhanced: brain, skeletal muscle, tongue
+Q9Y2V2;CARHSP1;Calcium-regulated heat-stable protein 1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: testis
+Q9Y2W6;TDRKH;Tudor and KH domain-containing protein;Olink Explore Neurology, Olink Target 96 Cell Regulation;Tissue enhanced: parathyroid gland, testis
+Q9Y336;SIGLEC9;Sialic acid-binding Ig-like lectin 9;Olink Explore Oncology, Olink Target 96 Neurology;Tissue enhanced: lymphoid tissue
+Q9Y3P8;SIT1;Signaling threshold-regulating transmembrane adapter 1;Olink Explore Inflammation, Olink Target 96 Immune Response;Tissue enriched: lymphoid tissue
+Q9Y478;PRKAB1;5'-AMP-activated protein kinase subunit beta-1;Olink Explore Inflammation, Olink Target 96 Organ Damage;Low tissue specificity
+Q9Y4K4;MAP4K5;Mitogen-activated protein kinase kinase kinase kinase 5;Olink Explore Neurology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9Y4X3;CCL27;C-C motif chemokine 27;Olink Explore Cardiometabolic, Olink Target 96 Neuro Exploratory;Tissue enriched: skin 1
+Q9Y5A7;NUB1;NEDD8 ultimate buster 1;Olink Explore Inflammation, Olink Target 96 Organ Damage;Low tissue specificity
+Q9Y5C1;ANGPTL3;Angiopoietin-related protein 3;Olink Explore Cardiometabolic, Olink Target 96 Cardiometabolic;Tissue enriched: liver
+Q9Y5K2;KLK4;Kallikrein-4;Olink Explore Oncology, Olink Target 96 Oncology III;Tissue enriched: prostate
+Q9Y5K6;CD2AP;CD2-associated protein;Olink Explore Cardiometabolic, Olink Target 96 Metabolism;Low tissue specificity
+Q9Y5K8;ATP6V1D;V-type proton ATPase subunit D;Olink Explore Oncology, Olink Target 96 Oncology III;Low tissue specificity
+Q9Y5L3;ENTPD2;Ectonucleoside triphosphate diphosphohydrolase 2;Olink Explore Oncology, Olink Target 96 Organ Damage;Tissue enhanced: brain
+Q9Y5P4;CERT1;Ceramide transfer protein;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9Y5V3;MAGED1;Melanoma-associated antigen D1;Olink Explore Oncology, Olink Target 96 Organ Damage;Low tissue specificity
+Q9Y5W5;WIF1;Wnt inhibitory factor 1;Olink Explore Oncology, Olink Target 96 Oncology II;Tissue enhanced: brain, retina
+Q9Y624;F11R;Junctional adhesion molecule A;Olink Explore Neurology, Olink Target 96 Cardiovascular III;Low tissue specificity
+Q9Y662;HS3ST3B1;Heparan sulfate glucosamine 3-O-sulfotransferase 3B1;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: liver, retina
+Q9Y680;FKBP7;Peptidyl-prolyl cis-trans isomerase FKBP7;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Tissue enhanced: ovary
+Q9Y6A5;TACC3;Transforming acidic coiled-coil-containing protein 3;Olink Explore Oncology, Olink Target 96 Cell Regulation;Tissue enhanced: bone marrow, lymphoid tissue, testis
+Q9Y6D9;MAD1L1;Mitotic spindle assembly checkpoint protein MAD1;Olink Explore Neurology, Olink Target 96 Neuro Exploratory;Low tissue specificity
+Q9Y6K9;IKBKG;NF-kappa-B essential modulator;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Low tissue specificity
+Q9Y6N7;ROBO1;Roundabout homolog 1;Olink Explore Inflammation, Olink Target 96 Development;Low tissue specificity
+Q9Y6Q6;TNFRSF11A;Tumor necrosis factor receptor superfamily member 11A;Olink Explore Inflammation, Olink Target 96 Cardiovascular II;Tissue enhanced: intestine, salivary gland
+A1E959;ODAM;Odontogenic ameloblast-associated protein;Olink Explore Neurology;Tissue enriched: salivary gland
+A1L4H1;SSC5D;Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D;Olink Explore Cardiometabolic;Tissue enhanced: endometrium 1
+B1AKI9;ISM1;Isthmin-1;Olink Explore Inflammation;Tissue enhanced: thyroid gland
+O00244;ATOX1;Copper transport protein ATOX1;Olink Explore Oncology;Low tissue specificity
+O00292;LEFTY2;Left-right determination factor 2;Olink Explore Oncology;Tissue enhanced: cervix, endometrium 1
+O00399;DCTN6;Dynactin subunit 6;Olink Explore Neurology;Low tissue specificity
+O00468;AGRN;Agrin;Olink Explore Inflammation;Low tissue specificity
+O00559;EBAG9;Receptor-binding cancer antigen expressed on SiSo cells;Olink Explore Neurology;Low tissue specificity
+O00584;RNASET2;Ribonuclease T2;Olink Explore Cardiometabolic;Low tissue specificity
+O00626;CCL22;C-C motif chemokine 22;Olink Explore Inflammation;Group enriched: intestine, lymphoid tissue, skin 1, urinary bladder
+O14523;C2CD2L;Phospholipid transfer protein C2CD2L;Olink Explore Neurology;Low tissue specificity
+O14579;COPE;Coatomer subunit epsilon;Olink Explore Neurology;Low tissue specificity
+O14618;CCS;Copper chaperone for superoxide dismutase;Olink Explore Neurology;Low tissue specificity
+O14737;PDCD5;Programmed cell death protein 5;Olink Explore Neurology;Low tissue specificity
+O14964;HGS;Hepatocyte growth factor-regulated tyrosine kinase substrate;Olink Explore Oncology;Low tissue specificity
+O14974;PPP1R12A;Protein phosphatase 1 regulatory subunit 12A;Olink Explore Oncology;Low tissue specificity
+O15116;LSM1;U6 snRNA-associated Sm-like protein LSm1;Olink Explore Oncology;Low tissue specificity
+O15117;FYB1;FYN-binding protein 1;Olink Explore Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+O15354;GPR37;Prosaposin receptor GPR37;Olink Explore Cardiometabolic;Group enriched: brain, retina
+O15389;SIGLEC5;Sialic acid-binding Ig-like lectin 5;Olink Explore Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+O15394;NCAM2;Neural cell adhesion molecule 2;Olink Explore Neurology;Group enriched: adrenal gland, brain, liver, testis
+O43598;DNPH1;2'-deoxynucleoside 5'-phosphate N-hydrolase 1;Olink Explore Inflammation;Low tissue specificity
+O43639;NCK2;Cytoplasmic protein NCK2;Olink Explore Inflammation;Low tissue specificity
+O43715;TRIAP1;TP53-regulated inhibitor of apoptosis 1;Olink Explore Oncology;Low tissue specificity
+O60496;DOK2;Docking protein 2;Olink Explore Cardiometabolic;Tissue enhanced: lung, lymphoid tissue
+O60635;TSPAN1;Tetraspanin-1;Olink Explore Cardiometabolic;Tissue enhanced: intestine
+O60664;PLIN3;Perilipin-3;Olink Explore Cardiometabolic;Low tissue specificity
+O60825;PFKFB2;6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2;Olink Explore Oncology;Tissue enhanced: retina
+O60828;PQBP1;Polyglutamine-binding protein 1;Olink Explore Oncology;Low tissue specificity
+O60884;DNAJA2;DnaJ homolog subfamily A member 2;Olink Explore Inflammation;Low tissue specificity
+O75340;PDCD6;Programmed cell death protein 6;Olink Explore Cardiometabolic;Low tissue specificity
+O75380;NDUFS6;NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial;Olink Explore Oncology;Tissue enhanced: skeletal muscle
+O75462;CRLF1;Cytokine receptor-like factor 1;Olink Explore Inflammation;Tissue enhanced: heart muscle
+O75493;CA11;Carbonic anhydrase-related protein 11;Olink Explore Oncology;Group enriched: brain, choroid plexus
+O75563;SKAP2;Src kinase-associated phosphoprotein 2;Olink Explore Inflammation;Low tissue specificity
+O75629;CREG1;Protein CREG1;Olink Explore Oncology;Low tissue specificity
+O76061;STC2;Stanniocalcin-2;Olink Explore Neurology;Tissue enriched: breast
+O76076;CCN5;CCN family member 5;Olink Explore Neurology;Tissue enhanced: adipose tissue, cervix
+O76096;CST7;Cystatin-F;Olink Explore Inflammation;Tissue enriched: bone marrow
+O94813;SLIT2;Slit homolog 2 protein;Olink Explore Neurology;Low tissue specificity
+O94856;NFASC;Neurofascin;Olink Explore Inflammation;Tissue enhanced: brain
+O94903;PLPBP;Pyridoxal phosphate homeostasis protein;Olink Explore Cardiometabolic;Low tissue specificity
+O95256;IL18RAP;Interleukin-18 receptor accessory protein;Olink Explore Neurology;Group enriched: bone marrow, lymphoid tissue
+O95466;FMNL1;Formin-like protein 1;Olink Explore Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+O95498;VNN2;Pantetheine hydrolase VNN2;Olink Explore Oncology;Tissue enhanced: bone marrow, lymphoid tissue
+O95684;CEP43;Centrosomal protein 43;Olink Explore Cardiometabolic;Tissue enhanced: testis
+O95817;BAG3;BAG family molecular chaperone regulator 3;Olink Explore Neurology;Tissue enhanced: brain, skeletal muscle
+O95866;MPIG6B;Megakaryocyte and platelet inhibitory receptor G6b;Olink Explore Inflammation;Tissue enhanced: lung, lymphoid tissue, skin 1
+O96017;CHEK2;Serine/threonine-protein kinase Chk2;Olink Explore Cardiometabolic;Low tissue specificity
+P00568;AK1;Adenylate kinase isoenzyme 1;Olink Explore Cardiometabolic;Tissue enhanced: skeletal muscle, tongue
+P00740;F9;Coagulation factor IX;Olink Explore Cardiometabolic;Tissue enriched: liver
+P01178;OXT;Oxytocin-neurophysin 1;Olink Explore Neurology;Tissue enriched: brain
+P01236;PRL;Prolactin;Olink Explore Neurology;Tissue enriched: pituitary gland
+P01903;HLA-DRA;HLA class II histocompatibility antigen, DR alpha chain;Olink Explore Inflammation;Tissue enhanced: lung, lymphoid tissue
+P02533;KRT14;Keratin, type I cytoskeletal 14;Olink Explore Neurology;Tissue enriched: skin 1
+P02749;APOH;Beta-2-glycoprotein 1;Olink Explore Neurology;Tissue enriched: liver
+P04054;PLA2G1B;Phospholipase A2;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P04118;CLPS;Colipase;Olink Explore Neurology;Tissue enriched: pancreas
+P04155;TFF1;Trefoil factor 1;Olink Explore Neurology;Tissue enriched: stomach 1
+P04746;AMY2A;Pancreatic alpha-amylase;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P05060;CHGB;Secretogranin-1;Olink Explore Neurology;Group enriched: adrenal gland, pituitary gland
+P05455;SSB;Lupus La protein;Olink Explore Neurology;Low tissue specificity
+P05783;KRT18;Keratin, type I cytoskeletal 18;Olink Explore Oncology;Low tissue specificity
+P05937;CALB1;Calbindin;Olink Explore Oncology;Tissue enriched: kidney
+P06733;ENO1;Alpha-enolase;Olink Explore Neurology;Low tissue specificity
+P06870;KLK1;Kallikrein-1;Olink Explore Oncology;Group enriched: pancreas, salivary gland
+P07108;DBI;Acyl-CoA-binding protein;Olink Explore Neurology;Low tissue specificity
+P07148;FABP1;Fatty acid-binding protein, liver;Olink Explore Inflammation;Group enriched: intestine, liver
+P07741;APRT;Adenine phosphoribosyltransferase;Olink Explore Neurology;Low tissue specificity
+P07858;CTSB;Cathepsin B;Olink Explore Cardiometabolic;Low tissue specificity
+P08134;RHOC;Rho-related GTP-binding protein RhoC;Olink Explore Neurology;Low tissue specificity
+P08174;CD55;Complement decay-accelerating factor;Olink Explore Cardiometabolic;Low tissue specificity
+P08263;GSTA1;Glutathione S-transferase A1;Olink Explore Cardiometabolic;Tissue enhanced: adrenal gland, kidney, liver
+P08319;ADH4;All-trans-retinol dehydrogenase [NAD(+)] ADH4;Olink Explore Cardiometabolic;Tissue enriched: liver
+P08571;CD14;Monocyte differentiation antigen CD14;Olink Explore Cardiometabolic;Tissue enhanced: liver
+P08758;ANXA5;Annexin A5;Olink Explore Neurology;Low tissue specificity
+P09093;CELA3A;Chymotrypsin-like elastase family member 3A;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P09496;CLTA;Clathrin light chain A;Olink Explore Cardiometabolic;Low tissue specificity
+P0DMV8;HSPA1A;Heat shock 70 kDa protein 1A;Olink Explore Inflammation;Low tissue specificity
+P10606;COX5B;Cytochrome c oxidase subunit 5B, mitochondrial;Olink Explore Oncology;Tissue enhanced: skeletal muscle
+P10644;PRKAR1A;cAMP-dependent protein kinase type I-alpha regulatory subunit;Olink Explore Cardiometabolic;Low tissue specificity
+P11684;SCGB1A1;Uteroglobin;Olink Explore Inflammation;Tissue enriched: lung
+P12081;HARS1;Histidine--tRNA ligase, cytoplasmic;Olink Explore Neurology;Low tissue specificity
+P12111;COL6A3;Collagen alpha-3(VI) chain;Olink Explore Cardiometabolic;Tissue enhanced: smooth muscle
+P12429;ANXA3;Annexin A3;Olink Explore Neurology;Tissue enhanced: bone marrow
+P12532;CKMT1A, CKMT1B;Creatine kinase U-type, mitochondrial;Olink Explore Inflammation;Tissue enhanced: esophagus, intestine, Tissue enhanced: brain, esophagus, intestine
+P13473;LAMP2;Lysosome-associated membrane glycoprotein 2;Olink Explore Neurology;Low tissue specificity
+P13647;KRT5;Keratin, type II cytoskeletal 5;Olink Explore Neurology;Group enriched: esophagus, skin 1, vagina
+P13807;GYS1;Glycogen [starch] synthase, muscle;Olink Explore Cardiometabolic;Group enriched: heart muscle, skeletal muscle, tongue
+P14136;GFAP;Glial fibrillary acidic protein;Olink Explore Oncology;Tissue enriched: brain
+P14207;FOLR2;Folate receptor beta;Olink Explore Neurology;Tissue enhanced: placenta
+P14209;CD99;CD99 antigen;Olink Explore Neurology;Low tissue specificity
+P14555;PLA2G2A;Phospholipase A2, membrane associated;Olink Explore Cardiometabolic;Group enriched: adipose tissue, intestine, placenta, urinary bladder
+P14868;DARS1;Aspartate--tRNA ligase, cytoplasmic;Olink Explore Neurology;Low tissue specificity
+P15336;ATF2;Cyclic AMP-dependent transcription factor ATF-2;Olink Explore Neurology;Low tissue specificity
+P17516;AKR1C4;Aldo-keto reductase family 1 member C4;Olink Explore Cardiometabolic;Tissue enriched: liver
+P17538;CTRB1;Chymotrypsinogen B;Olink Explore Neurology;Tissue enriched: pancreas
+P17676;CEBPB;CCAAT/enhancer-binding protein beta;Olink Explore Cardiometabolic;Low tissue specificity
+P18428;LBP;Lipopolysaccharide-binding protein;Olink Explore Cardiometabolic;Tissue enriched: liver
+P19440;GGT1;Glutathione hydrolase 1 proenzyme;Olink Explore Neurology;Tissue enhanced: kidney, liver
+P19876;CXCL3;C-X-C motif chemokine 3;Olink Explore Inflammation;Tissue enhanced: adipose tissue, cervix
+P19961;AMY2B;Alpha-amylase 2B;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P20774;OGN;Mimecan;Olink Explore Neurology;Tissue enhanced: cervix
+P20809;IL11;Interleukin-11;Olink Explore Inflammation;Low tissue specificity
+P20827;EFNA1;Ephrin-A1;Olink Explore Neurology;Tissue enhanced: liver
+P20851;C4BPB;C4b-binding protein beta chain;Olink Explore Oncology;Tissue enriched: liver
+P21549;AGXT;Alanine--glyoxylate aminotransferase;Olink Explore Cardiometabolic;Tissue enriched: liver
+P21709;EPHA1;Ephrin type-A receptor 1;Olink Explore Inflammation;Group enriched: esophagus, parathyroid gland
+P22079;LPO;Lactoperoxidase;Olink Explore Neurology;Tissue enriched: salivary gland
+P22304;IDS;Iduronate 2-sulfatase;Olink Explore Inflammation;Tissue enriched: brain
+P22307;SCP2;Sterol carrier protein 2;Olink Explore Oncology;Tissue enhanced: liver
+P22676;CALB2;Calretinin;Olink Explore Neurology;Tissue enhanced: adipose tissue, brain, breast
+P22692;IGFBP4;Insulin-like growth factor-binding protein 4;Olink Explore Neurology;Low tissue specificity
+P22894;MMP8;Neutrophil collagenase;Olink Explore Neurology;Tissue enriched: bone marrow
+P23276;KEL;Kell blood group glycoprotein;Olink Explore Neurology;Group enriched: bone marrow, testis
+P23381;WARS1;Tryptophan--tRNA ligase, cytoplasmic;Olink Explore Neurology;Tissue enhanced: placenta
+P26440;IVD;Isovaleryl-CoA dehydrogenase, mitochondrial;Olink Explore Neurology;Low tissue specificity
+P28906;CD34;Hematopoietic progenitor cell antigen CD34;Olink Explore Neurology;Low tissue specificity
+P28908;TNFRSF8;Tumor necrosis factor receptor superfamily member 8;Olink Explore Neurology;Tissue enhanced: adipose tissue
+P29279;CCN2;CCN family member 2;Olink Explore Inflammation;Low tissue specificity
+P29466;CASP1;Caspase-1;Olink Explore Neurology;Tissue enhanced: intestine, lymphoid tissue
+P29475;NOS1;Nitric oxide synthase, brain;Olink Explore Neurology;Group enriched: brain, skeletal muscle, tongue
+P30039;PBLD;Phenazine biosynthesis-like domain-containing protein;Olink Explore Neurology;Group enriched: intestine, kidney, liver
+P30613;PKLR;Pyruvate kinase PKLR;Olink Explore Inflammation;Tissue enhanced: bone marrow, kidney, liver
+P30740;SERPINB1;Leukocyte elastase inhibitor;Olink Explore Neurology;Tissue enhanced: bone marrow, esophagus
+P31146;CORO1A;Coronin-1A;Olink Explore Cardiometabolic;Group enriched: bone marrow, lymphoid tissue
+P31350;RRM2;Ribonucleoside-diphosphate reductase subunit M2;Olink Explore Oncology;Group enriched: bone marrow, esophagus, intestine, lymphoid tissue
+P31483;TIA1;Cytotoxic granule associated RNA binding protein TIA1;Olink Explore Cardiometabolic;Low tissue specificity
+P34896;SHMT1;Serine hydroxymethyltransferase, cytosolic;Olink Explore Inflammation;Tissue enhanced: kidney, liver
+P34913;EPHX2;Bifunctional epoxide hydrolase 2;Olink Explore Cardiometabolic;Tissue enhanced: liver
+P34947;GRK5;G protein-coupled receptor kinase 5;Olink Explore Cardiometabolic;Low tissue specificity
+P34949;MPI;Mannose-6-phosphate isomerase;Olink Explore Oncology;Low tissue specificity
+P34998;CRHR1;Corticotropin-releasing factor receptor 1;Olink Explore Cardiometabolic;Group enriched: brain, pituitary gland
+P35613;BSG;Basigin;Olink Explore Inflammation;Low tissue specificity
+P35625;TIMP3;Metalloproteinase inhibitor 3;Olink Explore Inflammation;Low tissue specificity
+P35813;PPM1A;Protein phosphatase 1A;Olink Explore Oncology;Tissue enhanced: bone marrow
+P36952;SERPINB5;Serpin B5;Olink Explore Cardiometabolic;Tissue enhanced: esophagus, skin 1, urinary bladder
+P36959;GMPR;GMP reductase 1;Olink Explore Inflammation;Tissue enhanced: skeletal muscle, tongue
+P37235;HPCAL1;Hippocalcin-like protein 1;Olink Explore Inflammation;Tissue enhanced: brain
+P39748;FEN1;Flap endonuclease 1;Olink Explore Oncology;Tissue enhanced: lymphoid tissue
+P40189;IL6ST;Interleukin-6 receptor subunit beta;Olink Explore Cardiometabolic;Low tissue specificity
+P41218;MNDA;Myeloid cell nuclear differentiation antigen;Olink Explore Cardiometabolic;Group enriched: bone marrow, lymphoid tissue
+P41222;PTGDS;Prostaglandin-H2 D-isomerase;Olink Explore Cardiometabolic;Tissue enhanced: brain, heart muscle, testis
+P41586;ADCYAP1R1;Pituitary adenylate cyclase-activating polypeptide type I receptor;Olink Explore Oncology;Tissue enriched: brain
+P43121;MCAM;Cell surface glycoprotein MUC18;Olink Explore Cardiometabolic;Low tissue specificity
+P45452;MMP13;Collagenase 3;Olink Explore Neurology;Tissue enriched: urinary bladder
+P45984;MAPK9;Mitogen-activated protein kinase 9;Olink Explore Inflammation;Low tissue specificity
+P46060;RANGAP1;Ran GTPase-activating protein 1;Olink Explore Oncology;Low tissue specificity
+P48047;ATP5PO;ATP synthase subunit O, mitochondrial;Olink Explore Neurology;Tissue enhanced: tongue
+P48304;REG1B;Lithostathine-1-beta;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P49767;VEGFC;Vascular endothelial growth factor C;Olink Explore Oncology;Low tissue specificity
+P50120;RBP2;Retinol-binding protein 2;Olink Explore Oncology;Tissue enriched: intestine
+P50453;SERPINB9;Serpin B9;Olink Explore Neurology;Tissue enhanced: lymphoid tissue, placenta
+P50583;NUDT2;Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical];Olink Explore Oncology;Low tissue specificity
+P51531;SMARCA2;Probable global transcription activator SNF2L2;Olink Explore Neurology;Low tissue specificity
+P51692;STAT5B;Signal transducer and activator of transcription 5B;Olink Explore Oncology;Low tissue specificity
+P52789;HK2;Hexokinase-2;Olink Explore Cardiometabolic;Tissue enhanced: retina
+P53985;SLC16A1;Monocarboxylate transporter 1;Olink Explore Neurology;Low tissue specificity
+P54317;PNLIPRP2;Pancreatic lipase-related protein 2;Olink Explore Inflammation;
+P54727;RAD23B;UV excision repair protein RAD23 homolog B;Olink Explore Oncology;Low tissue specificity
+P55082;MFAP3;Microfibril-associated glycoprotein 3;Olink Explore Cardiometabolic;Low tissue specificity
+P55259;GP2;Pancreatic secretory granule membrane major glycoprotein GP2;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+P55273;CDKN2D;Cyclin-dependent kinase 4 inhibitor D;Olink Explore Oncology;Tissue enhanced: bone marrow
+P58546;MTPN;Myotrophin;Olink Explore Cardiometabolic;Low tissue specificity
+P60484;PTEN;Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN;Olink Explore Neurology;Low tissue specificity
+P61218;POLR2F;DNA-directed RNA polymerases I, II, and III subunit RPABC2;Olink Explore Oncology;Low tissue specificity
+P61978;HNRNPK;Heterogeneous nuclear ribonucleoprotein K;Olink Explore Cardiometabolic;Low tissue specificity
+P62736;ACTA2;Actin, aortic smooth muscle;Olink Explore Cardiometabolic;Tissue enhanced: endometrium 1, seminal vesicle, smooth muscle
+P82980;RBP5;Retinol-binding protein 5;Olink Explore Oncology;Tissue enhanced: kidney, liver
+Q00796;SORD;Sorbitol dehydrogenase;Olink Explore Oncology;Tissue enhanced: cervix, liver
+Q01469;FABP5;Fatty acid-binding protein 5;Olink Explore Neurology;Group enriched: esophagus, vagina
+Q02643;GHRHR;Growth hormone-releasing hormone receptor;Olink Explore Neurology;Tissue enriched: pituitary gland
+Q02747;GUCA2A;Guanylin;Olink Explore Neurology;Tissue enriched: intestine
+Q03154;ACY1;Aminoacylase-1;Olink Explore Cardiometabolic;Group enriched: intestine, kidney, liver
+Q05315;CLC;Galectin-10;Olink Explore Cardiometabolic;Tissue enriched: bone marrow
+Q06033;ITIH3;Inter-alpha-trypsin inhibitor heavy chain H3;Olink Explore Cardiometabolic;Tissue enriched: liver
+Q06787;FMR1;Fragile X messenger ribonucleoprotein 1;Olink Explore Oncology;Low tissue specificity
+Q07507;DPT;Dermatopontin;Olink Explore Cardiometabolic;Low tissue specificity
+Q07812;BAX;Apoptosis regulator BAX;Olink Explore Neurology;Low tissue specificity
+Q08AG7;MZT1;Mitotic-spindle organizing protein 1;Olink Explore Oncology;Low tissue specificity
+Q12765;SCRN1;Secernin-1;Olink Explore Inflammation;Tissue enhanced: brain
+Q12794;HYAL1;Hyaluronidase-1;Olink Explore Cardiometabolic;Tissue enhanced: liver, lymphoid tissue
+Q12846;STX4;Syntaxin-4;Olink Explore Oncology;Low tissue specificity
+Q12918;KLRB1;Killer cell lectin-like receptor subfamily B member 1;Olink Explore Inflammation;Tissue enhanced: bone marrow, lymphoid tissue
+Q13232;NME3;Nucleoside diphosphate kinase 3;Olink Explore Inflammation;Low tissue specificity
+Q13426;XRCC4;DNA repair protein XRCC4;Olink Explore Neurology;Low tissue specificity
+Q13508;ART3;Ecto-ADP-ribosyltransferase 3;Olink Explore Cardiometabolic;Group enriched: heart muscle, skeletal muscle, testis, tongue
+Q14126;DSG2;Desmoglein-2;Olink Explore Neurology;Tissue enhanced: intestine, parathyroid gland
+Q14210;LY6D;Lymphocyte antigen 6D;Olink Explore Inflammation;Tissue enhanced: esophagus, skin 1, vagina
+Q14739;LBR;Delta(14)-sterol reductase LBR;Olink Explore Neurology;Low tissue specificity
+Q15043;SLC39A14;Metal cation symporter ZIP14;Olink Explore Neurology;Tissue enhanced: liver, pancreas
+Q15067;ACOX1;Peroxisomal acyl-coenzyme A oxidase 1;Olink Explore Cardiometabolic;Tissue enhanced: liver
+Q15427;SF3B4;Splicing factor 3B subunit 4;Olink Explore Oncology;Low tissue specificity
+Q15633;TARBP2;RISC-loading complex subunit TARBP2;Olink Explore Neurology;Low tissue specificity
+Q15814;TBCC;Tubulin-specific chaperone C;Olink Explore Neurology;Low tissue specificity
+Q15818;NPTX1;Neuronal pentraxin-1;Olink Explore Neurology;Tissue enriched: brain
+Q15831;STK11;Serine/threonine-protein kinase STK11;Olink Explore Cardiometabolic;Low tissue specificity
+Q16543;CDC37;Hsp90 co-chaperone Cdc37;Olink Explore Oncology;Low tissue specificity
+Q16595;FXN;Frataxin, mitochondrial;Olink Explore Oncology;Low tissue specificity
+Q16740;CLPP;ATP-dependent Clp protease proteolytic subunit, mitochondrial;Olink Explore Neurology;Low tissue specificity
+Q16762;TST;Thiosulfate sulfurtransferase;Olink Explore Neurology;Tissue enhanced: liver
+Q16772;GSTA3;Glutathione S-transferase A3;Olink Explore Oncology;Group enriched: adrenal gland, fallopian tube, placenta, skin 1
+Q16881;TXNRD1;Thioredoxin reductase 1, cytoplasmic;Olink Explore Neurology;Low tissue specificity
+Q3B7J2;GFOD2;Glucose-fructose oxidoreductase domain-containing protein 2;Olink Explore Oncology;Low tissue specificity
+Q3KPI0;CEACAM21;Carcinoembryonic antigen-related cell adhesion molecule 21;Olink Explore Inflammation;Tissue enhanced: bone marrow, lymphoid tissue
+Q4LE39;ARID4B;AT-rich interactive domain-containing protein 4B;Olink Explore Neurology;Low tissue specificity
+Q53H47;SETMAR;Histone-lysine N-methyltransferase SETMAR;Olink Explore Neurology;Low tissue specificity
+Q5JTD0;TJAP1;Tight junction-associated protein 1;Olink Explore Oncology;Low tissue specificity
+Q5R372;RABGAP1L;Rab GTPase-activating protein 1-like;Olink Explore Inflammation;Tissue enhanced: heart muscle
+Q5ZPR3;CD276;CD276 antigen;Olink Explore Inflammation;Low tissue specificity
+Q6FI81;CIAPIN1;Anamorsin;Olink Explore Oncology;Low tissue specificity
+Q6GTS8;PM20D1;N-fatty-acyl-amino acid synthase/hydrolase PM20D1;Olink Explore Cardiometabolic;Tissue enriched: pancreas
+Q6NXT1;ANKRD54;Ankyrin repeat domain-containing protein 54;Olink Explore Oncology;Low tissue specificity
+Q6P1M0;SLC27A4;Long-chain fatty acid transport protein 4;Olink Explore Neurology;Low tissue specificity
+Q6P1N0;CC2D1A;Coiled-coil and C2 domain-containing protein 1A;Olink Explore Neurology;Low tissue specificity
+Q6P2H3;CEP85;Centrosomal protein of 85 kDa;Olink Explore Oncology;Tissue enhanced: skeletal muscle, tongue
+Q6P4E1;GOLM2;Protein GOLM2;Olink Explore Neurology;Low tissue specificity
+Q6PGN9;PSRC1;Proline/serine-rich coiled-coil protein 1;Olink Explore Oncology;Group enriched: brain, choroid plexus, retina
+Q6PIL6;KCNIP4;Kv channel-interacting protein 4;Olink Explore Neurology;Tissue enhanced: brain, retina
+Q6PJW8;CNST;Consortin;Olink Explore Cardiometabolic;Low tissue specificity
+Q6UWL2;SUSD1;Sushi domain-containing protein 1;Olink Explore Cardiometabolic;Low tissue specificity
+Q6UWN8;SPINK6;Serine protease inhibitor Kazal-type 6;Olink Explore Oncology;Tissue enhanced: lymphoid tissue, salivary gland, vagina
+Q6UWW8;CES3;Carboxylesterase 3;Olink Explore Oncology;Tissue enhanced: intestine, liver, skeletal muscle
+Q6UX82;LYPD8;Ly6/PLAUR domain-containing protein 8;Olink Explore Oncology;Tissue enriched: intestine
+Q6XZF7;DNMBP;Dynamin-binding protein;Olink Explore Neurology;Low tissue specificity
+Q6ZMC9;SIGLEC15;Sialic acid-binding Ig-like lectin 15;Olink Explore Neurology;Tissue enhanced: breast, intestine, urinary bladder
+Q6ZMH5;SLC39A5;Zinc transporter ZIP5;Olink Explore Inflammation;Group enriched: intestine, kidney, liver, pancreas
+Q6ZMJ4;IL34;Interleukin-34;Olink Explore Neurology;Tissue enhanced: lymphoid tissue, skin 1
+Q7KYR7;BTN2A1;Butyrophilin subfamily 2 member A1;Olink Explore Inflammation;Low tissue specificity
+Q7L5N7;LPCAT2;Lysophosphatidylcholine acyltransferase 2;Olink Explore Oncology;Tissue enhanced: bone marrow, thyroid gland
+Q7Z434;MAVS;Mitochondrial antiviral-signaling protein;Olink Explore Oncology;Low tissue specificity
+Q7Z4W1;DCXR;L-xylulose reductase;Olink Explore Oncology;Tissue enriched: liver
+Q7Z6M1;RABEPK;Rab9 effector protein with kelch motifs;Olink Explore Oncology;Low tissue specificity
+Q7Z7D3;VTCN1;V-set domain-containing T-cell activation inhibitor 1;Olink Explore Oncology;Tissue enhanced: breast, fallopian tube, pancreas
+Q86U17;SERPINA11;Serpin A11;Olink Explore Cardiometabolic;Tissue enriched: liver
+Q86VW0;SESTD1;SEC14 domain and spectrin repeat-containing protein 1;Olink Explore Neurology;Low tissue specificity
+Q8IVG5;SAMD9L;Sterile alpha motif domain-containing protein 9-like;Olink Explore Inflammation;Tissue enhanced: lymphoid tissue
+Q8IWL1;SFTPA2;Pulmonary surfactant-associated protein A2;Olink Explore Oncology;Tissue enriched: lung
+Q8N129;CNPY4;Protein canopy homolog 4;Olink Explore Oncology;Low tissue specificity
+Q8N149;LILRA2;Leukocyte immunoglobulin-like receptor subfamily A member 2;Olink Explore Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+Q8N386;LRRC25;Leucine-rich repeat-containing protein 25;Olink Explore Oncology;Group enriched: bone marrow, lymphoid tissue
+Q8N9I9;DTX3;Probable E3 ubiquitin-protein ligase DTX3;Olink Explore Oncology;Low tissue specificity
+Q8NBZ7;UXS1;UDP-glucuronic acid decarboxylase 1;Olink Explore Oncology;Low tissue specificity
+Q8NCC3;PLA2G15;Phospholipase A2 group XV;Olink Explore Oncology;Tissue enhanced: skeletal muscle
+Q8NHS0;DNAJB8;DnaJ homolog subfamily B member 8;Olink Explore Cardiometabolic;Tissue enriched: testis
+Q8TCS8;PNPT1;Polyribonucleotide nucleotidyltransferase 1, mitochondrial;Olink Explore Inflammation;Low tissue specificity
+Q8TDL5;BPIFB1;BPI fold-containing family B member 1;Olink Explore Cardiometabolic;Tissue enhanced: cervix, salivary gland, stomach 1
+Q8TE57;ADAMTS16;A disintegrin and metalloproteinase with thrombospondin motifs 16;Olink Explore Cardiometabolic;Tissue enhanced: brain, ovary
+Q8WTV0;SCARB1;Scavenger receptor class B member 1;Olink Explore Neurology;Tissue enriched: adrenal gland
+Q8WU39;MZB1;Marginal zone B- and B1-cell-specific protein;Olink Explore Inflammation;Tissue enhanced: intestine, lymphoid tissue
+Q8WUX2;CHAC2;Glutathione-specific gamma-glutamylcyclotransferase 2;Olink Explore Oncology;Low tissue specificity
+Q8WV07;LTO1;Protein LTO1 homolog;Olink Explore Inflammation;Low tissue specificity
+Q8WV92;MITD1;MIT domain-containing protein 1;Olink Explore Neurology;Low tissue specificity
+Q8WWN9;IPCEF1;Interactor protein for cytohesin exchange factors 1;Olink Explore Neurology;Group enriched: bone marrow, brain, lymphoid tissue, thyroid gland
+Q8WWY7;WFDC12;WAP four-disulfide core domain protein 12;Olink Explore Oncology;Tissue enriched: skin 1
+Q8WXD2;SCG3;Secretogranin-3;Olink Explore Inflammation;Tissue enhanced: brain, pituitary gland, retina
+Q92484;SMPDL3A;Acid sphingomyelinase-like phosphodiesterase 3a;Olink Explore Inflammation;Low tissue specificity
+Q92609;TBC1D5;TBC1 domain family member 5;Olink Explore Inflammation;Low tissue specificity
+Q92820;GGH;Gamma-glutamyl hydrolase;Olink Explore Cardiometabolic;Tissue enhanced: kidney, liver
+Q92851;CASP10;Caspase-10;Olink Explore Neurology;Low tissue specificity
+Q92854;SEMA4D;Semaphorin-4D;Olink Explore Neurology;Tissue enhanced: brain
+Q92917;GPKOW;G-patch domain and KOW motifs-containing protein;Olink Explore Neurology;Low tissue specificity
+Q92932;PTPRN2;Receptor-type tyrosine-protein phosphatase N2;Olink Explore Neurology;Tissue enhanced: brain, pancreas
+Q969P0;IGSF8;Immunoglobulin superfamily member 8;Olink Explore Cardiometabolic;Tissue enhanced: brain
+Q96A56;TP53INP1;Tumor protein p53-inducible nuclear protein 1;Olink Explore Cardiometabolic;Tissue enhanced: liver
+Q96AX2;RAB37;Ras-related protein Rab-37;Olink Explore Inflammation;Tissue enhanced: bone marrow, brain, lymphoid tissue
+Q96CD2;PPCDC;Phosphopantothenoylcysteine decarboxylase;Olink Explore Neurology;Low tissue specificity
+Q96DU3;SLAMF6;SLAM family member 6;Olink Explore Oncology;Tissue enriched: lymphoid tissue
+Q96FE7;PIK3IP1;Phosphoinositide-3-kinase-interacting protein 1;Olink Explore Neurology;Low tissue specificity
+Q96JP9;CDHR1;Cadherin-related family member 1;Olink Explore Neurology;Group enriched: retina, skin 1
+Q96KG7;MEGF10;Multiple epidermal growth factor-like domains protein 10;Olink Explore Inflammation;Tissue enriched: brain
+Q96N03;VSTM2L;V-set and transmembrane domain-containing protein 2-like protein;Olink Explore Cardiometabolic;Tissue enhanced: brain, heart muscle
+Q96NA2;RILP;Rab-interacting lysosomal protein;Olink Explore Oncology;Tissue enhanced: heart muscle, skeletal muscle
+Q96NB1;CEP20;Centrosomal protein 20;Olink Explore Oncology;Low tissue specificity
+Q96PP9;GBP4;Guanylate-binding protein 4;Olink Explore Neurology;Low tissue specificity
+Q99435;NELL2;Protein kinase C-binding protein NELL2;Olink Explore Inflammation;Tissue enhanced: brain, fallopian tube, retina
+Q99549;MPHOSPH8;M-phase phosphoprotein 8;Olink Explore Cardiometabolic;Low tissue specificity
+Q99674;CGREF1;Cell growth regulator with EF hand domain protein 1;Olink Explore Cardiometabolic;Tissue enhanced: brain, salivary gland
+Q99683;MAP3K5;Mitogen-activated protein kinase kinase kinase 5;Olink Explore Oncology;Tissue enhanced: adrenal gland
+Q99685;MGLL;Monoglyceride lipase;Olink Explore Inflammation;Low tissue specificity
+Q9BRF8;CPPED1;Serine/threonine-protein phosphatase CPPED1;Olink Explore Neurology;Low tissue specificity
+Q9BSG5;RTBDN;Retbindin;Olink Explore Oncology;Tissue enriched: retina
+Q9BSW2;CRACR2A;EF-hand calcium-binding domain-containing protein 4B;Olink Explore Oncology;Tissue enhanced: bone marrow, intestine, salivary gland
+Q9BT73;PSMG3;Proteasome assembly chaperone 3;Olink Explore Inflammation;Low tissue specificity
+Q9BU40;CHRDL1;Chordin-like protein 1;Olink Explore Inflammation;Tissue enhanced: adipose tissue, seminal vesicle
+Q9BUE0;MED18;Mediator of RNA polymerase II transcription subunit 18;Olink Explore Oncology;Low tissue specificity
+Q9BXS1;IDI2;Isopentenyl-diphosphate delta-isomerase 2;Olink Explore Neurology;Tissue enriched: skeletal muscle
+Q9C005;DPY30;Protein dpy-30 homolog;Olink Explore Oncology;Low tissue specificity
+Q9H008;LHPP;Phospholysine phosphohistidine inorganic pyrophosphate phosphatase;Olink Explore Inflammation;Tissue enhanced: brain, choroid plexus
+Q9H1C3;GLT8D2;Glycosyltransferase 8 domain-containing protein 2;Olink Explore Neurology;Low tissue specificity
+Q9H2W6;MRPL46;39S ribosomal protein L46, mitochondrial;Olink Explore Neurology;Low tissue specificity
+Q9H3R2;MUC13;Mucin-13;Olink Explore Neurology;Tissue enriched: intestine
+Q9H446;RWDD1;RWD domain-containing protein 1;Olink Explore Neurology;Low tissue specificity
+Q9H4P4;RNF41;E3 ubiquitin-protein ligase NRDP1;Olink Explore Oncology;Low tissue specificity
+Q9H6S3;EPS8L2;Epidermal growth factor receptor kinase substrate 8-like protein 2;Olink Explore Oncology;Tissue enhanced: esophagus
+Q9H7M9;VSIR;V-type immunoglobulin domain-containing suppressor of T-cell activation;Olink Explore Cardiometabolic;Tissue enhanced: bone marrow, lymphoid tissue
+Q9HA65;TBC1D17;TBC1 domain family member 17;Olink Explore Neurology;Tissue enhanced: skeletal muscle
+Q9HAT2;SIAE;Sialate O-acetylesterase;Olink Explore Oncology;Tissue enhanced: intestine
+Q9HAV7;GRPEL1;GrpE protein homolog 1, mitochondrial;Olink Explore Oncology;Low tissue specificity
+Q9HC38;GLOD4;Glyoxalase domain-containing protein 4;Olink Explore Inflammation;Low tissue specificity
+Q9HD42;CHMP1A;Charged multivesicular body protein 1a;Olink Explore Neurology;Low tissue specificity
+Q9NP70;AMBN;Ameloblastin;Olink Explore Inflammation;Not detected
+Q9NP79;VTA1;Vacuolar protein sorting-associated protein VTA1 homolog;Olink Explore Neurology;Low tissue specificity
+Q9NPH3;IL1RAP;Interleukin-1 receptor accessory protein;Olink Explore Neurology;Tissue enriched: liver
+Q9NPH6;OBP2B;Odorant-binding protein 2b;Olink Explore Neurology;Tissue enhanced: skin 1, testis
+Q9NR12;PDLIM7;PDZ and LIM domain protein 7;Olink Explore Inflammation;Tissue enhanced: endometrium 1, skeletal muscle
+Q9NRD8;DUOX2;Dual oxidase 2;Olink Explore Cardiometabolic;Tissue enhanced: gallbladder, thyroid gland, urinary bladder
+Q9NRV9;HEBP1;Heme-binding protein 1;Olink Explore Cardiometabolic;Tissue enhanced: intestine
+Q9NRW1;RAB6B;Ras-related protein Rab-6B;Olink Explore Neurology;Tissue enriched: brain
+Q9NSK7;C19orf12;Protein C19orf12;Olink Explore Neurology;Tissue enhanced: adipose tissue, tongue
+Q9NUY8;TBC1D23;TBC1 domain family member 23;Olink Explore Oncology;Low tissue specificity
+Q9NZC2;TREM2;Triggering receptor expressed on myeloid cells 2;Olink Explore Inflammation;Tissue enhanced: brain, choroid plexus, lung
+Q9NZD4;AHSP;Alpha-hemoglobin-stabilizing protein;Olink Explore Neurology;Tissue enriched: bone marrow
+Q9NZK5;ADA2;Adenosine deaminase 2;Olink Explore Cardiometabolic;Tissue enhanced: lymphoid tissue
+Q9NZT2;OGFR;Opioid growth factor receptor;Olink Explore Oncology;Low tissue specificity
+Q9P232;CNTN3;Contactin-3;Olink Explore Neurology;Tissue enhanced: brain
+Q9UBB4;ATXN10;Ataxin-10;Olink Explore Neurology;Low tissue specificity
+Q9UBW5;BIN2;Bridging integrator 2;Olink Explore Neurology;Tissue enhanced: bone marrow, lymphoid tissue
+Q9UGT4;SUSD2;Sushi domain-containing protein 2;Olink Explore Neurology;Tissue enhanced: lung
+Q9UHD0;IL19;Interleukin-19;Olink Explore Cardiometabolic;Group enriched: cervix, salivary gland
+Q9UII2;ATP5IF1;ATPase inhibitor, mitochondrial;Olink Explore Inflammation;Low tissue specificity
+Q9UJ68;MSRA;Mitochondrial peptide methionine sulfoxide reductase;Olink Explore Oncology;Tissue enhanced: kidney, liver
+Q9UJA9;ENPP5;Ectonucleotide pyrophosphatase/phosphodiesterase family member 5;Olink Explore Inflammation;Tissue enriched: epididymis
+Q9UJU6;DBNL;Drebrin-like protein;Olink Explore Inflammation;Low tissue specificity
+Q9UKU9;ANGPTL2;Angiopoietin-related protein 2;Olink Explore Inflammation;Low tissue specificity
+Q9UKV5;AMFR;E3 ubiquitin-protein ligase AMFR;Olink Explore Neurology;Low tissue specificity
+Q9UL46;PSME2;Proteasome activator complex subunit 2;Olink Explore Neurology;Low tissue specificity
+Q9UM07;PADI4;Protein-arginine deiminase type-4;Olink Explore Neurology;Group enriched: bone marrow, lymphoid tissue
+Q9UNZ2;NSFL1C;NSFL1 cofactor p47;Olink Explore Neurology;Low tissue specificity
+Q9UP79;ADAMTS8;A disintegrin and metalloproteinase with thrombospondin motifs 8;Olink Explore Oncology;Tissue enhanced: lung
+Q9UPV0;CEP164;Centrosomal protein of 164 kDa;Olink Explore Inflammation;Low tissue specificity
+Q9UQB8;BAIAP2;Brain-specific angiogenesis inhibitor 1-associated protein 2;Olink Explore Oncology;Low tissue specificity
+Q9Y223;GNE;Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase;Olink Explore Oncology;Group enriched: intestine, liver, salivary gland
+Q9Y243;AKT3;RAC-gamma serine/threonine-protein kinase;Olink Explore Oncology;Tissue enhanced: brain
+Q9Y258;CCL26;C-C motif chemokine 26;Olink Explore Inflammation;Tissue enhanced: ovary, pituitary gland
+Q9Y265;RUVBL1;RuvB-like 1;Olink Explore Oncology;Low tissue specificity
+Q9Y266;NUDC;Nuclear migration protein nudC;Olink Explore Inflammation;Low tissue specificity
+Q9Y2Z0;SUGT1;Protein SGT1 homolog;Olink Explore Oncology;Low tissue specificity
+Q9Y3D6;FIS1;Mitochondrial fission 1 protein;Olink Explore Inflammation;Low tissue specificity
+Q9Y4L1;HYOU1;Hypoxia up-regulated protein 1;Olink Explore Cardiometabolic;Tissue enhanced: liver
+Q9Y570;PPME1;Protein phosphatase methylesterase 1;Olink Explore Oncology;Low tissue specificity
+Q9Y5X1;SNX9;Sorting nexin-9;Olink Explore Cardiometabolic;Low tissue specificity
+Q9Y639;NPTN;Neuroplastin;Olink Explore Oncology;Low tissue specificity
+Q9Y6E0;STK24;Serine/threonine-protein kinase 24;Olink Explore Neurology;Low tissue specificity
+Q9Y6Y9;LY96;Lymphocyte antigen 96;Olink Explore Neurology;Low tissue specificity
+
